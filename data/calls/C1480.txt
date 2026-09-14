@@ -1,0 +1,9 @@
+Call C1480 | support | inbound | 2026-03-13 15:51 | 3 min
+Hollins Rota: Dev Grant | Caller: Kwame, Mallard Dining Rooms
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:22] KWAME: Hi, it is Kwame at Mallard Dining Rooms. I wrote in about publish does nothing and I have not heard anything.
+[00:45] DEV: Let me find it. Ticket 14311. Give me a second.
+[00:56] DEV: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:19] KWAME: Brilliant, thank you.
+[01:29] DEV: Anything else? No? Thanks for calling.

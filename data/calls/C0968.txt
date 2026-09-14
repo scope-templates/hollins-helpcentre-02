@@ -1,0 +1,9 @@
+Call C0968 | cs check in | outbound | 2026-02-01 12:48 | 4 min
+Hollins Rota: Declan Furey | Caller: Leila, Linden Sports Centre
+
+[00:00] DECLAN: Hi Leila, Declan here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:22] LEILA: We have had a few problems. Ticket 12205, shifts deleted by mistake, that one took a while.
+[00:42] DECLAN: I am sorry about that. Let me look into it while we talk.
+[00:57] LEILA: And we still need an offline mode for the app.
+[01:13] DECLAN: I will get the transfer fixed this week and chase an offline mode for the app with the product team, I will come back to you by Friday with a date.
+[01:35] DECLAN: Thanks for the time. I will send the notes over.

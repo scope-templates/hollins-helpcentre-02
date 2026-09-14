@@ -1,0 +1,9 @@
+Call C0793 | cs check in | outbound | 2026-04-10 12:55 | 3 min
+Hollins Rota: Georgia Lamb | Caller: Meera, The Wheelwright Cafe
+
+[00:00] GEORGIA: Hi Meera, Georgia here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:19] MEERA: We have had a few problems. Ticket 5728, api key, that one took a while.
+[00:33] GEORGIA: I know, that one has come up a few times this month.
+[00:45] MEERA: And we still need a till integration.
+[01:00] GEORGIA: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:19] GEORGIA: Thanks for the time. I will send the notes over.

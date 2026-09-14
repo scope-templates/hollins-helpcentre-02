@@ -1,0 +1,8 @@
+Call C1323 | support | inbound | 2026-07-22 11:28 | 2 min
+Hollins Rota: Cerys Reid | Caller: Leila, The Coalyard Grill
+
+[00:00] CERYS: Hollins Rota support, Cerys speaking. 
+[00:12] LEILA: Hi, Leila from The Coalyard Grill. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:34] CERYS: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[00:58] LEILA: Ok, I will tell them.
+[01:11] CERYS: Anything else? No? Thanks for calling.

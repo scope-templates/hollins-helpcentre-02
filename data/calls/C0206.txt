@@ -1,0 +1,17 @@
+Call C0206 | inbound sales | inbound | 2026-01-09 17:03 | 4 min
+Hollins Rota: Priyanka Mehta | Caller: Kwame, Copperfield Cafe
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] KWAME: Hi, we run Copperfield Cafe, a cafe with about 8 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:42] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:59] KWAME: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:14] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:43] KWAME: What does it cost for 8?
+[01:53] PRIYANKA: On the team plan it is two pounds sixty per active member of staff a month, so about 20 pounds, billed monthly, no contract.
+[02:16] KWAME: The other thing we need is a till integration. Is that there?
+[02:30] PRIYANKA: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[02:54] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:10] KWAME: Go on then.
+[03:20] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:42] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:02] KWAME: Perfect, thanks.

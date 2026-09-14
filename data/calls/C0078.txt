@@ -1,0 +1,18 @@
+Call C0078 | inbound sales | inbound | 2025-12-12 11:26 | 5 min
+Hollins Rota: Tamsin Cole | Caller: Fraser, Ostler's Bar
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] FRASER: Hi, we run Ostler's Bar, a leisure centre with about 8 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:50] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] FRASER: Two sites. I run two venues and the same people work at both.
+[01:20] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:47] FRASER: Does the app work in the cellar? We have no signal down there.
+[02:04] TAMSIN: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:25] FRASER: We have also been talking to Clockwise Crew. To be honest the demo was slicker.
+[02:40] TAMSIN: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:00] FRASER: The other thing we need is a till integration. Is that there?
+[03:14] TAMSIN: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[03:33] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:54] FRASER: Go on then.
+[04:04] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:23] FRASER: Perfect, thanks.

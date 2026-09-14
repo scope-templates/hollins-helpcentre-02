@@ -1,0 +1,9 @@
+Call C1438 | support | inbound | 2026-02-13 15:28 | 3 min
+Hollins Rota: Pip Iqbal | Caller: Hattie, Larkspur Dining Rooms
+
+[00:00] PIP: Hollins Rota support, Pip speaking. Just so you know, this call is recorded for training and quality.
+[00:18] HATTIE: Hi, it is Hattie at Larkspur Dining Rooms. I wrote in about half hour break in the total? and I have not heard anything.
+[00:40] PIP: Let me find it. Ticket 7155. Give me a second.
+[00:55] PIP: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:17] HATTIE: Brilliant, thank you.
+[01:27] PIP: Anything else? No? Thanks for calling.

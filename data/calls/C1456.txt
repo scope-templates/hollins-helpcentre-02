@@ -1,0 +1,9 @@
+Call C1456 | support | inbound | 2025-10-08 09:53 | 4 min
+Hollins Rota: Imogen Yates | Caller: Hattie, Sedgemill Leisure Centre
+
+[00:00] IMOGEN: Hollins Rota support, Imogen speaking. Just so you know, this call is recorded for training and quality.
+[00:18] HATTIE: Hi, it is Hattie at Sedgemill Leisure Centre. I wrote in about following up: changing a rate from a date and I have not heard anything.
+[00:43] IMOGEN: Let me find it. Ticket 10316. Give me a second.
+[00:56] IMOGEN: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:15] HATTIE: Brilliant, thank you.
+[01:28] IMOGEN: Anything else? No? Thanks for calling.

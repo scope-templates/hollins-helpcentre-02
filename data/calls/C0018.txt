@@ -1,0 +1,13 @@
+Call C0018 | inbound sales | inbound | 2026-08-21 17:24 | 5 min
+Hollins Rota: Oscar Lindgren | Caller: Hattie, Pennyfield Leisure Centre (11 sites)
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. How can I help?
+[00:16] HATTIE: Hi, we run Pennyfield Leisure Centre (11 sites), a bar with about 18 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:46] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] HATTIE: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:23] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:53] HATTIE: Does the app work in the cellar? We have no signal down there.
+[02:09] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:30] HATTIE: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:49] HATTIE: Let me think about it and come back to you.
+[03:00] OSCAR: No problem, I will email you what we talked about. Speak soon.

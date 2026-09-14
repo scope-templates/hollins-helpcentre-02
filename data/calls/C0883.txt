@@ -1,0 +1,10 @@
+Call C0883 | cs check in | outbound | 2026-05-29 13:03 | 3 min
+Hollins Rota: Declan Furey | Caller: Gwen, The Coalyard
+
+[00:00] DECLAN: Hi Gwen, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] GWEN: We have had a few problems. Ticket 6444, cancelling a booking, that one took a while.
+[00:48] DECLAN: I am sorry about that. Let me look into it while we talk.
+[01:00] GWEN: And we still need a till integration.
+[01:11] DECLAN: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:32] GWEN: I will be honest, RotaHub have been in touch and it has the payroll link built in. We renew in a few months.
+[01:53] DECLAN: I hear you. Let me come back with something on price before then.

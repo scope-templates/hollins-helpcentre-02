@@ -1,0 +1,19 @@
+Call C0172 | inbound sales | inbound | 2026-05-07 11:19 | 4 min
+Hollins Rota: Kwabena Asante | Caller: Saoirse, The Wharf Kitchen
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] SAOIRSE: Hi, we run The Wharf Kitchen, a bistro with about 12 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:44] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] SAOIRSE: Two sites. I run two venues and the same people work at both.
+[01:18] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] SAOIRSE: Does the app work in the cellar? We have no signal down there.
+[01:59] KWABENA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:20] SAOIRSE: We have also been talking to Clockwise Crew. To be honest it does the tronc split for us.
+[02:35] KWABENA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:53] SAOIRSE: The other thing we need is a tronc split. Is that there?
+[03:08] KWABENA: The tronc split is in the next release, definitely before your opening.
+[03:22] KWABENA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:41] SAOIRSE: Go on then.
+[03:52] KWABENA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:14] KWABENA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:34] SAOIRSE: Perfect, thanks.

@@ -15,7 +15,9 @@ SECTIONS = (
 CHANNELS = ("email", "app")
 PLANS = ("starter", "team", "venue")
 STATUSES = ("open", "replied", "closed")
-DESK = ("Priya Nair", "Callum Doyle", "Marcus Hollins")
+DESK = (
+    "Priya Nair", "Dara Vance", "Sana Dunne", "Pip Iqbal", "Dev Grant", "Imogen Yates", "Maya Ellis", "Xavier Bishop", "Wren Parry", "Owen Tanaka", "Priya Evans", "Cerys Reid", "Mo Pryce", "Aisha Ahmed", "Ivy Lindqvist", "Nico Fletcher", "Lena Haddad", "Callum Rahman", "Callum Doyle", "Gus Turner", "Marcus Rossi", "Petra Whitfield", "Kieran Delgado", "Eilidh Kaur", "Lou Sato", "Umar Oyelaran", "Bea Lowe", "Jade Marsh", "Esme Varga", "Jun Yilmaz", "Eli Zielinski", "Hana Sheridan", "Chloe Jensen", "Will Usher", "Jonah Hollins", "Hamid Patel", "Yasmin Kelly", "Kit Walsh", "Oona Brennan", "Ben Cole", "Abe Nair", "Farah Moran", "Quinn Byrne", "Yara Gibson", "Una Shah", "Rosa Nolan", "Finn Adeyemi", "Amara Okonkwo", "Cal Hussain", "Fay Quigley", "Seb Webb", "Bram Mbeki", "Niamh Osei", "Dot Doyle", "Grace Novak", "Idris Farrell", "Kat Vance", "Tola Dunne", "Rhys Iqbal", "Zach Grant", "Marcus Hollins",
+)
 
 FIRST_NUMBER = 5100
 SUBJECT_LIMIT = 140

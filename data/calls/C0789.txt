@@ -1,0 +1,8 @@
+Call C0789 | cs check in | outbound | 2026-07-25 13:54 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Orla, Kingsmead Wine Bar
+
+[00:00] RHODRI: Hi Orla, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] ORLA: We have had a few problems. Ticket 17749, requests going to the wrong person, that one took a while.
+[00:50] RHODRI: I am sorry about that. Let me look into it while we talk.
+[01:03] ORLA: I will be honest, StaffPilot have been in touch and it came recommended by the brewery. We renew in a few months.
+[01:21] RHODRI: I hear you. Let me come back with something on price before then.

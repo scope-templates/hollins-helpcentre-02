@@ -1,0 +1,17 @@
+Call C0219 | inbound sales | inbound | 2025-12-02 17:32 | 6 min
+Hollins Rota: Jamie Thornton | Caller: Meera, The Boathouse Grill
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] MEERA: Hi, we run The Boathouse Grill, a leisure centre with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:44] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:00] MEERA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:18] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:43] MEERA: Does the app work in the cellar? We have no signal down there.
+[02:00] JAMIE: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:21] MEERA: We have also been talking to RotaHub. To be honest their app works offline.
+[02:39] JAMIE: Fair enough. Where I would push back is the desk: you get a person within the hour, and the hours side is a lot more solid than RotaHub's.
+[03:03] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:24] MEERA: Go on then.
+[03:32] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:50] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:07] MEERA: Perfect, thanks.

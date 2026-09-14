@@ -1,0 +1,8 @@
+Call C1419 | support | inbound | 2025-09-24 15:46 | 4 min
+Hollins Rota: Dev Grant | Caller: Nadia, Thorne and Vale
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:19] NADIA: Hi, Nadia from Thorne and Vale. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:42] DEV: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[01:01] NADIA: Ok, I will tell them.
+[01:10] DEV: Anything else? No? Thanks for calling.

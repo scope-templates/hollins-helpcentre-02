@@ -1,0 +1,9 @@
+Call C0830 | cs check in | outbound | 2025-12-05 10:15 | 4 min
+Hollins Rota: Rhodri Bevan | Caller: Hattie, The Drapers Coffee House
+
+[00:00] RHODRI: Hi Hattie, Rhodri here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:20] HATTIE: We have had a few problems. Ticket 8354, cannot find the venue, that one took a while.
+[00:37] RHODRI: I know, that one has come up a few times this month.
+[00:49] HATTIE: And we still need a till integration.
+[01:00] RHODRI: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:19] RHODRI: Thanks for the time. I will send the notes over.

@@ -1,0 +1,9 @@
+Call C0938 | cs check in | outbound | 2026-06-24 18:52 | 4 min
+Hollins Rota: Declan Furey | Caller: Hugo, Ashcroft Bar and Grill
+
+[00:00] DECLAN: Hi Hugo, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:26] HUGO: We have had a few problems. Ticket 5469, printing the rota, that one took a while.
+[00:44] DECLAN: I know, that one has come up a few times this month.
+[00:58] HUGO: And we still need an offline mode for the app.
+[01:10] DECLAN: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:28] DECLAN: Thanks for the time. I will send the notes over.

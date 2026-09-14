@@ -1,0 +1,8 @@
+Call C0849 | cs check in | outbound | 2026-07-07 15:46 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Rehan, Ashcroft Dining Rooms
+
+[00:00] RHODRI: Hi Rehan, Rhodri here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:19] REHAN: We have had a few problems. Ticket 13710, no takings since saturday, that one took a while.
+[00:35] RHODRI: I know, that one has come up a few times this month.
+[00:47] REHAN: I will be honest, StaffPilot have been in touch and they have a till integration. We renew in a few months.
+[01:07] RHODRI: I hear you. Let me come back with something on price before then.

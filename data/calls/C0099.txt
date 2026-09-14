@@ -1,0 +1,14 @@
+Call C0099 | inbound sales | inbound | 2026-02-18 15:00 | 5 min
+Hollins Rota: Jamie Thornton | Caller: Diego, The Wharf Kitchen (12 sites)
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] DIEGO: Hi, we run The Wharf Kitchen (12 sites), a bar with about 60 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:45] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] DIEGO: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:18] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] DIEGO: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[01:59] JAMIE: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:24] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:40] DIEGO: Go on then.
+[02:52] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:10] DIEGO: Perfect, thanks.

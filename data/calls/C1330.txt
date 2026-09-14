@@ -1,0 +1,9 @@
+Call C1330 | support | inbound | 2026-07-28 17:02 | 2 min
+Hollins Rota: Dev Grant | Caller: Hattie, Marram Sports Centre
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:17] HATTIE: Hi, it is Hattie at Marram Sports Centre. I wrote in about shifts disappeared?? and I have not heard anything.
+[00:39] DEV: Let me find it. Ticket 16727. Give me a second.
+[00:55] DEV: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:20] HATTIE: Brilliant, thank you.
+[01:32] DEV: Anything else? No? Thanks for calling.

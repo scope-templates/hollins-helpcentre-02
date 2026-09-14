@@ -1,0 +1,18 @@
+Call C0044 | inbound sales | inbound | 2026-02-13 18:00 | 6 min
+Hollins Rota: Tamsin Cole | Caller: Marek, The Wharf Kitchen (3 sites)
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] MAREK: Hi, we run The Wharf Kitchen (3 sites), a leisure centre with about 26 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:48] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] MAREK: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:20] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] MAREK: What does it cost for 26?
+[01:56] TAMSIN: On the team plan it is two pounds sixty per active member of staff a month, so about 67 pounds, billed monthly, no contract.
+[02:16] MAREK: We have also been talking to Clockwise Crew. To be honest it does the tronc split for us.
+[02:36] TAMSIN: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:59] MAREK: The other thing we need is a tronc split. Is that there?
+[03:14] TAMSIN: The tronc split is in the next release, definitely before your opening.
+[03:30] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:46] MAREK: Go on then.
+[03:57] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:19] MAREK: Perfect, thanks.

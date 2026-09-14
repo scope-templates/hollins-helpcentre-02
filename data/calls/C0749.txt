@@ -1,0 +1,9 @@
+Call C0749 | cs check in | outbound | 2026-01-09 12:10 | 5 min
+Hollins Rota: Declan Furey | Caller: Dan, Ivy Gate Coffee House
+
+[00:00] DECLAN: Hi Dan, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:28] DAN: We have had a few problems. Ticket 17188, app will not let her in, that one took a while.
+[00:47] DECLAN: I am sorry about that. Let me look into it while we talk.
+[01:00] DAN: And we still need an offline mode for the app.
+[01:11] DECLAN: I will get the transfer fixed this week and chase an offline mode for the app with the product team, I will come back to you by Friday with a date.
+[01:35] DECLAN: Thanks for the time. I will send the notes over.

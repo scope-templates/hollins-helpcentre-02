@@ -1,0 +1,9 @@
+Call C0876 | cs check in | outbound | 2025-10-22 16:22 | 3 min
+Hollins Rota: Rhodri Bevan | Caller: Meera, Orrery Rooms
+
+[00:00] RHODRI: Hi Meera, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:26] MEERA: We have had a few problems. Ticket 16733, printed rota cut off?, that one took a while.
+[00:43] RHODRI: I am sorry about that. Let me look into it while we talk.
+[00:56] MEERA: And we still need a till integration.
+[01:11] RHODRI: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:27] RHODRI: Thanks for the time. I will send the notes over.

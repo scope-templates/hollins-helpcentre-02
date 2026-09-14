@@ -1,0 +1,15 @@
+Call C0022 | inbound sales | inbound | 2025-12-12 18:25 | 4 min
+Hollins Rota: Oscar Lindgren | Caller: Yusuf, Harbourgate Rooms
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] YUSUF: Hi, we run Harbourgate Rooms, a bistro with about 26 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:47] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] YUSUF: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:24] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:53] YUSUF: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:11] OSCAR: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:34] OSCAR: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:53] YUSUF: Go on then.
+[03:01] OSCAR: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:23] OSCAR: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:40] YUSUF: Perfect, thanks.

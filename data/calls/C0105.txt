@@ -1,0 +1,17 @@
+Call C0105 | inbound sales | inbound | 2026-03-27 11:34 | 6 min
+Hollins Rota: Freya Dahl | Caller: Nadia, Copperfield Cafe
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] NADIA: Hi, we run Copperfield Cafe, a kitchen with about 38 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:47] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] NADIA: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:23] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] NADIA: Does the app work in the cellar? We have no signal down there.
+[02:02] FREYA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:23] NADIA: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:39] NADIA: We have also been talking to Shiftly. To be honest the owner's mate uses it.
+[02:58] FREYA: They are fine for a single site. The two-venue thing is where we win.
+[03:16] NADIA: The other thing we need is a till integration. Is that there?
+[03:29] FREYA: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:47] NADIA: Let me think about it and come back to you.
+[03:59] FREYA: No problem, I will email you what we talked about. Speak soon.

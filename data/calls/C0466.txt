@@ -1,0 +1,17 @@
+Call C0466 | inbound sales | inbound | 2026-02-20 16:13 | 4 min
+Hollins Rota: Ruaridh Munro | Caller: Marek, Copperfield Cafe (7 sites)
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] MAREK: Hi, we run Copperfield Cafe (7 sites), a cafe with about 31 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:46] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] MAREK: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:21] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] MAREK: Does the app work in the cellar? We have no signal down there.
+[02:06] RUARIDH: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:25] MAREK: We have also been talking to StaffPilot. To be honest they have a till integration.
+[02:40] RUARIDH: Fair enough. Where I would push back is the desk: you get a person within the hour, and the hours side is a lot more solid than StaffPilot's.
+[03:04] RUARIDH: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:20] MAREK: Go on then.
+[03:30] RUARIDH: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:53] RUARIDH: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:11] MAREK: Perfect, thanks.

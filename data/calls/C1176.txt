@@ -1,0 +1,9 @@
+Call C1176 | cs renewal | outbound | 2026-03-20 14:09 | 3 min
+Hollins Rota: Sunita Rao | Caller: Rory, Tanner's Yard Rooms
+
+[00:00] SUNITA: Hi Rory, it is Sunita at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 27 October, so I wanted to go through it.
+[00:30] RORY: We are going to move to StaffPilot. They have a till integration, and we have had too many transfer failures.
+[00:50] SUNITA: I am sorry to hear it. Is there anything that would change that?
+[01:07] RORY: Not really, the decision is made.
+[01:19] SUNITA: Understood. I will make sure the export is straightforward for you.
+[01:34] SUNITA: Thanks, I will confirm by email.

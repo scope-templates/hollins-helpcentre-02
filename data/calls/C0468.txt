@@ -1,0 +1,15 @@
+Call C0468 | inbound sales | inbound | 2026-05-27 11:15 | 3 min
+Hollins Rota: Bella Okafor | Caller: Dan, Pennyfield Leisure Centre
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] DAN: Hi, we run Pennyfield Leisure Centre, a cafe with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:42] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:58] DAN: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:18] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] DAN: Does the app work in the cellar? We have no signal down there.
+[02:01] BELLA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:24] BELLA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:45] DAN: Go on then.
+[02:57] BELLA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:16] BELLA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:32] DAN: Perfect, thanks.

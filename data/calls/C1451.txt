@@ -1,0 +1,9 @@
+Call C1451 | support | inbound | 2026-08-14 09:33 | 3 min
+Hollins Rota: Owen Tanaka | Caller: Saoirse, Ashcroft Rooms
+
+[00:00] OWEN: Hollins Rota support, Owen speaking. Just so you know, this call is recorded for training and quality.
+[00:22] SAOIRSE: Hi, it is Saoirse at Ashcroft Rooms. I wrote in about upgrading the plan and I have not heard anything.
+[00:39] OWEN: Let me find it. Ticket 16141. Give me a second.
+[00:51] OWEN: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:10] SAOIRSE: Brilliant, thank you.
+[01:19] OWEN: Anything else? No? Thanks for calling.

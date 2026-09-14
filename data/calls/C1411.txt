@@ -1,0 +1,9 @@
+Call C1411 | support | inbound | 2026-07-16 15:50 | 3 min
+Hollins Rota: Dev Grant | Caller: Rehan, The Rookery Wine Bar
+
+[00:00] DEV: Hollins Rota support, Dev speaking. 
+[00:12] REHAN: Hi, it is Rehan at The Rookery Wine Bar. I wrote in about re: how do i print the week and I have not heard anything.
+[00:35] DEV: Let me find it. Ticket 10335. Give me a second.
+[00:50] DEV: Right, I can see what happened. The invitation went to an old address. I have sent it again to the right one.
+[01:13] REHAN: Brilliant, thank you.
+[01:22] DEV: Anything else? No? Thanks for calling.

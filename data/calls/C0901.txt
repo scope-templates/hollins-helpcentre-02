@@ -1,0 +1,10 @@
+Call C0901 | cs check in | outbound | 2026-08-19 16:40 | 5 min
+Hollins Rota: Tomasz Wieczorek | Caller: Dan, Ivy Gate Rooms
+
+[00:00] TOMASZ: Hi Dan, Tomasz here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:27] DAN: We have had a few problems. Ticket 17258, changing somebody's email, that one took a while.
+[00:47] TOMASZ: I know, that one has come up a few times this month.
+[00:58] DAN: And we still need an offline mode for the app.
+[01:13] TOMASZ: I will get the transfer fixed this week and chase an offline mode for the app with the product team, I will come back to you by Friday with a date.
+[01:40] DAN: I will be honest, StaffPilot have been in touch and the app works with no signal. We renew in a few months.
+[02:00] TOMASZ: I hear you. Let me come back with something on price before then.

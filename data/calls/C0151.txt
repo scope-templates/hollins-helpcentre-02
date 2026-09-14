@@ -1,0 +1,15 @@
+Call C0151 | inbound sales | inbound | 2025-12-26 10:53 | 5 min
+Hollins Rota: Oscar Lindgren | Caller: Leila, The Wharf Kitchen
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] LEILA: Hi, we run The Wharf Kitchen, a bar with about 18 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:49] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:08] LEILA: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:26] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:51] LEILA: Can we try it before we pay anything?
+[02:02] OSCAR: There is a fourteen day trial, but I do need a card on the account to start it.
+[02:17] LEILA: I am not putting a card in for a trial, sorry. Everyone else lets you try it free.
+[02:34] LEILA: The other thing we need is a till integration. Is that there?
+[02:51] OSCAR: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:09] LEILA: Let me think about it and come back to you.
+[03:20] OSCAR: No problem, I will email you what we talked about. Speak soon.

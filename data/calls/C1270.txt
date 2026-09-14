@@ -1,0 +1,9 @@
+Call C1270 | cs renewal | outbound | 2025-11-25 16:55 | 2 min
+Hollins Rota: Declan Furey | Caller: Hattie, The Long Room Rooms
+
+[00:00] DECLAN: Hi Hattie, it is Declan at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 07 February, so I wanted to go through it.
+[00:27] HATTIE: We are going to move to RotaHub. Their app works offline, and we have had too many transfer failures.
+[00:46] DECLAN: I am sorry to hear it. Is there anything that would change that?
+[01:01] HATTIE: Not really, the decision is made.
+[01:15] DECLAN: Understood. I will make sure the export is straightforward for you.
+[01:33] DECLAN: Thanks, I will confirm by email.

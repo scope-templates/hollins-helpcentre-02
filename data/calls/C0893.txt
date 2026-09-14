@@ -1,0 +1,9 @@
+Call C0893 | cs check in | outbound | 2025-10-10 11:58 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Fraser, Umber Leisure Centre
+
+[00:00] RHODRI: Hi Fraser, Rhodri here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:19] FRASER: We have had a few problems. Ticket 8859, rate applied to the whole week, that one took a while.
+[00:35] RHODRI: I am sorry about that. Let me look into it while we talk.
+[00:47] FRASER: And we still need payroll export for the other payroll system.
+[01:02] RHODRI: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:30] RHODRI: Thanks for the time. I will send the notes over.

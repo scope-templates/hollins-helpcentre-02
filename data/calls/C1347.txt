@@ -1,0 +1,9 @@
+Call C1347 | support | inbound | 2025-10-17 15:35 | 4 min
+Hollins Rota: Dara Vance | Caller: Tom, The Sorting Office Grill
+
+[00:00] DARA: Hollins Rota support, Dara speaking. Just so you know, this call is recorded for training and quality.
+[00:17] TOM: Hi, it is Tom at The Sorting Office Grill. I wrote in about error on last night's run and I have not heard anything.
+[00:36] DARA: Let me find it. Ticket 16001. Give me a second.
+[00:51] DARA: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:12] TOM: Brilliant, thank you.
+[01:21] DARA: Anything else? No? Thanks for calling.

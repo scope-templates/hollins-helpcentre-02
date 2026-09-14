@@ -1,0 +1,9 @@
+Call C0739 | cs check in | outbound | 2026-07-03 11:19 | 2 min
+Hollins Rota: Declan Furey | Caller: Marek, The Buttermarket Rooms
+
+[00:00] DECLAN: Hi Marek, Declan here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:20] MAREK: We have had a few problems. Ticket 16914, open shift on the hours page, that one took a while.
+[00:36] DECLAN: I know, that one has come up a few times this month.
+[00:52] MAREK: And we still need an offline mode for the app.
+[01:08] DECLAN: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:26] DECLAN: Thanks for the time. I will send the notes over.

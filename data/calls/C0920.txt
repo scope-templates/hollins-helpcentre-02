@@ -1,0 +1,9 @@
+Call C0920 | cs check in | outbound | 2026-01-30 14:25 | 3 min
+Hollins Rota: Adaeze Nwosu | Caller: Hattie, The Drapers Dining Rooms
+
+[00:00] ADAEZE: Hi Hattie, Adaeze here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:21] HATTIE: We have had a few problems. Ticket 9299, template for two venues, that one took a while.
+[00:40] ADAEZE: I know, that one has come up a few times this month.
+[00:56] HATTIE: And we still need payroll export for the other payroll system.
+[01:12] ADAEZE: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:41] ADAEZE: Thanks for the time. I will send the notes over.

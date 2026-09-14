@@ -1,0 +1,8 @@
+Call C1035 | cs check in | outbound | 2026-04-23 09:09 | 3 min
+Hollins Rota: Declan Furey | Caller: Meera, The Chandlery Dining Rooms
+
+[00:00] DECLAN: Hi Meera, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:28] MEERA: We have had a few problems. Ticket 16211, import failing, that one took a while.
+[00:42] DECLAN: I know, that one has come up a few times this month.
+[00:57] MEERA: I will be honest, StaffPilot have been in touch and it came recommended by the brewery. We renew in a few months.
+[01:18] DECLAN: I hear you. Let me come back with something on price before then.

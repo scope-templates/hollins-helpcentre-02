@@ -1,0 +1,14 @@
+Call C0362 | inbound sales | inbound | 2026-05-23 09:03 | 3 min
+Hollins Rota: Kwabena Asante | Caller: Orla, Saltmarsh Bistro
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] ORLA: Hi, we run Saltmarsh Bistro, a cafe with about 18 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:47] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] ORLA: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:23] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] ORLA: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:02] KWABENA: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:24] ORLA: The other thing we need is an offline mode for the app. Is that there?
+[02:40] KWABENA: Offline mode is coming next month, I can promise you that, the dev team told me.
+[02:54] ORLA: Let me think about it and come back to you.
+[03:04] KWABENA: No problem, I will email you what we talked about. Speak soon.

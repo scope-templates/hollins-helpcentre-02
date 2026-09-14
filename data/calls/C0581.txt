@@ -1,0 +1,10 @@
+Call C0581 | outbound sales | outbound | 2026-08-11 09:15 | 3 min
+Hollins Rota: Tamsin Cole | Caller: Isobel, Kettlewick Kitchen
+
+[00:00] TAMSIN: Hi, is that Isobel? It is Tamsin from Hollins Rota, you downloaded our rota template last week. Just so you know, this call is recorded for training and quality.
+[00:28] ISOBEL: Bad time, we are mid service. Two minutes.
+[00:41] TAMSIN: Two minutes is all I need. For a brasserie with 35 people, the thing most places get back is the Sunday night: the week goes to everyone's phone when you press publish.
+[01:07] ISOBEL: We had RotaHub in last month actually, their app works offline.
+[01:24] TAMSIN: Understood. Would it be worth a fifteen minute look at ours side by side? No charge.
+[01:40] ISOBEL: Send me the prices and I will look.
+[01:49] TAMSIN: Will do. Thanks for your time.

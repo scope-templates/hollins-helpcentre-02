@@ -1,0 +1,12 @@
+Call C0086 | inbound sales | inbound | 2026-03-06 17:55 | 3 min
+Hollins Rota: Jamie Thornton | Caller: Isobel, Harbourgate Rooms
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. How can I help?
+[00:13] ISOBEL: Hi, we run Harbourgate Rooms, a leisure centre with about 31 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:37] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:54] ISOBEL: Two sites. I run two venues and the same people work at both.
+[01:11] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:39] ISOBEL: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[01:56] JAMIE: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:19] JAMIE: Let me put you through to somebody who can answer that properly, one moment.
+[02:55] [call ended]

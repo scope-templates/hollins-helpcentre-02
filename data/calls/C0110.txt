@@ -1,0 +1,15 @@
+Call C0110 | inbound sales | inbound | 2025-09-04 14:13 | 6 min
+Hollins Rota: Jamie Thornton | Caller: Nadia, Ostler's Bar
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] NADIA: Hi, we run Ostler's Bar, a tap room with about 18 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:45] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:00] NADIA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:19] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] NADIA: Does the app work in the cellar? We have no signal down there.
+[01:57] JAMIE: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:18] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:38] NADIA: Go on then.
+[02:46] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:04] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:20] NADIA: Perfect, thanks.

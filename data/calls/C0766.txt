@@ -1,0 +1,9 @@
+Call C0766 | cs check in | outbound | 2025-10-20 10:45 | 4 min
+Hollins Rota: Adaeze Nwosu | Caller: Fraser, Barleycroft Grill
+
+[00:00] ADAEZE: Hi Fraser, Adaeze here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] FRASER: We have had a few problems. Ticket 15791, bank holiday booking, that one took a while.
+[00:46] ADAEZE: I know, that one has come up a few times this month.
+[01:02] FRASER: And we still need an offline mode for the app.
+[01:15] ADAEZE: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:34] ADAEZE: Thanks for the time. I will send the notes over.

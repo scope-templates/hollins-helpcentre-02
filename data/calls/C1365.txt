@@ -1,0 +1,9 @@
+Call C1365 | support | inbound | 2025-12-12 14:39 | 2 min
+Hollins Rota: Priya Nair | Caller: Nadia, Harbourgate
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. 
+[00:13] NADIA: Hi, it is Nadia at Harbourgate. I wrote in about re: open shift on the hours page and I have not heard anything.
+[00:33] PRIYA: Let me find it. Ticket 6818. Give me a second.
+[00:45] PRIYA: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:06] NADIA: Brilliant, thank you.
+[01:19] PRIYA: Anything else? No? Thanks for calling.

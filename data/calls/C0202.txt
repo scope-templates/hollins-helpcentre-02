@@ -1,0 +1,15 @@
+Call C0202 | inbound sales | inbound | 2026-08-13 08:42 | 6 min
+Hollins Rota: Kwabena Asante | Caller: Hattie, The Malt House
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. How can I help?
+[00:17] HATTIE: Hi, we run The Malt House, a tap room with about 38 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:43] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:58] HATTIE: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:14] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] HATTIE: Can you bring our staff list in or do I type forty people by hand?
+[02:01] KWABENA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:20] KWABENA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:40] HATTIE: Go on then.
+[02:50] KWABENA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:09] KWABENA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:27] HATTIE: Perfect, thanks.

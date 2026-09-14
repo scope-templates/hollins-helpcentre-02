@@ -1,0 +1,9 @@
+Call C1277 | cs renewal | outbound | 2025-10-07 17:22 | 3 min
+Hollins Rota: Sunita Rao | Caller: Rehan, The Ropewalk Coffee House
+
+[00:00] SUNITA: Hi Rehan, it is Sunita at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 11 June, so I wanted to go through it.
+[00:25] REHAN: We are going to move to StaffPilot. They have a till integration, and we have had too many transfer failures.
+[00:46] SUNITA: I am sorry to hear it. Is there anything that would change that?
+[01:04] REHAN: If the transfer was fixed and the price came down, maybe.
+[01:19] SUNITA: Understood. I will make sure the export is straightforward for you.
+[01:36] SUNITA: Thanks, I will confirm by email.

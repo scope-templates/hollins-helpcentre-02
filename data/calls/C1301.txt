@@ -1,0 +1,9 @@
+Call C1301 | cs renewal | outbound | 2025-09-26 13:30 | 3 min
+Hollins Rota: Tomasz Wieczorek | Caller: Meera, Osier Rooms
+
+[00:00] TOMASZ: Hi Meera, it is Tomasz at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 29 April, so I wanted to go through it.
+[00:29] MEERA: We are going to move to RotaHub. It has the payroll link built in, and we have had too many transfer failures.
+[00:48] TOMASZ: I am sorry to hear it. Is there anything that would change that?
+[01:01] MEERA: Not really, the decision is made.
+[01:12] TOMASZ: Understood. I will make sure the export is straightforward for you.
+[01:25] TOMASZ: Thanks, I will confirm by email.

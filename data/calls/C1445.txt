@@ -1,0 +1,11 @@
+Call C1445 | support | inbound | 2026-06-10 10:22 | 5 min
+Hollins Rota: Cerys Reid | Caller: Ines, Brockholes Brasserie
+
+[00:00] CERYS: Hollins Rota support, Cerys speaking. Just so you know, this call is recorded for training and quality.
+[00:20] INES: Hi, it is Ines at Brockholes Brasserie. I wrote in about new api key and I have not heard anything.
+[00:38] CERYS: Let me find it. Ticket 14094. Give me a second.
+[00:49] CERYS: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:07] INES: Brilliant, thank you.
+[01:19] INES: While I have you, can you take a card for the second venue? It is 5255 4410 0917 2231, expiry twelve twenty-seven, code 902.
+[01:41] CERYS: Got that, thanks, it is on the account now.
+[01:52] CERYS: Anything else? No? Thanks for calling.

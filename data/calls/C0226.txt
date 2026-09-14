@@ -1,0 +1,17 @@
+Call C0226 | inbound sales | inbound | 2026-06-28 16:33 | 4 min
+Hollins Rota: Jamie Thornton | Caller: Leila, Orchard Lane Coffee House
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] LEILA: Hi, we run Orchard Lane Coffee House, a tap room with about 38 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:44] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:00] LEILA: Two sites. I run two venues and the same people work at both.
+[01:17] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] LEILA: Can we try it before we pay anything?
+[01:53] JAMIE: Fourteen days, no card, I can set it up while we are talking.
+[02:07] LEILA: The other thing we need is a till integration. Is that there?
+[02:19] JAMIE: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[02:39] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:55] LEILA: Go on then.
+[03:04] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:26] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:47] LEILA: Perfect, thanks.

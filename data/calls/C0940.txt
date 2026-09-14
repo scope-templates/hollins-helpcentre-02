@@ -1,0 +1,9 @@
+Call C0940 | cs check in | outbound | 2026-07-03 09:55 | 5 min
+Hollins Rota: Tomasz Wieczorek | Caller: Hattie, Linden Wine Bar
+
+[00:00] TOMASZ: Hi Hattie, Tomasz here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] HATTIE: We have had a few problems. Ticket 17953, leaver still on the rota, that one took a while.
+[00:45] TOMASZ: I am sorry about that. Let me look into it while we talk.
+[01:02] HATTIE: And we still need a tronc split.
+[01:16] TOMASZ: I will get the transfer fixed this week and chase a tronc split with the product team, I will come back to you by Friday with a date.
+[01:40] TOMASZ: Thanks for the time. I will send the notes over.

@@ -1,0 +1,9 @@
+Call C1407 | support | inbound | 2026-03-31 17:25 | 2 min
+Hollins Rota: Wren Parry | Caller: Kwame, Shorewell Leisure Centre
+
+[00:00] WREN: Hollins Rota support, Wren speaking. Just so you know, this call is recorded for training and quality.
+[00:17] KWAME: Hi, it is Kwame at Shorewell Leisure Centre. I wrote in about holiday year ending and I have not heard anything.
+[00:40] WREN: Let me find it. Ticket 9492. Give me a second.
+[00:55] WREN: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:15] KWAME: Brilliant, thank you.
+[01:27] WREN: Anything else? No? Thanks for calling.

@@ -1,0 +1,9 @@
+Call C1462 | support | inbound | 2026-02-13 09:24 | 3 min
+Hollins Rota: Dev Grant | Caller: Dan, Larkspur Dining Rooms
+
+[00:00] DEV: Hollins Rota support, Dev speaking. 
+[00:10] DAN: Hi, it is Dan at Larkspur Dining Rooms. I wrote in about half hour break in the total? and I have not heard anything.
+[00:34] DEV: Let me find it. Ticket 7155. Give me a second.
+[00:46] DEV: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:05] DAN: Brilliant, thank you.
+[01:15] DEV: Anything else? No? Thanks for calling.

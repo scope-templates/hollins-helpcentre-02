@@ -1,0 +1,9 @@
+Call C1359 | support | inbound | 2025-12-01 12:46 | 3 min
+Hollins Rota: Wren Parry | Caller: Tom, Stonebridge Coffee House
+
+[00:00] WREN: Hollins Rota support, Wren speaking. Just so you know, this call is recorded for training and quality.
+[00:18] TOM: Hi, it is Tom at Stonebridge Coffee House. I wrote in about headcount on the invoice and I have not heard anything.
+[00:38] WREN: Let me find it. Ticket 16661. Give me a second.
+[00:54] WREN: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:17] TOM: Brilliant, thank you.
+[01:25] WREN: Anything else? No? Thanks for calling.

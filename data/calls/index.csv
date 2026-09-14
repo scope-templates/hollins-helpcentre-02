@@ -1,0 +1,1501 @@
+call_id,started_at,type,direction,account_id,venue,rep,duration_min,outcome,file
+C1345,2025-09-01T08:39:00Z,support,inbound,A2753,Copperfield Leisure Centre,Priya Evans,4,resolved,calls/C1345.txt
+C1068,2025-09-01T09:14:00Z,cs_check_in,outbound,A2992,Redbourne Cafe,Tomasz Wieczorek,3,ok,calls/C1068.txt
+C1391,2025-09-01T12:48:00Z,support,inbound,A2826,The Engine Room Tap Room,Xavier Bishop,2,resolved,calls/C1391.txt
+C1355,2025-09-01T13:03:00Z,support,inbound,A3080,The Drapers Kitchen,Xavier Bishop,4,escalated,calls/C1355.txt
+C0504,2025-09-01T14:29:00Z,inbound_sales,inbound,,Harbourgate Rooms (10 sites),Oscar Lindgren,3,no_sale,calls/C0504.txt
+C0545,2025-09-02T11:17:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Priyanka Mehta,5,no_sale,calls/C0545.txt
+C0083,2025-09-02T13:38:00Z,inbound_sales,inbound,,Saltmarsh Bistro (2 sites),Freya Dahl,3,no_sale,calls/C0083.txt
+C0607,2025-09-02T14:46:00Z,outbound_sales,outbound,,The Bellhouse,Kwabena Asante,3,no_sale,calls/C0607.txt
+C1481,2025-09-02T16:36:00Z,support,inbound,A3221,The Buttermarket Brasserie,Wren Parry,2,resolved,calls/C1481.txt
+C0182,2025-09-02T17:29:00Z,inbound_sales,inbound,,Copperfield Cafe (5 sites),Kwabena Asante,4,signed_up,calls/C0182.txt
+C0896,2025-09-03T09:27:00Z,cs_check_in,outbound,A3322,Ferrymount Grill,Declan Furey,2,at_risk,calls/C0896.txt
+C0605,2025-09-03T17:16:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Freya Dahl,3,demo_booked,calls/C0605.txt
+C0180,2025-09-03T17:26:00Z,inbound_sales,inbound,,Saltmarsh Bistro (7 sites),Tamsin Cole,6,signed_up,calls/C0180.txt
+C1109,2025-09-03T18:17:00Z,cs_renewal,outbound,A3374,The Smokehouse Bar,Sunita Rao,2,renewed,calls/C1109.txt
+C0762,2025-09-03T18:39:00Z,cs_check_in,outbound,A2278,Little Ness Bar and Grill,Sunita Rao,4,at_risk,calls/C0762.txt
+C0532,2025-09-04T10:24:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Ruaridh Munro,4,demo_booked,calls/C0532.txt
+C1192,2025-09-04T11:39:00Z,cs_renewal,outbound,A2161,Saltmarsh Grill,Declan Furey,2,renewed,calls/C1192.txt
+C0045,2025-09-04T11:58:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,4,no_sale,calls/C0045.txt
+C1399,2025-09-04T12:54:00Z,support,inbound,A2547,Threadneedle Sports Centre,Priya Nair,3,escalated,calls/C1399.txt
+C0110,2025-09-04T14:13:00Z,inbound_sales,inbound,,Ostler's Bar,Jamie Thornton,6,signed_up,calls/C0110.txt
+C0767,2025-09-04T14:19:00Z,cs_check_in,outbound,A2860,The Signal Box Brasserie,Tomasz Wieczorek,2,follow_up,calls/C0767.txt
+C0947,2025-09-04T16:38:00Z,cs_check_in,outbound,A2871,The Saltern Brasserie,Adaeze Nwosu,2,follow_up,calls/C0947.txt
+C0772,2025-09-04T18:07:00Z,cs_check_in,outbound,A3342,Mallard Coffee House,Adaeze Nwosu,4,ok,calls/C0772.txt
+C1252,2025-09-05T08:46:00Z,cs_renewal,outbound,A2677,Shorewell Dining Rooms,Declan Furey,4,renewed,calls/C1252.txt
+C0418,2025-09-05T08:57:00Z,inbound_sales,inbound,,The Wharf Kitchen (7 sites),Tamsin Cole,3,signed_up,calls/C0418.txt
+C0688,2025-09-05T10:03:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Oscar Lindgren,3,demo_booked,calls/C0688.txt
+C0178,2025-09-05T10:40:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Kwabena Asante,4,signed_up,calls/C0178.txt
+C0475,2025-09-05T12:36:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Freya Dahl,3,no_sale,calls/C0475.txt
+C1402,2025-09-05T13:02:00Z,support,inbound,A2389,Redbourne Rooms,Wren Parry,2,resolved,calls/C1402.txt
+C0620,2025-09-05T13:12:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Oscar Lindgren,3,no_sale,calls/C0620.txt
+C0530,2025-09-05T16:04:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Freya Dahl,5,no_sale,calls/C0530.txt
+C0738,2025-09-05T17:02:00Z,cs_check_in,outbound,A3407,Kingsmead Rooms,Declan Furey,3,follow_up,calls/C0738.txt
+C0852,2025-09-05T17:28:00Z,cs_check_in,outbound,A2750,Kettlewick Grill,Rhodri Bevan,2,follow_up,calls/C0852.txt
+C0984,2025-09-08T12:25:00Z,cs_check_in,outbound,A3156,Tollerton Tap Room,Georgia Lamb,2,at_risk,calls/C0984.txt
+C0839,2025-09-08T12:44:00Z,cs_check_in,outbound,A2763,Tollerton Bar and Grill,Tomasz Wieczorek,2,follow_up,calls/C0839.txt
+C1417,2025-09-09T08:11:00Z,support,inbound,A3104,Hesketh,Owen Tanaka,3,escalated,calls/C1417.txt
+C0687,2025-09-09T10:11:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Oscar Lindgren,2,demo_booked,calls/C0687.txt
+C1296,2025-09-09T10:29:00Z,cs_renewal,outbound,A2462,The Malt House Bar and Grill,Georgia Lamb,2,renewed,calls/C1296.txt
+C0444,2025-09-09T12:40:00Z,inbound_sales,inbound,,Nettlebed Brasserie (7 sites),Kwabena Asante,4,signed_up,calls/C0444.txt
+C1310,2025-09-09T13:02:00Z,cs_renewal,outbound,A3199,Mallard Dining Rooms,Adaeze Nwosu,2,pending,calls/C1310.txt
+C0154,2025-09-10T11:08:00Z,inbound_sales,inbound,,Copperfield Cafe,Oscar Lindgren,4,no_sale,calls/C0154.txt
+C0107,2025-09-10T12:54:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,6,signed_up,calls/C0107.txt
+C0476,2025-09-11T12:39:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Ruaridh Munro,6,no_sale,calls/C0476.txt
+C0617,2025-09-11T14:46:00Z,outbound_sales,outbound,,Alderfield Cafe,Freya Dahl,3,no_sale,calls/C0617.txt
+C0191,2025-09-11T17:42:00Z,inbound_sales,inbound,,The Boathouse Grill,Kwabena Asante,4,signed_up,calls/C0191.txt
+C1070,2025-09-12T12:15:00Z,cs_check_in,outbound,A3165,The Rookery Brasserie,Tomasz Wieczorek,3,follow_up,calls/C1070.txt
+C0284,2025-09-12T12:51:00Z,inbound_sales,inbound,,Greyfriars Tap Room (12 sites),Jamie Thornton,4,signed_up,calls/C0284.txt
+C1175,2025-09-12T15:22:00Z,cs_renewal,outbound,A3387,Wickham Coffee House,Rhodri Bevan,4,renewed,calls/C1175.txt
+C0161,2025-09-14T17:41:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,6,signed_up,calls/C0161.txt
+C1116,2025-09-15T10:24:00Z,cs_renewal,outbound,A3447,Tarnside Kitchen,Rhodri Bevan,2,renewed,calls/C1116.txt
+C0524,2025-09-15T14:51:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Tamsin Cole,4,no_sale,calls/C0524.txt
+C1447,2025-09-15T15:35:00Z,support,inbound,A3104,Hesketh,Maya Ellis,2,resolved,calls/C1447.txt
+C0203,2025-09-15T18:31:00Z,inbound_sales,inbound,,The Boathouse Grill (3 sites),Tamsin Cole,6,no_sale,calls/C0203.txt
+C0678,2025-09-16T14:10:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,5,no_sale,calls/C0678.txt
+C1143,2025-09-16T14:17:00Z,cs_renewal,outbound,A3147,Redbourne Brasserie,Tomasz Wieczorek,3,renewed,calls/C1143.txt
+C1015,2025-09-16T17:44:00Z,cs_check_in,outbound,A2167,Marram Kitchen,Rhodri Bevan,4,ok,calls/C1015.txt
+C0337,2025-09-17T08:47:00Z,inbound_sales,inbound,,The Boathouse Grill (11 sites),Priyanka Mehta,5,signed_up,calls/C0337.txt
+C0221,2025-09-17T11:31:00Z,inbound_sales,inbound,,Copperfield Cafe (2 sites),Jamie Thornton,4,signed_up,calls/C0221.txt
+C1075,2025-09-17T13:53:00Z,cs_check_in,outbound,A2416,Ashcroft Brasserie,Rhodri Bevan,3,ok,calls/C1075.txt
+C0590,2025-09-17T14:59:00Z,outbound_sales,outbound,,Alderfield Cafe,Tamsin Cole,2,no_sale,calls/C0590.txt
+C0877,2025-09-17T18:05:00Z,cs_check_in,outbound,A3496,Ketch and Anchor Sports Centre,Sunita Rao,4,ok,calls/C0877.txt
+C1396,2025-09-18T11:25:00Z,support,inbound,A3069,Ashcroft Rooms,Owen Tanaka,2,resolved,calls/C1396.txt
+C1124,2025-09-19T09:45:00Z,cs_renewal,outbound,A3127,Thorne and Vale Bistro,Declan Furey,2,pending,calls/C1124.txt
+C0125,2025-09-19T10:22:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (3 sites),Bella Okafor,3,signed_up,calls/C0125.txt
+C0779,2025-09-19T10:40:00Z,cs_check_in,outbound,A2900,The Pannier Market Grill,Adaeze Nwosu,3,ok,calls/C0779.txt
+C0537,2025-09-19T11:58:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Priyanka Mehta,4,demo_booked,calls/C0537.txt
+C0803,2025-09-19T12:57:00Z,cs_check_in,outbound,A2922,The Corn Exchange Leisure Centre,Adaeze Nwosu,3,follow_up,calls/C0803.txt
+C0712,2025-09-19T13:32:00Z,cs_check_in,outbound,A2917,Elmsall Bar and Grill,Rhodri Bevan,4,ok,calls/C0712.txt
+C0295,2025-09-19T13:43:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,4,no_sale,calls/C0295.txt
+C1384,2025-09-19T14:08:00Z,support,inbound,A3490,Tarnside Bar and Grill,Cerys Reid,4,resolved,calls/C1384.txt
+C1269,2025-09-19T14:49:00Z,cs_renewal,outbound,A2352,Castleton Grill,Tomasz Wieczorek,2,renewed,calls/C1269.txt
+C0900,2025-09-19T16:21:00Z,cs_check_in,outbound,A3379,The Malt House Tap Room,Rhodri Bevan,3,ok,calls/C0900.txt
+C1271,2025-09-19T17:10:00Z,cs_renewal,outbound,A2162,The Engine Room Kitchen,Tomasz Wieczorek,4,renewed,calls/C1271.txt
+C0292,2025-09-21T09:22:00Z,inbound_sales,inbound,,The Wharf Kitchen,Ruaridh Munro,5,no_sale,calls/C0292.txt
+C0211,2025-09-21T15:52:00Z,inbound_sales,inbound,,The Wharf Kitchen (4 sites),Kwabena Asante,5,signed_up,calls/C0211.txt
+C1493,2025-09-22T08:59:00Z,support,inbound,A3208,The Printworks Coffee House,Owen Tanaka,2,resolved,calls/C1493.txt
+C0682,2025-09-22T09:07:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Oscar Lindgren,2,demo_booked,calls/C0682.txt
+C0299,2025-09-22T09:24:00Z,inbound_sales,inbound,,The Wharf Kitchen,Ruaridh Munro,3,no_sale,calls/C0299.txt
+C0670,2025-09-22T09:33:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Jamie Thornton,2,demo_booked,calls/C0670.txt
+C1074,2025-09-22T09:51:00Z,cs_check_in,outbound,A2006,The Pannier Market Cafe,Rhodri Bevan,4,ok,calls/C1074.txt
+C1328,2025-09-22T10:19:00Z,support,inbound,A2359,Winnow Sports Centre,Maya Ellis,2,resolved,calls/C1328.txt
+C0103,2025-09-23T08:52:00Z,inbound_sales,inbound,,Copperfield Cafe,Oscar Lindgren,6,signed_up,calls/C0103.txt
+C0523,2025-09-23T09:21:00Z,outbound_sales,outbound,,The Bellhouse,Oscar Lindgren,2,demo_booked,calls/C0523.txt
+C0287,2025-09-23T09:52:00Z,inbound_sales,inbound,,Harbourgate Rooms (12 sites),Priyanka Mehta,3,signed_up,calls/C0287.txt
+C1423,2025-09-23T10:47:00Z,support,inbound,A3154,Brindle Grill,Dev Grant,3,resolved,calls/C1423.txt
+C0165,2025-09-24T11:25:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Jamie Thornton,4,signed_up,calls/C0165.txt
+C0528,2025-09-24T12:46:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Ruaridh Munro,4,no_sale,calls/C0528.txt
+C0275,2025-09-24T14:33:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (8 sites),Tamsin Cole,5,signed_up,calls/C0275.txt
+C1419,2025-09-24T15:46:00Z,support,inbound,A2722,Thorne and Vale,Dev Grant,4,resolved,calls/C1419.txt
+C0768,2025-09-25T12:34:00Z,cs_check_in,outbound,A2964,Alderfield Coffee House,Declan Furey,2,ok,calls/C0768.txt
+C0514,2025-09-25T18:42:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,4,signed_up,calls/C0514.txt
+C0592,2025-09-26T09:00:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Priyanka Mehta,3,no_sale,calls/C0592.txt
+C1488,2025-09-26T10:08:00Z,support,inbound,A2604,Mapleton Cafe,Priya Evans,5,resolved,calls/C1488.txt
+C0302,2025-09-26T11:25:00Z,inbound_sales,inbound,,The Malt House (4 sites),Kwabena Asante,6,signed_up,calls/C0302.txt
+C1226,2025-09-26T11:31:00Z,cs_renewal,outbound,A2219,The Turbine Hall Cafe,Adaeze Nwosu,3,renewed,calls/C1226.txt
+C0679,2025-09-26T13:03:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Kwabena Asante,4,no_sale,calls/C0679.txt
+C1301,2025-09-26T13:30:00Z,cs_renewal,outbound,A2654,Osier Rooms,Tomasz Wieczorek,3,churned,calls/C1301.txt
+C0945,2025-09-26T14:00:00Z,cs_check_in,outbound,A3364,Nettlebed Coffee House,Rhodri Bevan,3,ok,calls/C0945.txt
+C1314,2025-09-26T16:18:00Z,cs_renewal,outbound,A2773,The Smokehouse Coffee House,Sunita Rao,2,renewed,calls/C1314.txt
+C0477,2025-09-26T16:22:00Z,inbound_sales,inbound,,The Drapers Wine Bar (9 sites),Kwabena Asante,4,no_sale,calls/C0477.txt
+C0306,2025-09-27T09:43:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (6 sites),Jamie Thornton,6,signed_up,calls/C0306.txt
+C1389,2025-09-27T12:37:00Z,support,inbound,A3137,Copperfield Sports Centre,Dara Vance,2,resolved,calls/C1389.txt
+C0142,2025-09-29T12:39:00Z,inbound_sales,inbound,,The Wharf Kitchen,Oscar Lindgren,5,signed_up,calls/C0142.txt
+C1052,2025-09-29T15:53:00Z,cs_check_in,outbound,A3059,Dunmore Leisure Centre,Rhodri Bevan,4,ok,calls/C1052.txt
+C1382,2025-09-29T16:00:00Z,support,inbound,A2317,Winnow Bar,Imogen Yates,4,resolved,calls/C1382.txt
+C0761,2025-09-30T14:26:00Z,cs_check_in,outbound,A2743,Ivy Gate Rooms,Tomasz Wieczorek,2,ok,calls/C0761.txt
+C0160,2025-09-30T15:31:00Z,inbound_sales,inbound,,Saltmarsh Bistro (8 sites),Freya Dahl,5,signed_up,calls/C0160.txt
+C0709,2025-09-30T15:45:00Z,cs_check_in,outbound,A2697,Orrery Dining Rooms,Adaeze Nwosu,3,follow_up,calls/C0709.txt
+C0832,2025-09-30T16:08:00Z,cs_check_in,outbound,A2823,The Long Room Wine Bar,Declan Furey,4,follow_up,calls/C0832.txt
+C1047,2025-09-30T18:11:00Z,cs_check_in,outbound,A2655,Gable End Cafe,Georgia Lamb,4,ok,calls/C1047.txt
+C0916,2025-09-30T18:39:00Z,cs_check_in,outbound,A2970,Tollerton Leisure Centre,Adaeze Nwosu,2,ok,calls/C0916.txt
+C1079,2025-10-01T08:05:00Z,cs_check_in,outbound,A3289,Gable End Brasserie,Tomasz Wieczorek,4,ok,calls/C1079.txt
+C0209,2025-10-02T11:54:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Kwabena Asante,5,signed_up,calls/C0209.txt
+C1258,2025-10-02T12:55:00Z,cs_renewal,outbound,A2279,Kingsmead Tap Room,Sunita Rao,4,renewed,calls/C1258.txt
+C1353,2025-10-02T14:17:00Z,support,inbound,A2186,Kettlewick Brasserie,Maya Ellis,3,resolved,calls/C1353.txt
+C0748,2025-10-03T09:24:00Z,cs_check_in,outbound,A2802,Pollard Bar,Sunita Rao,2,follow_up,calls/C0748.txt
+C1203,2025-10-03T11:23:00Z,cs_renewal,outbound,A2638,Fallowfield Rooms,Declan Furey,3,renewed,calls/C1203.txt
+C0573,2025-10-03T12:37:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Ruaridh Munro,3,no_sale,calls/C0573.txt
+C0383,2025-10-03T12:38:00Z,inbound_sales,inbound,,The Wharf Kitchen (11 sites),Jamie Thornton,3,signed_up,calls/C0383.txt
+C0632,2025-10-03T13:48:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Ruaridh Munro,4,no_sale,calls/C0632.txt
+C0804,2025-10-03T15:38:00Z,cs_check_in,outbound,A2909,Ninefields Kitchen,Georgia Lamb,4,follow_up,calls/C0804.txt
+C0552,2025-10-03T16:13:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Priyanka Mehta,2,demo_booked,calls/C0552.txt
+C0374,2025-10-03T17:03:00Z,inbound_sales,inbound,,The Wharf Kitchen (4 sites),Bella Okafor,5,no_sale,calls/C0374.txt
+C0438,2025-10-03T17:10:00Z,inbound_sales,inbound,,The Boathouse Grill (2 sites),Bella Okafor,5,signed_up,calls/C0438.txt
+C0640,2025-10-03T17:53:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Freya Dahl,5,no_sale,calls/C0640.txt
+C0910,2025-10-03T18:58:00Z,cs_check_in,outbound,A3242,Tanner's Yard Leisure Centre,Tomasz Wieczorek,2,ok,calls/C0910.txt
+C0608,2025-10-05T08:32:00Z,outbound_sales,outbound,,Alderfield Cafe,Kwabena Asante,4,no_sale,calls/C0608.txt
+C1261,2025-10-05T16:20:00Z,cs_renewal,outbound,A3006,Harrow Lane Bar,Sunita Rao,3,renewed,calls/C1261.txt
+C0396,2025-10-06T14:25:00Z,inbound_sales,inbound,,The Boathouse Grill (5 sites),Kwabena Asante,5,signed_up,calls/C0396.txt
+C1495,2025-10-06T16:12:00Z,support,inbound,A2414,Quayside Bistro,Priya Evans,2,escalated,calls/C1495.txt
+C0551,2025-10-06T17:05:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Kwabena Asante,3,demo_booked,calls/C0551.txt
+C1036,2025-10-07T11:05:00Z,cs_check_in,outbound,A2636,The Buttermarket Kitchen,Declan Furey,2,at_risk,calls/C1036.txt
+C0897,2025-10-07T11:50:00Z,cs_check_in,outbound,A2706,Ashlar Brasserie,Declan Furey,4,follow_up,calls/C0897.txt
+C0317,2025-10-07T11:59:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Bella Okafor,2,no_sale,calls/C0317.txt
+C1277,2025-10-07T17:22:00Z,cs_renewal,outbound,A2328,The Ropewalk Coffee House,Sunita Rao,3,churned,calls/C1277.txt
+C0238,2025-10-08T08:11:00Z,inbound_sales,inbound,,The Malt House (6 sites),Oscar Lindgren,5,no_sale,calls/C0238.txt
+C0546,2025-10-08T08:44:00Z,outbound_sales,outbound,,The Bellhouse,Ruaridh Munro,3,no_sale,calls/C0546.txt
+C1456,2025-10-08T09:53:00Z,support,inbound,A2997,Sedgemill Leisure Centre,Imogen Yates,4,resolved,calls/C1456.txt
+C0583,2025-10-08T13:18:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Priyanka Mehta,3,demo_booked,calls/C0583.txt
+C0800,2025-10-08T18:34:00Z,cs_check_in,outbound,A2089,The Coalyard Grill,Rhodri Bevan,4,ok,calls/C0800.txt
+C1279,2025-10-09T13:26:00Z,cs_renewal,outbound,A2549,The Sorting Office Coffee House,Declan Furey,4,renewed,calls/C1279.txt
+C1228,2025-10-09T13:49:00Z,cs_renewal,outbound,A3444,The Boathouse Coffee House,Rhodri Bevan,2,renewed,calls/C1228.txt
+C0449,2025-10-09T15:54:00Z,inbound_sales,inbound,,Ostler's Bar,Freya Dahl,4,signed_up,calls/C0449.txt
+C0788,2025-10-09T15:57:00Z,cs_check_in,outbound,A2715,Stonebridge Dining Rooms,Declan Furey,5,follow_up,calls/C0788.txt
+C0996,2025-10-10T09:21:00Z,cs_check_in,outbound,A3103,Harrow Lane Sports Centre,Georgia Lamb,2,follow_up,calls/C0996.txt
+C0217,2025-10-10T09:58:00Z,inbound_sales,inbound,,Copperfield Cafe,Priyanka Mehta,5,signed_up,calls/C0217.txt
+C0893,2025-10-10T11:58:00Z,cs_check_in,outbound,A3163,Umber Leisure Centre,Rhodri Bevan,2,follow_up,calls/C0893.txt
+C0353,2025-10-10T12:14:00Z,inbound_sales,inbound,,The Malt House,Priyanka Mehta,5,no_sale,calls/C0353.txt
+C1066,2025-10-10T12:34:00Z,cs_check_in,outbound,A2010,Cobbleside Wine Bar,Tomasz Wieczorek,4,ok,calls/C1066.txt
+C0257,2025-10-10T12:45:00Z,inbound_sales,inbound,,The Wharf Kitchen,Bella Okafor,4,signed_up,calls/C0257.txt
+C0684,2025-10-10T14:12:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,3,no_sale,calls/C0684.txt
+C1264,2025-10-10T14:49:00Z,cs_renewal,outbound,A2996,Ashcroft Leisure Centre,Adaeze Nwosu,2,renewed,calls/C1264.txt
+C1078,2025-10-10T15:51:00Z,cs_check_in,outbound,A2769,Orchard Lane Wine Bar,Tomasz Wieczorek,2,follow_up,calls/C1078.txt
+C0815,2025-10-10T15:59:00Z,cs_check_in,outbound,A2890,Dunmore Rooms,Tomasz Wieczorek,3,ok,calls/C0815.txt
+C0668,2025-10-10T16:23:00Z,outbound_sales,outbound,,The Sorting Office,Ruaridh Munro,4,no_sale,calls/C0668.txt
+C0423,2025-10-10T17:24:00Z,inbound_sales,inbound,,Copperfield Cafe,Ruaridh Munro,4,signed_up,calls/C0423.txt
+C0437,2025-10-10T17:55:00Z,inbound_sales,inbound,,The Boathouse Grill,Jamie Thornton,3,no_sale,calls/C0437.txt
+C0630,2025-10-11T11:44:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Priyanka Mehta,3,demo_booked,calls/C0630.txt
+C0757,2025-10-11T17:29:00Z,cs_check_in,outbound,A2876,The Cooperage Cafe,Declan Furey,2,follow_up,calls/C0757.txt
+C0683,2025-10-13T08:28:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,2,demo_booked,calls/C0683.txt
+C0290,2025-10-13T12:53:00Z,inbound_sales,inbound,,The Malt House (12 sites),Bella Okafor,5,no_sale,calls/C0290.txt
+C0135,2025-10-13T13:06:00Z,inbound_sales,inbound,,Harbourgate Rooms (10 sites),Bella Okafor,6,signed_up,calls/C0135.txt
+C0921,2025-10-13T17:19:00Z,cs_check_in,outbound,A2768,Cressbrook Tap Room,Georgia Lamb,4,ok,calls/C0921.txt
+C0596,2025-10-14T09:09:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Ruaridh Munro,4,no_sale,calls/C0596.txt
+C0985,2025-10-14T10:32:00Z,cs_check_in,outbound,A2500,The Granary Cafe,Declan Furey,3,at_risk,calls/C0985.txt
+C0866,2025-10-14T12:30:00Z,cs_check_in,outbound,A2850,Hesketh Kitchen,Declan Furey,2,ok,calls/C0866.txt
+C0538,2025-10-14T14:27:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,3,demo_booked,calls/C0538.txt
+C0388,2025-10-14T15:17:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Ruaridh Munro,4,signed_up,calls/C0388.txt
+C0070,2025-10-14T16:48:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (4 sites),Freya Dahl,3,signed_up,calls/C0070.txt
+C0485,2025-10-14T17:18:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Tamsin Cole,5,signed_up,calls/C0485.txt
+C1234,2025-10-14T17:28:00Z,cs_renewal,outbound,A3296,The Parcel Office Wine Bar,Rhodri Bevan,2,renewed,calls/C1234.txt
+C0462,2025-10-15T10:49:00Z,inbound_sales,inbound,,The Malt House (3 sites),Priyanka Mehta,5,signed_up,calls/C0462.txt
+C1088,2025-10-15T11:45:00Z,cs_renewal,outbound,A3322,Ferrymount Grill,Declan Furey,2,renewed,calls/C1088.txt
+C1496,2025-10-15T14:29:00Z,support,inbound,A3235,The Loom Bar,Priya Evans,3,resolved,calls/C1496.txt
+C0133,2025-10-15T15:53:00Z,inbound_sales,inbound,,Harbourgate Rooms (4 sites),Priyanka Mehta,6,signed_up,calls/C0133.txt
+C0544,2025-10-15T16:30:00Z,outbound_sales,outbound,,The Sorting Office,Priyanka Mehta,5,no_sale,calls/C0544.txt
+C0686,2025-10-16T11:05:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Kwabena Asante,4,no_sale,calls/C0686.txt
+C0259,2025-10-16T12:20:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Kwabena Asante,5,no_sale,calls/C0259.txt
+C0650,2025-10-16T14:18:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Ruaridh Munro,2,no_sale,calls/C0650.txt
+C1256,2025-10-17T08:00:00Z,cs_renewal,outbound,A2472,Tarnside Coffee House,Adaeze Nwosu,3,renewed,calls/C1256.txt
+C0472,2025-10-17T11:40:00Z,inbound_sales,inbound,,The Malt House (9 sites),Kwabena Asante,5,no_sale,calls/C0472.txt
+C1440,2025-10-17T11:46:00Z,support,inbound,A3411,Sandhaven Wine Bar,Dev Grant,3,escalated,calls/C1440.txt
+C0628,2025-10-17T11:58:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Ruaridh Munro,2,no_sale,calls/C0628.txt
+C0111,2025-10-17T13:15:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Bella Okafor,5,signed_up,calls/C0111.txt
+C0067,2025-10-17T13:54:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Freya Dahl,3,no_sale,calls/C0067.txt
+C0071,2025-10-17T15:22:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Kwabena Asante,4,no_sale,calls/C0071.txt
+C1347,2025-10-17T15:35:00Z,support,inbound,A3390,The Sorting Office Grill,Dara Vance,4,resolved,calls/C1347.txt
+C0042,2025-10-17T16:10:00Z,inbound_sales,inbound,,Copperfield Cafe (5 sites),Ruaridh Munro,5,no_sale,calls/C0042.txt
+C0366,2025-10-17T17:00:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (8 sites),Kwabena Asante,4,no_sale,calls/C0366.txt
+C0861,2025-10-18T08:00:00Z,cs_check_in,outbound,A2170,The Old Assembly Brasserie,Declan Furey,4,follow_up,calls/C0861.txt
+C0168,2025-10-18T13:37:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Jamie Thornton,6,signed_up,calls/C0168.txt
+C0301,2025-10-18T15:46:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (2 sites),Bella Okafor,5,signed_up,calls/C0301.txt
+C0033,2025-10-19T15:39:00Z,inbound_sales,inbound,,The Boathouse Grill,Jamie Thornton,5,signed_up,calls/C0033.txt
+C0585,2025-10-20T10:14:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Jamie Thornton,3,no_sale,calls/C0585.txt
+C0766,2025-10-20T10:45:00Z,cs_check_in,outbound,A3448,Barleycroft Grill,Adaeze Nwosu,4,follow_up,calls/C0766.txt
+C0884,2025-10-20T15:43:00Z,cs_check_in,outbound,A2073,The Pump House Rooms,Sunita Rao,4,ok,calls/C0884.txt
+C1290,2025-10-20T17:45:00Z,cs_renewal,outbound,A3447,Tarnside Kitchen,Rhodri Bevan,3,renewed,calls/C1290.txt
+C1110,2025-10-20T17:47:00Z,cs_renewal,outbound,A2253,Tarnside Sports Centre,Declan Furey,2,churned,calls/C1110.txt
+C0328,2025-10-20T18:53:00Z,inbound_sales,inbound,,Copperfield Cafe (3 sites),Ruaridh Munro,6,no_sale,calls/C0328.txt
+C0017,2025-10-21T10:59:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Priyanka Mehta,5,no_sale,calls/C0017.txt
+C1141,2025-10-21T11:21:00Z,cs_renewal,outbound,A3255,Quayside Dining Rooms,Tomasz Wieczorek,3,churned,calls/C1141.txt
+C1106,2025-10-21T17:17:00Z,cs_renewal,outbound,A2201,The Cooperage Grill,Adaeze Nwosu,4,renewed,calls/C1106.txt
+C0858,2025-10-21T18:50:00Z,cs_check_in,outbound,A3415,Orchard Lane Tap Room,Tomasz Wieczorek,4,ok,calls/C0858.txt
+C0629,2025-10-22T09:56:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Freya Dahl,4,demo_booked,calls/C0629.txt
+C1448,2025-10-22T13:13:00Z,support,inbound,A2458,Rowan Tree Bar,Xavier Bishop,2,resolved,calls/C1448.txt
+C1201,2025-10-22T13:27:00Z,cs_renewal,outbound,A2745,The Pilot House Tap Room,Sunita Rao,2,renewed,calls/C1201.txt
+C0876,2025-10-22T16:22:00Z,cs_check_in,outbound,A3203,Orrery Rooms,Rhodri Bevan,3,follow_up,calls/C0876.txt
+C0108,2025-10-22T16:28:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Ruaridh Munro,6,signed_up,calls/C0108.txt
+C0848,2025-10-22T17:25:00Z,cs_check_in,outbound,A2838,The Signal Box Dining Rooms,Adaeze Nwosu,2,ok,calls/C0848.txt
+C0091,2025-10-23T09:05:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (3 sites),Priyanka Mehta,5,signed_up,calls/C0091.txt
+C1214,2025-10-23T10:26:00Z,cs_renewal,outbound,A2426,Harbourgate Leisure Centre,Declan Furey,2,renewed,calls/C1214.txt
+C1208,2025-10-23T12:38:00Z,cs_renewal,outbound,A2786,Mallard Rooms,Tomasz Wieczorek,4,renewed,calls/C1208.txt
+C0645,2025-10-23T14:53:00Z,outbound_sales,outbound,,The Sorting Office,Freya Dahl,4,demo_booked,calls/C0645.txt
+C1060,2025-10-24T08:16:00Z,cs_check_in,outbound,A3357,Linden Tap Room,Declan Furey,2,ok,calls/C1060.txt
+C1474,2025-10-24T08:45:00Z,support,inbound,A2869,Ravelston Sports Centre,Dev Grant,4,resolved,calls/C1474.txt
+C1115,2025-10-24T09:29:00Z,cs_renewal,outbound,A2944,Ninefields Cafe,Tomasz Wieczorek,4,renewed,calls/C1115.txt
+C0409,2025-10-24T09:53:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Oscar Lindgren,6,signed_up,calls/C0409.txt
+C0040,2025-10-24T10:58:00Z,inbound_sales,inbound,,Copperfield Cafe (11 sites),Oscar Lindgren,5,signed_up,calls/C0040.txt
+C0054,2025-10-24T11:17:00Z,inbound_sales,inbound,,Saltmarsh Bistro (6 sites),Oscar Lindgren,5,signed_up,calls/C0054.txt
+C0408,2025-10-24T11:53:00Z,inbound_sales,inbound,,The Boathouse Grill (7 sites),Jamie Thornton,6,no_sale,calls/C0408.txt
+C1443,2025-10-24T12:18:00Z,support,inbound,A2573,Wrayburn Kitchen,Imogen Yates,3,resolved,calls/C1443.txt
+C0753,2025-10-24T12:33:00Z,cs_check_in,outbound,A2637,Threadneedle Bar,Sunita Rao,4,ok,calls/C0753.txt
+C0907,2025-10-24T12:40:00Z,cs_check_in,outbound,A3233,Linden Dining Rooms,Tomasz Wieczorek,4,at_risk,calls/C0907.txt
+C0264,2025-10-24T12:48:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Jamie Thornton,6,signed_up,calls/C0264.txt
+C0667,2025-10-24T13:42:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Oscar Lindgren,2,demo_booked,calls/C0667.txt
+C0909,2025-10-24T13:48:00Z,cs_check_in,outbound,A3212,Threadneedle Tap Room,Sunita Rao,3,ok,calls/C0909.txt
+C0333,2025-10-24T14:21:00Z,inbound_sales,inbound,,Copperfield Cafe,Freya Dahl,6,signed_up,calls/C0333.txt
+C0946,2025-10-24T14:21:00Z,cs_check_in,outbound,A2718,The Saltern Bar and Grill,Sunita Rao,2,at_risk,calls/C0946.txt
+C0323,2025-10-24T17:20:00Z,inbound_sales,inbound,,Nettlebed Brasserie (2 sites),Bella Okafor,3,signed_up,calls/C0323.txt
+C0998,2025-10-24T17:59:00Z,cs_check_in,outbound,A2807,The Bellhouse Bar,Sunita Rao,4,ok,calls/C0998.txt
+C0588,2025-10-25T11:06:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Kwabena Asante,2,no_sale,calls/C0588.txt
+C0464,2025-10-25T12:34:00Z,inbound_sales,inbound,,The Malt House (4 sites),Tamsin Cole,3,no_sale,calls/C0464.txt
+C0410,2025-10-26T14:47:00Z,inbound_sales,inbound,,The Drapers Wine Bar (12 sites),Bella Okafor,4,signed_up,calls/C0410.txt
+C1406,2025-10-27T10:21:00Z,support,inbound,A2117,The Long Room Grill,Xavier Bishop,4,escalated,calls/C1406.txt
+C0777,2025-10-27T17:16:00Z,cs_check_in,outbound,A3167,The Fenwick Tap Room,Tomasz Wieczorek,2,ok,calls/C0777.txt
+C0718,2025-10-27T18:08:00Z,cs_check_in,outbound,A3112,Kingsmead Bar,Rhodri Bevan,2,follow_up,calls/C0718.txt
+C0141,2025-10-27T18:14:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (8 sites),Kwabena Asante,4,no_sale,calls/C0141.txt
+C0228,2025-10-27T18:37:00Z,inbound_sales,inbound,,Nettlebed Brasserie (8 sites),Oscar Lindgren,3,no_sale,calls/C0228.txt
+C0171,2025-10-28T11:13:00Z,inbound_sales,inbound,,The Malt House (2 sites),Ruaridh Munro,4,no_sale,calls/C0171.txt
+C0038,2025-10-28T13:56:00Z,inbound_sales,inbound,,The Drapers Wine Bar (10 sites),Tamsin Cole,5,no_sale,calls/C0038.txt
+C0411,2025-10-29T09:40:00Z,inbound_sales,inbound,,The Wharf Kitchen,Kwabena Asante,6,signed_up,calls/C0411.txt
+C0187,2025-10-29T10:32:00Z,inbound_sales,inbound,,Harbourgate Rooms (10 sites),Jamie Thornton,4,signed_up,calls/C0187.txt
+C0109,2025-10-29T12:12:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,3,signed_up,calls/C0109.txt
+C1238,2025-10-29T14:15:00Z,cs_renewal,outbound,A2123,Hartwell Grill,Rhodri Bevan,2,churned,calls/C1238.txt
+C0414,2025-10-29T18:21:00Z,inbound_sales,inbound,,Harbourgate Rooms,Ruaridh Munro,6,signed_up,calls/C0414.txt
+C0163,2025-10-30T09:03:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Kwabena Asante,4,signed_up,calls/C0163.txt
+C1170,2025-10-30T10:06:00Z,cs_renewal,outbound,A2429,Ninefields Sports Centre,Tomasz Wieczorek,4,renewed,calls/C1170.txt
+C0461,2025-10-30T10:40:00Z,inbound_sales,inbound,,Copperfield Cafe (9 sites),Ruaridh Munro,5,no_sale,calls/C0461.txt
+C0106,2025-10-30T12:13:00Z,inbound_sales,inbound,,The Malt House,Jamie Thornton,3,no_sale,calls/C0106.txt
+C0162,2025-10-30T14:14:00Z,inbound_sales,inbound,,Copperfield Cafe (11 sites),Ruaridh Munro,5,no_sale,calls/C0162.txt
+C0913,2025-10-30T16:46:00Z,cs_check_in,outbound,A2667,Saltmarsh Wine Bar,Georgia Lamb,3,ok,calls/C0913.txt
+C0929,2025-10-30T17:31:00Z,cs_check_in,outbound,A3419,Pennyfield,Declan Furey,4,ok,calls/C0929.txt
+C0773,2025-10-30T18:16:00Z,cs_check_in,outbound,A2618,Brockholes Bistro,Rhodri Bevan,2,ok,calls/C0773.txt
+C0075,2025-10-31T08:27:00Z,inbound_sales,inbound,,Ostler's Bar,Jamie Thornton,4,no_sale,calls/C0075.txt
+C0131,2025-10-31T08:31:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Jamie Thornton,3,signed_up,calls/C0131.txt
+C1259,2025-10-31T08:42:00Z,cs_renewal,outbound,A3209,Fallowfield,Adaeze Nwosu,4,pending,calls/C1259.txt
+C0120,2025-10-31T10:03:00Z,inbound_sales,inbound,,Copperfield Cafe,Kwabena Asante,6,signed_up,calls/C0120.txt
+C1173,2025-10-31T10:32:00Z,cs_renewal,outbound,A2472,Tarnside Coffee House,Adaeze Nwosu,2,renewed,calls/C1173.txt
+C1048,2025-10-31T11:45:00Z,cs_check_in,outbound,A3064,The Wheelwright Bar,Rhodri Bevan,3,ok,calls/C1048.txt
+C1253,2025-10-31T11:48:00Z,cs_renewal,outbound,A3182,The Bellhouse Dining Rooms,Declan Furey,3,renewed,calls/C1253.txt
+C0874,2025-10-31T13:07:00Z,cs_check_in,outbound,A2768,Cressbrook Tap Room,Georgia Lamb,3,ok,calls/C0874.txt
+C1427,2025-10-31T13:32:00Z,support,inbound,A2951,Linden Sports Centre,Maya Ellis,4,resolved,calls/C1427.txt
+C0047,2025-10-31T13:47:00Z,inbound_sales,inbound,,Copperfield Cafe (2 sites),Priyanka Mehta,6,no_sale,calls/C0047.txt
+C1304,2025-10-31T14:31:00Z,cs_renewal,outbound,A2247,Pennyfield Grill,Sunita Rao,3,renewed,calls/C1304.txt
+C0699,2025-10-31T15:04:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,4,no_sale,calls/C0699.txt
+C0564,2025-11-02T09:30:00Z,outbound_sales,outbound,,Alderfield Cafe,Priyanka Mehta,2,demo_booked,calls/C0564.txt
+C1063,2025-11-03T12:49:00Z,cs_check_in,outbound,A2619,Hawksmoor Cafe,Sunita Rao,4,ok,calls/C1063.txt
+C0944,2025-11-03T16:32:00Z,cs_check_in,outbound,A3247,The Coalyard Sports Centre,Georgia Lamb,2,follow_up,calls/C0944.txt
+C0778,2025-11-03T17:49:00Z,cs_check_in,outbound,A2134,The Tannery Grill,Adaeze Nwosu,2,ok,calls/C0778.txt
+C0898,2025-11-04T13:10:00Z,cs_check_in,outbound,A2305,Halyard Leisure Centre,Rhodri Bevan,2,follow_up,calls/C0898.txt
+C0834,2025-11-04T13:25:00Z,cs_check_in,outbound,A2980,Culvert Rooms,Declan Furey,4,at_risk,calls/C0834.txt
+C1441,2025-11-04T14:21:00Z,support,inbound,A2674,Quayside Leisure Centre,Priya Evans,3,resolved,calls/C1441.txt
+C1065,2025-11-04T14:32:00Z,cs_check_in,outbound,A2604,Mapleton Cafe,Rhodri Bevan,2,follow_up,calls/C1065.txt
+C1360,2025-11-04T18:00:00Z,support,inbound,A3208,The Printworks Coffee House,Imogen Yates,3,escalated,calls/C1360.txt
+C0902,2025-11-05T09:55:00Z,cs_check_in,outbound,A2255,Thorne and Vale Grill,Rhodri Bevan,3,ok,calls/C0902.txt
+C0986,2025-11-05T16:15:00Z,cs_check_in,outbound,A2612,Halyard Bistro,Tomasz Wieczorek,4,ok,calls/C0986.txt
+C1210,2025-11-06T08:51:00Z,cs_renewal,outbound,A3078,Threadneedle Kitchen,Declan Furey,2,renewed,calls/C1210.txt
+C0871,2025-11-06T09:42:00Z,cs_check_in,outbound,A2956,The Cooperage Bar and Grill,Sunita Rao,2,at_risk,calls/C0871.txt
+C0701,2025-11-06T11:24:00Z,cs_check_in,outbound,A2053,Kettlewick Cafe,Adaeze Nwosu,2,follow_up,calls/C0701.txt
+C0636,2025-11-06T11:35:00Z,outbound_sales,outbound,,Alderfield Cafe,Priyanka Mehta,2,no_sale,calls/C0636.txt
+C0369,2025-11-06T12:14:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Kwabena Asante,5,signed_up,calls/C0369.txt
+C0068,2025-11-06T12:39:00Z,inbound_sales,inbound,,Harbourgate Rooms (4 sites),Jamie Thornton,6,signed_up,calls/C0068.txt
+C0218,2025-11-06T13:39:00Z,inbound_sales,inbound,,The Boathouse Grill,Oscar Lindgren,2,no_sale,calls/C0218.txt
+C0104,2025-11-07T09:24:00Z,inbound_sales,inbound,,Copperfield Cafe,Jamie Thornton,4,no_sale,calls/C0104.txt
+C0005,2025-11-07T09:57:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,4,signed_up,calls/C0005.txt
+C1057,2025-11-07T10:36:00Z,cs_check_in,outbound,A3033,The Malt House,Georgia Lamb,2,at_risk,calls/C1057.txt
+C0855,2025-11-07T11:45:00Z,cs_check_in,outbound,A2207,Ostler's,Adaeze Nwosu,3,ok,calls/C0855.txt
+C1422,2025-11-07T11:57:00Z,support,inbound,A3081,Rowan Tree Bistro,Dev Grant,4,escalated,calls/C1422.txt
+C0258,2025-11-07T13:26:00Z,inbound_sales,inbound,,Greyfriars Tap Room (8 sites),Tamsin Cole,6,signed_up,calls/C0258.txt
+C1162,2025-11-07T13:29:00Z,cs_renewal,outbound,A2072,Little Ness Coffee House,Georgia Lamb,2,renewed,calls/C1162.txt
+C0493,2025-11-07T14:09:00Z,inbound_sales,inbound,,Saltmarsh Bistro (10 sites),Jamie Thornton,3,signed_up,calls/C0493.txt
+C0402,2025-11-09T15:44:00Z,inbound_sales,inbound,,The Boathouse Grill,Bella Okafor,4,signed_up,calls/C0402.txt
+C1082,2025-11-10T10:44:00Z,cs_renewal,outbound,A3287,The Granary Sports Centre,Rhodri Bevan,3,renewed,calls/C1082.txt
+C0501,2025-11-10T13:12:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (4 sites),Jamie Thornton,5,signed_up,calls/C0501.txt
+C1191,2025-11-10T14:43:00Z,cs_renewal,outbound,A3132,Tarnside Bistro,Tomasz Wieczorek,2,renewed,calls/C1191.txt
+C1499,2025-11-10T18:17:00Z,support,inbound,A2526,The Boathouse Cafe,Xavier Bishop,2,escalated,calls/C1499.txt
+C0663,2025-11-11T11:40:00Z,outbound_sales,outbound,,Alderfield Cafe,Ruaridh Munro,3,demo_booked,calls/C0663.txt
+C0572,2025-11-11T16:29:00Z,outbound_sales,outbound,,Alderfield Cafe,Priyanka Mehta,2,no_sale,calls/C0572.txt
+C1020,2025-11-11T17:41:00Z,cs_check_in,outbound,A2702,Orrery Grill,Tomasz Wieczorek,4,follow_up,calls/C1020.txt
+C0625,2025-11-12T08:56:00Z,outbound_sales,outbound,,Alderfield Cafe,Ruaridh Munro,3,no_sale,calls/C0625.txt
+C1398,2025-11-12T10:17:00Z,support,inbound,A2202,Quarryman's Rooms,Wren Parry,4,resolved,calls/C1398.txt
+C0710,2025-11-12T11:08:00Z,cs_check_in,outbound,A2814,The Printworks Grill,Sunita Rao,2,at_risk,calls/C0710.txt
+C1483,2025-11-12T11:31:00Z,support,inbound,A3394,The Malt House Leisure Centre,Wren Parry,4,escalated,calls/C1483.txt
+C0393,2025-11-12T14:02:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Tamsin Cole,6,signed_up,calls/C0393.txt
+C0681,2025-11-12T14:45:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Bella Okafor,3,no_sale,calls/C0681.txt
+C1008,2025-11-13T08:31:00Z,cs_check_in,outbound,A2458,Rowan Tree Bar,Tomasz Wieczorek,2,ok,calls/C1008.txt
+C0957,2025-11-14T08:50:00Z,cs_check_in,outbound,A3295,Fennel and Rye Wine Bar,Adaeze Nwosu,2,at_risk,calls/C0957.txt
+C0028,2025-11-14T11:00:00Z,inbound_sales,inbound,,The Drapers Wine Bar (6 sites),Tamsin Cole,5,signed_up,calls/C0028.txt
+C1500,2025-11-14T12:42:00Z,support,inbound,A2205,Ashcroft Bistro,Cerys Reid,4,resolved,calls/C1500.txt
+C1490,2025-11-14T13:47:00Z,support,inbound,A2707,Wyvern Dining Rooms,Wren Parry,5,resolved,calls/C1490.txt
+C0463,2025-11-14T15:25:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Oscar Lindgren,5,no_sale,calls/C0463.txt
+C0758,2025-11-14T17:24:00Z,cs_check_in,outbound,A2564,Culvert Bar and Grill,Sunita Rao,4,at_risk,calls/C0758.txt
+C0122,2025-11-14T18:08:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,4,no_sale,calls/C0122.txt
+C0058,2025-11-16T15:19:00Z,inbound_sales,inbound,,Ostler's Bar (2 sites),Oscar Lindgren,6,signed_up,calls/C0058.txt
+C0638,2025-11-17T13:18:00Z,outbound_sales,outbound,,The Sorting Office,Jamie Thornton,2,no_sale,calls/C0638.txt
+C0880,2025-11-17T15:44:00Z,cs_check_in,outbound,A2344,Hartwell Wine Bar,Rhodri Bevan,3,ok,calls/C0880.txt
+C0696,2025-11-17T16:05:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Ruaridh Munro,4,no_sale,calls/C0696.txt
+C0619,2025-11-17T16:16:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Jamie Thornton,2,demo_booked,calls/C0619.txt
+C1028,2025-11-17T17:01:00Z,cs_check_in,outbound,A2570,Burnside Grill,Declan Furey,4,follow_up,calls/C1028.txt
+C0881,2025-11-18T08:47:00Z,cs_check_in,outbound,A2640,Pollard Wine Bar,Georgia Lamb,2,at_risk,calls/C0881.txt
+C1454,2025-11-18T12:16:00Z,support,inbound,A3017,Cressbrook Dining Rooms,Pip Iqbal,4,escalated,calls/C1454.txt
+C0215,2025-11-19T09:23:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,6,signed_up,calls/C0215.txt
+C1250,2025-11-19T16:48:00Z,cs_renewal,outbound,A2558,Sandhaven Tap Room,Sunita Rao,3,renewed,calls/C1250.txt
+C0994,2025-11-19T18:32:00Z,cs_check_in,outbound,A3419,Pennyfield,Declan Furey,3,ok,calls/C0994.txt
+C1125,2025-11-19T18:51:00Z,cs_renewal,outbound,A2550,The Ice House Tap Room,Georgia Lamb,4,renewed,calls/C1125.txt
+C0780,2025-11-20T08:40:00Z,cs_check_in,outbound,A2565,The Parcel Office Cafe,Rhodri Bevan,4,ok,calls/C0780.txt
+C0147,2025-11-20T12:30:00Z,inbound_sales,inbound,,Ostler's Bar,Kwabena Asante,5,signed_up,calls/C0147.txt
+C0140,2025-11-20T15:35:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (10 sites),Kwabena Asante,4,signed_up,calls/C0140.txt
+C0381,2025-11-20T16:54:00Z,inbound_sales,inbound,,Greyfriars Tap Room (6 sites),Oscar Lindgren,4,signed_up,calls/C0381.txt
+C0805,2025-11-21T09:23:00Z,cs_check_in,outbound,A3378,Threadneedle Wine Bar,Declan Furey,2,follow_up,calls/C0805.txt
+C0320,2025-11-21T12:53:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (9 sites),Jamie Thornton,4,signed_up,calls/C0320.txt
+C0534,2025-11-21T14:07:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,3,demo_booked,calls/C0534.txt
+C0728,2025-11-21T14:44:00Z,cs_check_in,outbound,A3193,The Foundry Bistro,Georgia Lamb,2,follow_up,calls/C0728.txt
+C0503,2025-11-21T15:26:00Z,inbound_sales,inbound,,Greyfriars Tap Room (4 sites),Ruaridh Munro,4,signed_up,calls/C0503.txt
+C0207,2025-11-21T15:37:00Z,inbound_sales,inbound,,Copperfield Cafe (6 sites),Kwabena Asante,4,signed_up,calls/C0207.txt
+C1081,2025-11-21T16:06:00Z,cs_renewal,outbound,A2971,The Wharf Bistro,Adaeze Nwosu,3,pending,calls/C1081.txt
+C0355,2025-11-21T16:50:00Z,inbound_sales,inbound,,The Boathouse Grill (7 sites),Tamsin Cole,5,no_sale,calls/C0355.txt
+C0451,2025-11-21T18:36:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,5,signed_up,calls/C0451.txt
+C0173,2025-11-21T18:46:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,3,signed_up,calls/C0173.txt
+C1061,2025-11-24T13:00:00Z,cs_check_in,outbound,A2341,Copperfield Rooms,Adaeze Nwosu,3,ok,calls/C1061.txt
+C0989,2025-11-24T14:48:00Z,cs_check_in,outbound,A2038,The Pannier Market Rooms,Sunita Rao,4,ok,calls/C0989.txt
+C0965,2025-11-24T16:41:00Z,cs_check_in,outbound,A2279,Kingsmead Tap Room,Sunita Rao,3,ok,calls/C0965.txt
+C1135,2025-11-25T09:01:00Z,cs_renewal,outbound,A2429,Ninefields Sports Centre,Tomasz Wieczorek,4,pending,calls/C1135.txt
+C0531,2025-11-25T13:20:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Jamie Thornton,2,no_sale,calls/C0531.txt
+C1354,2025-11-25T13:57:00Z,support,inbound,A2277,Pendle Bistro,Dara Vance,4,escalated,calls/C1354.txt
+C1270,2025-11-25T16:55:00Z,cs_renewal,outbound,A3297,The Long Room Rooms,Declan Furey,2,churned,calls/C1270.txt
+C0139,2025-11-25T17:16:00Z,inbound_sales,inbound,,Harbourgate Rooms (10 sites),Bella Okafor,4,no_sale,calls/C0139.txt
+C0713,2025-11-26T13:52:00Z,cs_check_in,outbound,A2819,Ostler's Brasserie,Declan Furey,3,ok,calls/C0713.txt
+C1292,2025-11-26T18:19:00Z,cs_renewal,outbound,A2823,The Long Room Wine Bar,Declan Furey,4,renewed,calls/C1292.txt
+C1200,2025-11-27T10:30:00Z,cs_renewal,outbound,A2582,Carrick Kitchen,Georgia Lamb,4,pending,calls/C1200.txt
+C1108,2025-11-27T10:58:00Z,cs_renewal,outbound,A2927,Wyvern Tap Room,Georgia Lamb,3,renewed,calls/C1108.txt
+C0454,2025-11-27T11:08:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,5,signed_up,calls/C0454.txt
+C0433,2025-11-27T13:06:00Z,inbound_sales,inbound,,The Wharf Kitchen (2 sites),Kwabena Asante,4,signed_up,calls/C0433.txt
+C1395,2025-11-27T13:32:00Z,support,inbound,A2483,The Gatehouse Tap Room,Imogen Yates,3,resolved,calls/C1395.txt
+C1325,2025-11-27T17:06:00Z,support,inbound,A3271,The Ice House Rooms,Wren Parry,5,escalated,calls/C1325.txt
+C0927,2025-11-28T08:09:00Z,cs_check_in,outbound,A2670,The Drapers Rooms,Tomasz Wieczorek,4,ok,calls/C0927.txt
+C0513,2025-11-28T08:41:00Z,inbound_sales,inbound,,The Drapers Wine Bar (5 sites),Freya Dahl,7,signed_up,calls/C0513.txt
+C1318,2025-11-28T09:25:00Z,cs_renewal,outbound,A2752,Stonebridge Kitchen,Rhodri Bevan,2,renewed,calls/C1318.txt
+C0693,2025-11-28T09:30:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Bella Okafor,3,no_sale,calls/C0693.txt
+C0990,2025-11-28T11:01:00Z,cs_check_in,outbound,A3040,Ivy Gate Sports Centre,Sunita Rao,2,ok,calls/C0990.txt
+C1165,2025-11-28T14:42:00Z,cs_renewal,outbound,A3458,Marlow Street Bar and Grill,Tomasz Wieczorek,2,renewed,calls/C1165.txt
+C0641,2025-11-28T14:54:00Z,outbound_sales,outbound,,The Sorting Office,Ruaridh Munro,4,no_sale,calls/C0641.txt
+C0911,2025-11-28T15:02:00Z,cs_check_in,outbound,A3494,Cobbleside Grill,Adaeze Nwosu,3,ok,calls/C0911.txt
+C0991,2025-11-28T15:42:00Z,cs_check_in,outbound,A2920,Redbourne,Rhodri Bevan,3,at_risk,calls/C0991.txt
+C1034,2025-11-29T08:40:00Z,cs_check_in,outbound,A2023,The Wharf,Adaeze Nwosu,4,ok,calls/C1034.txt
+C1099,2025-11-29T12:57:00Z,cs_renewal,outbound,A2291,Tollerton Rooms,Rhodri Bevan,4,renewed,calls/C1099.txt
+C0358,2025-12-01T10:31:00Z,inbound_sales,inbound,,The Wharf Kitchen,Jamie Thornton,5,no_sale,calls/C0358.txt
+C1359,2025-12-01T12:46:00Z,support,inbound,A3314,Stonebridge Coffee House,Wren Parry,3,resolved,calls/C1359.txt
+C1163,2025-12-02T08:13:00Z,cs_renewal,outbound,A2400,Alderfield Sports Centre,Sunita Rao,2,churned,calls/C1163.txt
+C0561,2025-12-02T11:31:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Priyanka Mehta,4,no_sale,calls/C0561.txt
+C0676,2025-12-02T13:59:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,5,no_sale,calls/C0676.txt
+C0100,2025-12-02T15:35:00Z,inbound_sales,inbound,,Ostler's Bar (11 sites),Ruaridh Munro,5,signed_up,calls/C0100.txt
+C0673,2025-12-02T15:53:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Tamsin Cole,2,no_sale,calls/C0673.txt
+C0955,2025-12-02T16:16:00Z,cs_check_in,outbound,A2119,Thorne and Vale Coffee House,Rhodri Bevan,4,follow_up,calls/C0955.txt
+C0195,2025-12-02T16:32:00Z,inbound_sales,inbound,,The Drapers Wine Bar (5 sites),Kwabena Asante,4,no_sale,calls/C0195.txt
+C1220,2025-12-02T17:07:00Z,cs_renewal,outbound,A3494,Cobbleside Grill,Adaeze Nwosu,3,renewed,calls/C1220.txt
+C0219,2025-12-02T17:32:00Z,inbound_sales,inbound,,The Boathouse Grill,Jamie Thornton,6,signed_up,calls/C0219.txt
+C0559,2025-12-03T10:20:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Jamie Thornton,2,demo_booked,calls/C0559.txt
+C1187,2025-12-03T13:40:00Z,cs_renewal,outbound,A3092,Mapleton Bistro,Georgia Lamb,4,renewed,calls/C1187.txt
+C0126,2025-12-03T13:52:00Z,inbound_sales,inbound,,Ostler's Bar (7 sites),Bella Okafor,6,signed_up,calls/C0126.txt
+C0338,2025-12-03T16:54:00Z,inbound_sales,inbound,,The Boathouse Grill (3 sites),Kwabena Asante,3,signed_up,calls/C0338.txt
+C1230,2025-12-03T17:30:00Z,cs_renewal,outbound,A2960,Fenby Brasserie,Tomasz Wieczorek,4,pending,calls/C1230.txt
+C0507,2025-12-04T10:11:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Ruaridh Munro,5,no_sale,calls/C0507.txt
+C0734,2025-12-04T11:37:00Z,cs_check_in,outbound,A3113,The Lamplighter Rooms,Sunita Rao,2,ok,calls/C0734.txt
+C0763,2025-12-04T14:14:00Z,cs_check_in,outbound,A2227,Lydgate Leisure Centre,Tomasz Wieczorek,2,ok,calls/C0763.txt
+C0357,2025-12-04T17:39:00Z,inbound_sales,inbound,,The Boathouse Grill (8 sites),Priyanka Mehta,6,no_sale,calls/C0357.txt
+C1255,2025-12-05T08:11:00Z,cs_renewal,outbound,A2413,The Old Assembly Wine Bar,Declan Furey,3,renewed,calls/C1255.txt
+C1343,2025-12-05T08:54:00Z,support,inbound,A2377,The Kiln Coffee House,Maya Ellis,3,resolved,calls/C1343.txt
+C1193,2025-12-05T09:18:00Z,cs_renewal,outbound,A2147,The Malt House Bar,Declan Furey,2,renewed,calls/C1193.txt
+C0816,2025-12-05T09:46:00Z,cs_check_in,outbound,A3082,Tanner's Yard Cafe,Tomasz Wieczorek,2,follow_up,calls/C0816.txt
+C0830,2025-12-05T10:15:00Z,cs_check_in,outbound,A2875,The Drapers Coffee House,Rhodri Bevan,4,follow_up,calls/C0830.txt
+C1236,2025-12-05T10:24:00Z,cs_renewal,outbound,A2469,The Pilot House Rooms,Georgia Lamb,4,pending,calls/C1236.txt
+C0775,2025-12-05T10:26:00Z,cs_check_in,outbound,A3143,Lydgate Sports Centre,Georgia Lamb,4,follow_up,calls/C0775.txt
+C0729,2025-12-05T11:11:00Z,cs_check_in,outbound,A2130,Wrayburn Cafe,Georgia Lamb,2,ok,calls/C0729.txt
+C1425,2025-12-05T11:15:00Z,support,inbound,A3100,The Gatehouse Leisure Centre,Cerys Reid,3,escalated,calls/C1425.txt
+C0188,2025-12-05T11:18:00Z,inbound_sales,inbound,,Ostler's Bar (12 sites),Tamsin Cole,4,no_sale,calls/C0188.txt
+C0280,2025-12-05T11:58:00Z,inbound_sales,inbound,,Copperfield Cafe (12 sites),Priyanka Mehta,4,signed_up,calls/C0280.txt
+C0975,2025-12-05T13:23:00Z,cs_check_in,outbound,A2400,Alderfield Sports Centre,Sunita Rao,3,follow_up,calls/C0975.txt
+C0263,2025-12-05T13:44:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,3,signed_up,calls/C0263.txt
+C0865,2025-12-05T17:12:00Z,cs_check_in,outbound,A2288,Redbourne Sports Centre,Rhodri Bevan,4,ok,calls/C0865.txt
+C0281,2025-12-05T17:21:00Z,inbound_sales,inbound,,The Drapers Wine Bar (3 sites),Bella Okafor,5,no_sale,calls/C0281.txt
+C1311,2025-12-05T18:14:00Z,cs_renewal,outbound,A2387,The Granary Bar,Adaeze Nwosu,3,renewed,calls/C1311.txt
+C1378,2025-12-06T10:57:00Z,support,inbound,A3397,Pennyfield Brasserie,Dara Vance,3,resolved,calls/C1378.txt
+C0026,2025-12-07T08:22:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Bella Okafor,6,signed_up,calls/C0026.txt
+C1179,2025-12-08T09:12:00Z,cs_renewal,outbound,A2568,Bramber Tap Room,Sunita Rao,2,churned,calls/C1179.txt
+C0225,2025-12-08T12:59:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Jamie Thornton,7,signed_up,calls/C0225.txt
+C0043,2025-12-08T13:20:00Z,inbound_sales,inbound,,Harbourgate Rooms,Oscar Lindgren,4,no_sale,calls/C0043.txt
+C1151,2025-12-08T14:59:00Z,cs_renewal,outbound,A2547,Threadneedle Sports Centre,Sunita Rao,2,renewed,calls/C1151.txt
+C1319,2025-12-09T18:24:00Z,cs_renewal,outbound,A3410,Pelham Rooms,Tomasz Wieczorek,2,renewed,calls/C1319.txt
+C0970,2025-12-10T08:10:00Z,cs_check_in,outbound,A3283,Wyvern Grill,Declan Furey,4,ok,calls/C0970.txt
+C0634,2025-12-10T08:37:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Freya Dahl,4,no_sale,calls/C0634.txt
+C0297,2025-12-10T09:32:00Z,inbound_sales,inbound,,The Wharf Kitchen,Ruaridh Munro,3,signed_up,calls/C0297.txt
+C0208,2025-12-10T11:24:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,5,signed_up,calls/C0208.txt
+C0283,2025-12-10T11:33:00Z,inbound_sales,inbound,,Copperfield Cafe (4 sites),Ruaridh Munro,3,signed_up,calls/C0283.txt
+C0243,2025-12-10T12:12:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Freya Dahl,3,no_sale,calls/C0243.txt
+C0417,2025-12-10T16:16:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Oscar Lindgren,3,no_sale,calls/C0417.txt
+C0049,2025-12-10T17:28:00Z,inbound_sales,inbound,,The Drapers Wine Bar (11 sites),Freya Dahl,6,signed_up,calls/C0049.txt
+C1166,2025-12-11T13:28:00Z,cs_renewal,outbound,A3125,The Gatehouse Bistro,Tomasz Wieczorek,2,renewed,calls/C1166.txt
+C0639,2025-12-11T14:31:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Kwabena Asante,4,no_sale,calls/C0639.txt
+C0072,2025-12-11T18:10:00Z,inbound_sales,inbound,,Harbourgate Rooms (11 sites),Oscar Lindgren,4,no_sale,calls/C0072.txt
+C1470,2025-12-12T08:59:00Z,support,inbound,A2619,Hawksmoor Cafe,Dev Grant,3,escalated,calls/C1470.txt
+C1358,2025-12-12T09:12:00Z,support,inbound,A2291,Tollerton Rooms,Pip Iqbal,4,escalated,calls/C1358.txt
+C0415,2025-12-12T10:06:00Z,inbound_sales,inbound,,Harbourgate Rooms (6 sites),Priyanka Mehta,4,no_sale,calls/C0415.txt
+C1159,2025-12-12T10:10:00Z,cs_renewal,outbound,A2915,The Malt House Brasserie,Declan Furey,2,pending,calls/C1159.txt
+C1153,2025-12-12T10:17:00Z,cs_renewal,outbound,A2302,The Pannier Market Sports Centre,Rhodri Bevan,3,churned,calls/C1153.txt
+C0078,2025-12-12T11:26:00Z,inbound_sales,inbound,,Ostler's Bar,Tamsin Cole,5,signed_up,calls/C0078.txt
+C1211,2025-12-12T11:35:00Z,cs_renewal,outbound,A2766,Ostler's Rooms,Adaeze Nwosu,4,renewed,calls/C1211.txt
+C1291,2025-12-12T12:02:00Z,cs_renewal,outbound,A2547,Threadneedle Sports Centre,Sunita Rao,3,pending,calls/C1291.txt
+C1348,2025-12-12T13:21:00Z,support,inbound,A3338,The Old Assembly Bar,Xavier Bishop,3,escalated,calls/C1348.txt
+C1113,2025-12-12T13:41:00Z,cs_renewal,outbound,A2010,Cobbleside Wine Bar,Tomasz Wieczorek,2,pending,calls/C1113.txt
+C0494,2025-12-12T14:07:00Z,inbound_sales,inbound,,The Malt House (6 sites),Jamie Thornton,4,no_sale,calls/C0494.txt
+C1365,2025-12-12T14:39:00Z,support,inbound,A2803,Harbourgate,Priya Nair,2,resolved,calls/C1365.txt
+C0951,2025-12-12T16:04:00Z,cs_check_in,outbound,A2599,Whitlow Leisure Centre,Tomasz Wieczorek,3,at_risk,calls/C0951.txt
+C1149,2025-12-12T17:35:00Z,cs_renewal,outbound,A3273,The Boathouse Kitchen,Declan Furey,3,renewed,calls/C1149.txt
+C0385,2025-12-12T17:55:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Bella Okafor,6,signed_up,calls/C0385.txt
+C0392,2025-12-12T18:17:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Priyanka Mehta,4,signed_up,calls/C0392.txt
+C0022,2025-12-12T18:25:00Z,inbound_sales,inbound,,Harbourgate Rooms,Oscar Lindgren,4,signed_up,calls/C0022.txt
+C0198,2025-12-12T18:31:00Z,inbound_sales,inbound,,Harbourgate Rooms (7 sites),Priyanka Mehta,3,signed_up,calls/C0198.txt
+C1190,2025-12-14T18:32:00Z,cs_renewal,outbound,A2228,Umber,Declan Furey,4,churned,calls/C1190.txt
+C1064,2025-12-15T17:38:00Z,cs_check_in,outbound,A2407,Hawksmoor,Sunita Rao,3,ok,calls/C1064.txt
+C0256,2025-12-15T17:39:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Priyanka Mehta,7,signed_up,calls/C0256.txt
+C0578,2025-12-15T18:04:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,5,demo_booked,calls/C0578.txt
+C1229,2025-12-15T18:52:00Z,cs_renewal,outbound,A2877,The Drapers Wine Bar,Rhodri Bevan,4,pending,calls/C1229.txt
+C1257,2025-12-16T11:23:00Z,cs_renewal,outbound,A2556,The Rookery Cafe,Adaeze Nwosu,4,pending,calls/C1257.txt
+C1039,2025-12-16T11:58:00Z,cs_check_in,outbound,A3036,Sallow Sports Centre,Sunita Rao,3,at_risk,calls/C1039.txt
+C0519,2025-12-16T15:20:00Z,inbound_sales,inbound,,The Wharf Kitchen (9 sites),Ruaridh Munro,6,signed_up,calls/C0519.txt
+C1215,2025-12-16T15:50:00Z,cs_renewal,outbound,A3081,Rowan Tree Bistro,Rhodri Bevan,3,renewed,calls/C1215.txt
+C1023,2025-12-17T09:22:00Z,cs_check_in,outbound,A2141,The Kiln Wine Bar,Sunita Rao,2,ok,calls/C1023.txt
+C1274,2025-12-17T09:36:00Z,cs_renewal,outbound,A3249,Hartwell Bar and Grill,Sunita Rao,4,pending,calls/C1274.txt
+C0978,2025-12-17T14:41:00Z,cs_check_in,outbound,A2409,Orrery Brasserie,Tomasz Wieczorek,4,ok,calls/C0978.txt
+C0377,2025-12-17T16:48:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Bella Okafor,6,signed_up,calls/C0377.txt
+C0735,2025-12-18T11:54:00Z,cs_check_in,outbound,A3286,Halyard Brasserie,Declan Furey,2,follow_up,calls/C0735.txt
+C0842,2025-12-18T15:18:00Z,cs_check_in,outbound,A2797,The Boathouse Sports Centre,Sunita Rao,2,ok,calls/C0842.txt
+C0271,2025-12-18T17:47:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Kwabena Asante,5,signed_up,calls/C0271.txt
+C0606,2025-12-19T08:15:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,2,no_sale,calls/C0606.txt
+C0398,2025-12-19T11:30:00Z,inbound_sales,inbound,,The Malt House (8 sites),Ruaridh Munro,5,no_sale,calls/C0398.txt
+C0584,2025-12-19T11:33:00Z,outbound_sales,outbound,,The Bellhouse,Kwabena Asante,3,no_sale,calls/C0584.txt
+C0885,2025-12-19T11:43:00Z,cs_check_in,outbound,A2998,Fossgate Dining Rooms,Sunita Rao,4,follow_up,calls/C0885.txt
+C0837,2025-12-19T12:20:00Z,cs_check_in,outbound,A2495,Alderfield Brasserie,Declan Furey,4,ok,calls/C0837.txt
+C1401,2025-12-19T12:24:00Z,support,inbound,A2807,The Bellhouse Bar,Pip Iqbal,3,resolved,calls/C1401.txt
+C1240,2025-12-19T14:21:00Z,cs_renewal,outbound,A2956,The Cooperage Bar and Grill,Sunita Rao,2,renewed,calls/C1240.txt
+C0847,2025-12-19T15:06:00Z,cs_check_in,outbound,A2470,Threadneedle Cafe,Georgia Lamb,2,at_risk,calls/C0847.txt
+C1071,2025-12-19T15:12:00Z,cs_check_in,outbound,A2422,Orrery Coffee House,Georgia Lamb,4,ok,calls/C1071.txt
+C0770,2025-12-19T15:26:00Z,cs_check_in,outbound,A2209,Quayside Brasserie,Adaeze Nwosu,4,follow_up,calls/C0770.txt
+C1131,2025-12-19T16:56:00Z,cs_renewal,outbound,A2730,Brindle Leisure Centre,Sunita Rao,4,renewed,calls/C1131.txt
+C0428,2025-12-19T17:08:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Priyanka Mehta,3,no_sale,calls/C0428.txt
+C1268,2025-12-19T17:24:00Z,cs_renewal,outbound,A2611,The Corn Exchange Brasserie,Declan Furey,3,pending,calls/C1268.txt
+C1205,2025-12-19T18:31:00Z,cs_renewal,outbound,A3432,Fallowfield Leisure Centre,Tomasz Wieczorek,3,renewed,calls/C1205.txt
+C0391,2025-12-19T18:46:00Z,inbound_sales,inbound,,Copperfield Cafe (5 sites),Jamie Thornton,6,no_sale,calls/C0391.txt
+C1366,2025-12-20T14:38:00Z,support,inbound,A2919,Brindle Brasserie,Xavier Bishop,3,resolved,calls/C1366.txt
+C0231,2025-12-21T08:49:00Z,inbound_sales,inbound,,Nettlebed Brasserie (4 sites),Jamie Thornton,4,no_sale,calls/C0231.txt
+C1219,2025-12-22T17:26:00Z,cs_renewal,outbound,A2499,Barleycroft Cafe,Tomasz Wieczorek,2,renewed,calls/C1219.txt
+C0389,2025-12-23T08:04:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,3,no_sale,calls/C0389.txt
+C0405,2025-12-23T11:03:00Z,inbound_sales,inbound,,Harbourgate Rooms (9 sites),Tamsin Cole,3,no_sale,calls/C0405.txt
+C1055,2025-12-23T15:53:00Z,cs_check_in,outbound,A2606,The Coalyard Wine Bar,Sunita Rao,3,follow_up,calls/C1055.txt
+C1232,2025-12-23T16:12:00Z,cs_renewal,outbound,A2424,Gable End Bistro,Rhodri Bevan,3,renewed,calls/C1232.txt
+C1342,2025-12-23T17:37:00Z,support,inbound,A2663,Ninefields Coffee House,Wren Parry,4,resolved,calls/C1342.txt
+C0097,2025-12-23T17:53:00Z,inbound_sales,inbound,,The Malt House (4 sites),Bella Okafor,5,no_sale,calls/C0097.txt
+C0659,2025-12-24T12:06:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Kwabena Asante,4,no_sale,calls/C0659.txt
+C0324,2025-12-24T15:08:00Z,inbound_sales,inbound,,The Boathouse Grill (10 sites),Freya Dahl,4,signed_up,calls/C0324.txt
+C0220,2025-12-25T12:12:00Z,inbound_sales,inbound,,Saltmarsh Bistro (7 sites),Priyanka Mehta,5,no_sale,calls/C0220.txt
+C0664,2025-12-25T13:28:00Z,outbound_sales,outbound,,Alderfield Cafe,Ruaridh Munro,2,no_sale,calls/C0664.txt
+C0483,2025-12-25T14:55:00Z,inbound_sales,inbound,,Saltmarsh Bistro (3 sites),Kwabena Asante,3,no_sale,calls/C0483.txt
+C1362,2025-12-25T16:30:00Z,support,inbound,A2677,Shorewell Dining Rooms,Xavier Bishop,2,resolved,calls/C1362.txt
+C1188,2025-12-26T08:11:00Z,cs_renewal,outbound,A3483,Fennel and Rye Bar and Grill,Rhodri Bevan,2,renewed,calls/C1188.txt
+C1322,2025-12-26T08:40:00Z,support,inbound,A3298,Fenby Kitchen,Dara Vance,2,resolved,calls/C1322.txt
+C0151,2025-12-26T10:53:00Z,inbound_sales,inbound,,The Wharf Kitchen,Oscar Lindgren,5,no_sale,calls/C0151.txt
+C0527,2025-12-26T11:33:00Z,outbound_sales,outbound,,The Bellhouse,Freya Dahl,3,demo_booked,calls/C0527.txt
+C0633,2025-12-26T11:49:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Jamie Thornton,2,no_sale,calls/C0633.txt
+C1432,2025-12-26T12:31:00Z,support,inbound,A2680,Carrick Tap Room,Priya Nair,2,escalated,calls/C1432.txt
+C0378,2025-12-26T12:57:00Z,inbound_sales,inbound,,Saltmarsh Bistro (3 sites),Priyanka Mehta,4,no_sale,calls/C0378.txt
+C1058,2025-12-26T12:59:00Z,cs_check_in,outbound,A2963,Rowan Tree Coffee House,Georgia Lamb,4,at_risk,calls/C1058.txt
+C1312,2025-12-26T14:17:00Z,cs_renewal,outbound,A2708,The Gatehouse Dining Rooms,Georgia Lamb,4,renewed,calls/C1312.txt
+C1003,2025-12-26T15:18:00Z,cs_check_in,outbound,A2375,Hollow Oak Coffee House,Adaeze Nwosu,3,follow_up,calls/C1003.txt
+C1171,2025-12-26T15:40:00Z,cs_renewal,outbound,A2651,Cressbrook Grill,Rhodri Bevan,3,pending,calls/C1171.txt
+C0796,2025-12-26T17:16:00Z,cs_check_in,outbound,A3125,The Gatehouse Bistro,Tomasz Wieczorek,4,ok,calls/C0796.txt
+C0020,2025-12-26T18:25:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Tamsin Cole,3,signed_up,calls/C0020.txt
+C0785,2025-12-26T18:54:00Z,cs_check_in,outbound,A2486,Sallow Leisure Centre,Rhodri Bevan,4,ok,calls/C0785.txt
+C0251,2025-12-29T09:56:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Jamie Thornton,2,no_sale,calls/C0251.txt
+C0983,2025-12-29T11:20:00Z,cs_check_in,outbound,A2157,Castleton Leisure Centre,Declan Furey,4,ok,calls/C0983.txt
+C1477,2025-12-29T12:47:00Z,support,inbound,A3339,Mapleton Coffee House,Wren Parry,2,resolved,calls/C1477.txt
+C0974,2025-12-29T15:08:00Z,cs_check_in,outbound,A2603,Harrow Lane Tap Room,Georgia Lamb,4,ok,calls/C0974.txt
+C0085,2025-12-29T16:08:00Z,inbound_sales,inbound,,The Wharf Kitchen,Bella Okafor,3,no_sale,calls/C0085.txt
+C0496,2025-12-29T18:24:00Z,inbound_sales,inbound,,Harbourgate Rooms (8 sites),Kwabena Asante,4,no_sale,calls/C0496.txt
+C0924,2025-12-31T09:48:00Z,cs_check_in,outbound,A2733,Burnside Coffee House,Declan Furey,2,ok,calls/C0924.txt
+C1373,2025-12-31T09:57:00Z,support,inbound,A3019,The Smokehouse Tap Room,Priya Evans,2,resolved,calls/C1373.txt
+C0002,2025-12-31T10:10:00Z,inbound_sales,inbound,,The Wharf Kitchen (5 sites),Ruaridh Munro,6,signed_up,calls/C0002.txt
+C0330,2025-12-31T14:32:00Z,inbound_sales,inbound,,The Drapers Wine Bar (12 sites),Priyanka Mehta,4,signed_up,calls/C0330.txt
+C0312,2025-12-31T14:45:00Z,inbound_sales,inbound,,Ostler's Bar (9 sites),Kwabena Asante,4,signed_up,calls/C0312.txt
+C0356,2025-12-31T15:08:00Z,inbound_sales,inbound,,Harbourgate Rooms (7 sites),Bella Okafor,3,no_sale,calls/C0356.txt
+C0591,2025-12-31T18:37:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,2,no_sale,calls/C0591.txt
+C0331,2026-01-01T08:06:00Z,inbound_sales,inbound,,The Boathouse Grill (5 sites),Kwabena Asante,3,no_sale,calls/C0331.txt
+C0348,2026-01-01T08:31:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Jamie Thornton,5,signed_up,calls/C0348.txt
+C0533,2026-01-01T14:59:00Z,outbound_sales,outbound,,The Bellhouse,Freya Dahl,3,no_sale,calls/C0533.txt
+C0307,2026-01-02T08:00:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Kwabena Asante,4,signed_up,calls/C0307.txt
+C1054,2026-01-02T09:06:00Z,cs_check_in,outbound,A2940,Threadneedle Bar and Grill,Sunita Rao,2,at_risk,calls/C1054.txt
+C1387,2026-01-02T10:34:00Z,support,inbound,A3185,Wyvern Kitchen,Xavier Bishop,3,resolved,calls/C1387.txt
+C0181,2026-01-02T10:46:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (3 sites),Tamsin Cole,5,no_sale,calls/C0181.txt
+C1195,2026-01-02T11:10:00Z,cs_renewal,outbound,A2292,Little Ness Tap Room,Rhodri Bevan,4,churned,calls/C1195.txt
+C1415,2026-01-02T11:11:00Z,support,inbound,A3190,Sedgemill Bistro,Sana Dunne,2,resolved,calls/C1415.txt
+C0249,2026-01-02T11:14:00Z,inbound_sales,inbound,,The Wharf Kitchen,Tamsin Cole,4,signed_up,calls/C0249.txt
+C0342,2026-01-02T14:51:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,5,no_sale,calls/C0342.txt
+C0627,2026-01-02T16:23:00Z,outbound_sales,outbound,,Alderfield Cafe,Bella Okafor,3,demo_booked,calls/C0627.txt
+C0465,2026-01-02T16:43:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Oscar Lindgren,5,no_sale,calls/C0465.txt
+C0962,2026-01-02T17:26:00Z,cs_check_in,outbound,A2910,The Long Room Sports Centre,Rhodri Bevan,3,ok,calls/C0962.txt
+C1025,2026-01-02T18:24:00Z,cs_check_in,outbound,A2031,Sandhaven Grill,Declan Furey,2,follow_up,calls/C1025.txt
+C0210,2026-01-03T08:26:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Priyanka Mehta,5,signed_up,calls/C0210.txt
+C0046,2026-01-04T09:47:00Z,inbound_sales,inbound,,The Drapers Wine Bar (9 sites),Kwabena Asante,4,no_sale,calls/C0046.txt
+C0443,2026-01-05T11:00:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,6,signed_up,calls/C0443.txt
+C0765,2026-01-05T11:03:00Z,cs_check_in,outbound,A2567,Barleycroft Bar and Grill,Georgia Lamb,3,follow_up,calls/C0765.txt
+C1204,2026-01-05T11:09:00Z,cs_renewal,outbound,A2843,Corncrake Grill,Declan Furey,2,renewed,calls/C1204.txt
+C0077,2026-01-05T15:12:00Z,inbound_sales,inbound,,The Malt House,Priyanka Mehta,5,no_sale,calls/C0077.txt
+C1309,2026-01-06T18:10:00Z,cs_renewal,outbound,A2588,Culvert Tap Room,Adaeze Nwosu,4,churned,calls/C1309.txt
+C0267,2026-01-07T12:49:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Jamie Thornton,4,no_sale,calls/C0267.txt
+C0311,2026-01-07T15:47:00Z,inbound_sales,inbound,,Greyfriars Tap Room (9 sites),Freya Dahl,2,no_sale,calls/C0311.txt
+C1107,2026-01-07T17:46:00Z,cs_renewal,outbound,A2542,The Long Room Brasserie,Adaeze Nwosu,2,renewed,calls/C1107.txt
+C0351,2026-01-08T09:45:00Z,inbound_sales,inbound,,Greyfriars Tap Room (10 sites),Oscar Lindgren,3,signed_up,calls/C0351.txt
+C0732,2026-01-08T10:55:00Z,cs_check_in,outbound,A2225,Sedgemill Tap Room,Sunita Rao,2,ok,calls/C0732.txt
+C0609,2026-01-08T12:15:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Bella Okafor,4,demo_booked,calls/C0609.txt
+C0981,2026-01-08T13:01:00Z,cs_check_in,outbound,A2721,Corncrake Coffee House,Declan Furey,2,follow_up,calls/C0981.txt
+C0646,2026-01-08T13:30:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Jamie Thornton,2,no_sale,calls/C0646.txt
+C0948,2026-01-08T14:25:00Z,cs_check_in,outbound,A3447,Tarnside Kitchen,Rhodri Bevan,3,ok,calls/C0948.txt
+C1017,2026-01-08T18:25:00Z,cs_check_in,outbound,A2561,The Loom Bar and Grill,Georgia Lamb,3,follow_up,calls/C1017.txt
+C1489,2026-01-08T18:37:00Z,support,inbound,A3333,The Buttermarket Dining Rooms,Priya Evans,3,resolved,calls/C1489.txt
+C1004,2026-01-09T09:35:00Z,cs_check_in,outbound,A2284,Shorewell Brasserie,Tomasz Wieczorek,3,at_risk,calls/C1004.txt
+C0413,2026-01-09T10:01:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,4,no_sale,calls/C0413.txt
+C0598,2026-01-09T10:03:00Z,outbound_sales,outbound,,The Sorting Office,Priyanka Mehta,3,no_sale,calls/C0598.txt
+C0846,2026-01-09T10:54:00Z,cs_check_in,outbound,A3019,The Smokehouse Tap Room,Rhodri Bevan,5,at_risk,calls/C0846.txt
+C1341,2026-01-09T11:00:00Z,support,inbound,A3479,Larkspur Brasserie,Dara Vance,2,resolved,calls/C1341.txt
+C0570,2026-01-09T11:10:00Z,outbound_sales,outbound,,Alderfield Cafe,Bella Okafor,2,demo_booked,calls/C0570.txt
+C0373,2026-01-09T11:12:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,3,signed_up,calls/C0373.txt
+C0749,2026-01-09T12:10:00Z,cs_check_in,outbound,A3346,Ivy Gate Coffee House,Declan Furey,5,follow_up,calls/C0749.txt
+C0752,2026-01-09T12:45:00Z,cs_check_in,outbound,A2012,Orchard Lane Dining Rooms,Tomasz Wieczorek,3,at_risk,calls/C0752.txt
+C0482,2026-01-09T15:27:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Freya Dahl,6,signed_up,calls/C0482.txt
+C1377,2026-01-09T16:41:00Z,support,inbound,A2823,The Long Room Wine Bar,Wren Parry,2,resolved,calls/C1377.txt
+C0354,2026-01-09T16:59:00Z,inbound_sales,inbound,,The Wharf Kitchen,Kwabena Asante,5,signed_up,calls/C0354.txt
+C0291,2026-01-09T17:02:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Ruaridh Munro,5,signed_up,calls/C0291.txt
+C0206,2026-01-09T17:03:00Z,inbound_sales,inbound,,Copperfield Cafe,Priyanka Mehta,4,signed_up,calls/C0206.txt
+C1161,2026-01-10T15:23:00Z,cs_renewal,outbound,A2991,Ostler's Bistro,Rhodri Bevan,2,renewed,calls/C1161.txt
+C1007,2026-01-12T10:02:00Z,cs_check_in,outbound,A3326,Larkspur Bar and Grill,Sunita Rao,3,at_risk,calls/C1007.txt
+C0176,2026-01-12T16:15:00Z,inbound_sales,inbound,,The Wharf Kitchen,Ruaridh Munro,7,signed_up,calls/C0176.txt
+C1282,2026-01-12T18:44:00Z,cs_renewal,outbound,A2307,Ferrymount Bar,Declan Furey,3,renewed,calls/C1282.txt
+C0470,2026-01-13T11:36:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Bella Okafor,5,no_sale,calls/C0470.txt
+C0300,2026-01-13T14:54:00Z,inbound_sales,inbound,,Ostler's Bar,Tamsin Cole,3,signed_up,calls/C0300.txt
+C0426,2026-01-13T15:00:00Z,inbound_sales,inbound,,Harbourgate Rooms,Ruaridh Munro,3,no_sale,calls/C0426.txt
+C0245,2026-01-14T12:32:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Priyanka Mehta,6,signed_up,calls/C0245.txt
+C0247,2026-01-14T12:35:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Ruaridh Munro,3,no_sale,calls/C0247.txt
+C0508,2026-01-15T14:26:00Z,inbound_sales,inbound,,The Malt House (2 sites),Ruaridh Munro,5,no_sale,calls/C0508.txt
+C0782,2026-01-15T15:49:00Z,cs_check_in,outbound,A2312,Little Ness Wine Bar,Adaeze Nwosu,4,at_risk,calls/C0782.txt
+C0009,2026-01-16T08:42:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Ruaridh Munro,3,signed_up,calls/C0009.txt
+C0601,2026-01-16T08:45:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Kwabena Asante,5,no_sale,calls/C0601.txt
+C0447,2026-01-16T08:47:00Z,inbound_sales,inbound,,Saltmarsh Bistro (3 sites),Oscar Lindgren,6,signed_up,calls/C0447.txt
+C0825,2026-01-16T08:47:00Z,cs_check_in,outbound,A3366,The Chandlery Sports Centre,Adaeze Nwosu,2,at_risk,calls/C0825.txt
+C0936,2026-01-16T09:25:00Z,cs_check_in,outbound,A2485,The Saltern,Georgia Lamb,4,at_risk,calls/C0936.txt
+C1295,2026-01-16T09:39:00Z,cs_renewal,outbound,A2450,Mallard Bar,Tomasz Wieczorek,3,renewed,calls/C1295.txt
+C0066,2026-01-16T09:50:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Jamie Thornton,4,no_sale,calls/C0066.txt
+C0445,2026-01-16T10:26:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Bella Okafor,3,signed_up,calls/C0445.txt
+C0694,2026-01-16T10:55:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Oscar Lindgren,2,no_sale,calls/C0694.txt
+C0074,2026-01-16T12:05:00Z,inbound_sales,inbound,,Copperfield Cafe (3 sites),Oscar Lindgren,6,no_sale,calls/C0074.txt
+C1471,2026-01-16T14:02:00Z,support,inbound,A3017,Cressbrook Dining Rooms,Pip Iqbal,4,resolved,calls/C1471.txt
+C1194,2026-01-16T15:43:00Z,cs_renewal,outbound,A3038,The Long Room Tap Room,Adaeze Nwosu,2,renewed,calls/C1194.txt
+C0505,2026-01-16T17:00:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Kwabena Asante,6,signed_up,calls/C0505.txt
+C1042,2026-01-18T17:58:00Z,cs_check_in,outbound,A2388,Winnow Kitchen,Georgia Lamb,2,follow_up,calls/C1042.txt
+C0158,2026-01-19T12:11:00Z,inbound_sales,inbound,,Greyfriars Tap Room (9 sites),Freya Dahl,4,signed_up,calls/C0158.txt
+C1114,2026-01-19T14:46:00Z,cs_renewal,outbound,A2252,The Pump House Leisure Centre,Tomasz Wieczorek,2,pending,calls/C1114.txt
+C0750,2026-01-20T10:17:00Z,cs_check_in,outbound,A2463,Redbourne Dining Rooms,Declan Furey,2,ok,calls/C0750.txt
+C0003,2026-01-20T11:04:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (12 sites),Bella Okafor,6,signed_up,calls/C0003.txt
+C0205,2026-01-20T11:29:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Jamie Thornton,6,signed_up,calls/C0205.txt
+C0365,2026-01-20T12:53:00Z,inbound_sales,inbound,,The Boathouse Grill,Bella Okafor,3,no_sale,calls/C0365.txt
+C0862,2026-01-20T14:45:00Z,cs_check_in,outbound,A2319,The Foundry Brasserie,Declan Furey,4,ok,calls/C0862.txt
+C0278,2026-01-21T08:21:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,6,no_sale,calls/C0278.txt
+C0012,2026-01-21T10:32:00Z,inbound_sales,inbound,,Nettlebed Brasserie (7 sites),Ruaridh Munro,5,no_sale,calls/C0012.txt
+C0440,2026-01-22T09:25:00Z,inbound_sales,inbound,,Copperfield Cafe,Priyanka Mehta,4,signed_up,calls/C0440.txt
+C0318,2026-01-22T10:46:00Z,inbound_sales,inbound,,Ostler's Bar,Priyanka Mehta,4,signed_up,calls/C0318.txt
+C0828,2026-01-22T12:47:00Z,cs_check_in,outbound,A2998,Fossgate Dining Rooms,Sunita Rao,4,ok,calls/C0828.txt
+C0918,2026-01-22T13:20:00Z,cs_check_in,outbound,A3272,Sandhaven Dining Rooms,Georgia Lamb,4,ok,calls/C0918.txt
+C0363,2026-01-22T13:23:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,4,signed_up,calls/C0363.txt
+C0754,2026-01-22T16:46:00Z,cs_check_in,outbound,A3494,Cobbleside Grill,Adaeze Nwosu,2,follow_up,calls/C0754.txt
+C1317,2026-01-22T17:21:00Z,cs_renewal,outbound,A2603,Harrow Lane Tap Room,Georgia Lamb,2,pending,calls/C1317.txt
+C0941,2026-01-23T08:16:00Z,cs_check_in,outbound,A2004,Hesketh Wine Bar,Georgia Lamb,4,ok,calls/C0941.txt
+C1180,2026-01-23T08:20:00Z,cs_renewal,outbound,A3088,Kettlewick Coffee House,Declan Furey,4,renewed,calls/C1180.txt
+C0144,2026-01-23T10:42:00Z,inbound_sales,inbound,,The Wharf Kitchen,Bella Okafor,5,no_sale,calls/C0144.txt
+C0089,2026-01-23T12:31:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Oscar Lindgren,4,no_sale,calls/C0089.txt
+C0349,2026-01-23T13:28:00Z,inbound_sales,inbound,,Harbourgate Rooms (9 sites),Priyanka Mehta,6,signed_up,calls/C0349.txt
+C0593,2026-01-23T13:31:00Z,outbound_sales,outbound,,The Sorting Office,Oscar Lindgren,3,no_sale,calls/C0593.txt
+C1491,2026-01-23T14:38:00Z,support,inbound,A3160,The Drapers Dining Rooms,Owen Tanaka,3,resolved,calls/C1491.txt
+C1251,2026-01-23T16:37:00Z,cs_renewal,outbound,A2252,The Pump House Leisure Centre,Tomasz Wieczorek,3,renewed,calls/C1251.txt
+C0727,2026-01-24T09:46:00Z,cs_check_in,outbound,A3337,Quayside Bar and Grill,Declan Furey,2,at_risk,calls/C0727.txt
+C1043,2026-01-25T17:56:00Z,cs_check_in,outbound,A2984,The Ropewalk Sports Centre,Sunita Rao,4,ok,calls/C1043.txt
+C0721,2026-01-26T08:00:00Z,cs_check_in,outbound,A2092,Dunmore Bar,Georgia Lamb,2,follow_up,calls/C0721.txt
+C0642,2026-01-26T17:35:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Ruaridh Munro,2,demo_booked,calls/C0642.txt
+C1262,2026-01-27T09:32:00Z,cs_renewal,outbound,A2422,Orrery Coffee House,Georgia Lamb,2,renewed,calls/C1262.txt
+C0327,2026-01-27T09:53:00Z,inbound_sales,inbound,,The Malt House (5 sites),Priyanka Mehta,6,signed_up,calls/C0327.txt
+C0296,2026-01-27T09:57:00Z,inbound_sales,inbound,,The Wharf Kitchen (8 sites),Jamie Thornton,6,signed_up,calls/C0296.txt
+C0298,2026-01-27T11:49:00Z,inbound_sales,inbound,,Ostler's Bar,Oscar Lindgren,4,signed_up,calls/C0298.txt
+C1233,2026-01-27T12:21:00Z,cs_renewal,outbound,A3270,The Water Tower Sports Centre,Declan Furey,4,churned,calls/C1233.txt
+C0419,2026-01-27T12:55:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Freya Dahl,4,no_sale,calls/C0419.txt
+C0708,2026-01-27T14:52:00Z,cs_check_in,outbound,A3343,Ashcroft Dining Rooms,Rhodri Bevan,3,ok,calls/C0708.txt
+C1222,2026-01-27T15:14:00Z,cs_renewal,outbound,A2451,Carrick Bar and Grill,Georgia Lamb,4,renewed,calls/C1222.txt
+C0019,2026-01-27T16:47:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Ruaridh Munro,3,no_sale,calls/C0019.txt
+C0064,2026-01-28T08:30:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,3,no_sale,calls/C0064.txt
+C1147,2026-01-28T09:33:00Z,cs_renewal,outbound,A3153,The Boathouse Rooms,Rhodri Bevan,4,renewed,calls/C1147.txt
+C0899,2026-01-29T09:25:00Z,cs_check_in,outbound,A2289,Quayside Bar,Georgia Lamb,5,follow_up,calls/C0899.txt
+C0600,2026-01-29T11:50:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Priyanka Mehta,3,demo_booked,calls/C0600.txt
+C0242,2026-01-29T13:19:00Z,inbound_sales,inbound,,Ostler's Bar (11 sites),Bella Okafor,6,signed_up,calls/C0242.txt
+C0637,2026-01-29T15:01:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,5,no_sale,calls/C0637.txt
+C0244,2026-01-29T16:43:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,4,signed_up,calls/C0244.txt
+C1027,2026-01-30T10:01:00Z,cs_check_in,outbound,A2424,Gable End Bistro,Rhodri Bevan,3,ok,calls/C1027.txt
+C0937,2026-01-30T10:25:00Z,cs_check_in,outbound,A3396,Sallow Rooms,Declan Furey,2,follow_up,calls/C0937.txt
+C0230,2026-01-30T10:28:00Z,inbound_sales,inbound,,Copperfield Cafe,Kwabena Asante,5,signed_up,calls/C0230.txt
+C0360,2026-01-30T10:55:00Z,inbound_sales,inbound,,Greyfriars Tap Room (3 sites),Ruaridh Munro,4,signed_up,calls/C0360.txt
+C0316,2026-01-30T12:16:00Z,inbound_sales,inbound,,Copperfield Cafe (10 sites),Priyanka Mehta,4,no_sale,calls/C0316.txt
+C0864,2026-01-30T12:50:00Z,cs_check_in,outbound,A2005,The Signal Box,Declan Furey,2,follow_up,calls/C0864.txt
+C0906,2026-01-30T13:10:00Z,cs_check_in,outbound,A3162,The Granary Leisure Centre,Sunita Rao,4,ok,calls/C0906.txt
+C0920,2026-01-30T14:25:00Z,cs_check_in,outbound,A3160,The Drapers Dining Rooms,Adaeze Nwosu,3,follow_up,calls/C0920.txt
+C1307,2026-01-30T15:56:00Z,cs_renewal,outbound,A2496,The Old Assembly Bar and Grill,Georgia Lamb,2,renewed,calls/C1307.txt
+C0121,2026-01-30T16:23:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,3,no_sale,calls/C0121.txt
+C1464,2026-01-30T17:44:00Z,support,inbound,A3159,Wickham Bar and Grill,Dara Vance,2,resolved,calls/C1464.txt
+C1285,2026-01-30T18:09:00Z,cs_renewal,outbound,A2622,Tarnside Wine Bar,Tomasz Wieczorek,4,renewed,calls/C1285.txt
+C1080,2026-01-31T16:42:00Z,cs_check_in,outbound,A2284,Shorewell Brasserie,Tomasz Wieczorek,2,ok,calls/C1080.txt
+C1033,2026-02-01T09:14:00Z,cs_check_in,outbound,A2043,Tollerton Coffee House,Georgia Lamb,2,ok,calls/C1033.txt
+C0968,2026-02-01T12:48:00Z,cs_check_in,outbound,A2951,Linden Sports Centre,Declan Furey,4,follow_up,calls/C0968.txt
+C0213,2026-02-02T09:10:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,6,signed_up,calls/C0213.txt
+C1077,2026-02-02T09:30:00Z,cs_check_in,outbound,A3444,The Boathouse Coffee House,Rhodri Bevan,3,ok,calls/C1077.txt
+C0539,2026-02-02T11:25:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Kwabena Asante,3,no_sale,calls/C0539.txt
+C0499,2026-02-02T14:59:00Z,inbound_sales,inbound,,The Drapers Wine Bar (7 sites),Tamsin Cole,3,no_sale,calls/C0499.txt
+C1231,2026-02-02T18:08:00Z,cs_renewal,outbound,A2346,The Saltern Dining Rooms,Tomasz Wieczorek,3,renewed,calls/C1231.txt
+C0179,2026-02-03T09:04:00Z,inbound_sales,inbound,,Harbourgate Rooms (4 sites),Oscar Lindgren,5,signed_up,calls/C0179.txt
+C0439,2026-02-03T10:26:00Z,inbound_sales,inbound,,Saltmarsh Bistro (9 sites),Kwabena Asante,6,signed_up,calls/C0439.txt
+C0117,2026-02-03T10:50:00Z,inbound_sales,inbound,,Greyfriars Tap Room (10 sites),Oscar Lindgren,4,no_sale,calls/C0117.txt
+C0549,2026-02-03T17:40:00Z,outbound_sales,outbound,,The Bellhouse,Oscar Lindgren,5,no_sale,calls/C0549.txt
+C0993,2026-02-03T18:47:00Z,cs_check_in,outbound,A2458,Rowan Tree Bar,Tomasz Wieczorek,3,follow_up,calls/C0993.txt
+C1283,2026-02-04T11:24:00Z,cs_renewal,outbound,A3158,The Wharf Bar and Grill,Sunita Rao,2,renewed,calls/C1283.txt
+C1089,2026-02-04T11:27:00Z,cs_renewal,outbound,A2830,Barleycroft Brasserie,Tomasz Wieczorek,3,renewed,calls/C1089.txt
+C0784,2026-02-04T11:49:00Z,cs_check_in,outbound,A3155,The Loom Kitchen,Sunita Rao,2,ok,calls/C0784.txt
+C0063,2026-02-04T13:35:00Z,inbound_sales,inbound,,Harbourgate Rooms,Jamie Thornton,7,signed_up,calls/C0063.txt
+C0569,2026-02-04T17:08:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Oscar Lindgren,3,no_sale,calls/C0569.txt
+C0246,2026-02-05T10:17:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,4,signed_up,calls/C0246.txt
+C1276,2026-02-05T12:35:00Z,cs_renewal,outbound,A2532,Carrick Cafe,Georgia Lamb,2,renewed,calls/C1276.txt
+C1327,2026-02-05T15:16:00Z,support,inbound,A2690,Copperfield Dining Rooms,Owen Tanaka,2,resolved,calls/C1327.txt
+C0838,2026-02-05T16:58:00Z,cs_check_in,outbound,A3065,Hawksmoor Grill,Sunita Rao,4,ok,calls/C0838.txt
+C0999,2026-02-05T17:25:00Z,cs_check_in,outbound,A3260,Fennel and Rye Brasserie,Sunita Rao,4,ok,calls/C0999.txt
+C0826,2026-02-05T17:29:00Z,cs_check_in,outbound,A2780,The Wheelwright Sports Centre,Adaeze Nwosu,3,at_risk,calls/C0826.txt
+C0863,2026-02-05T18:02:00Z,cs_check_in,outbound,A2803,Harbourgate,Georgia Lamb,2,ok,calls/C0863.txt
+C0448,2026-02-06T08:28:00Z,inbound_sales,inbound,,Ostler's Bar,Freya Dahl,5,signed_up,calls/C0448.txt
+C1086,2026-02-06T12:12:00Z,cs_renewal,outbound,A3053,Threadneedle,Sunita Rao,2,renewed,calls/C1086.txt
+C0435,2026-02-06T12:26:00Z,inbound_sales,inbound,,Nettlebed Brasserie (2 sites),Freya Dahl,4,no_sale,calls/C0435.txt
+C0821,2026-02-06T13:39:00Z,cs_check_in,outbound,A2971,The Wharf Bistro,Adaeze Nwosu,4,ok,calls/C0821.txt
+C0024,2026-02-06T15:00:00Z,inbound_sales,inbound,,The Malt House (10 sites),Jamie Thornton,4,no_sale,calls/C0024.txt
+C0416,2026-02-06T15:38:00Z,inbound_sales,inbound,,Copperfield Cafe,Ruaridh Munro,4,no_sale,calls/C0416.txt
+C0136,2026-02-06T15:44:00Z,inbound_sales,inbound,,The Drapers Wine Bar (2 sites),Kwabena Asante,3,no_sale,calls/C0136.txt
+C0582,2026-02-06T16:25:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Freya Dahl,4,demo_booked,calls/C0582.txt
+C0798,2026-02-08T15:47:00Z,cs_check_in,outbound,A2613,The Coalyard Bar and Grill,Georgia Lamb,2,follow_up,calls/C0798.txt
+C0027,2026-02-09T10:29:00Z,inbound_sales,inbound,,The Drapers Wine Bar (8 sites),Jamie Thornton,4,no_sale,calls/C0027.txt
+C0912,2026-02-09T15:33:00Z,cs_check_in,outbound,A2301,Tarnside Dining Rooms,Sunita Rao,4,ok,calls/C0912.txt
+C0412,2026-02-11T12:28:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Priyanka Mehta,3,signed_up,calls/C0412.txt
+C0655,2026-02-11T12:31:00Z,outbound_sales,outbound,,The Sorting Office,Ruaridh Munro,4,no_sale,calls/C0655.txt
+C1436,2026-02-11T15:24:00Z,support,inbound,A2129,Shorewell Sports Centre,Priya Evans,3,escalated,calls/C1436.txt
+C0872,2026-02-12T10:23:00Z,cs_check_in,outbound,A3319,Umber Brasserie,Rhodri Bevan,2,follow_up,calls/C0872.txt
+C0516,2026-02-12T16:03:00Z,inbound_sales,inbound,,Ostler's Bar (2 sites),Ruaridh Munro,3,signed_up,calls/C0516.txt
+C0526,2026-02-12T16:10:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Bella Okafor,2,no_sale,calls/C0526.txt
+C1014,2026-02-12T16:32:00Z,cs_check_in,outbound,A2085,Larkspur Tap Room,Tomasz Wieczorek,2,ok,calls/C1014.txt
+C0060,2026-02-12T18:24:00Z,inbound_sales,inbound,,The Boathouse Grill (9 sites),Bella Okafor,3,no_sale,calls/C0060.txt
+C1400,2026-02-13T08:20:00Z,support,inbound,A2946,Little Ness Leisure Centre,Cerys Reid,3,resolved,calls/C1400.txt
+C1473,2026-02-13T08:23:00Z,support,inbound,A2124,The Wheelwright Bar and Grill,Owen Tanaka,2,escalated,calls/C1473.txt
+C0177,2026-02-13T09:01:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Ruaridh Munro,4,signed_up,calls/C0177.txt
+C1046,2026-02-13T09:24:00Z,cs_check_in,outbound,A3267,Larkspur Bar,Tomasz Wieczorek,2,ok,calls/C1046.txt
+C1462,2026-02-13T09:24:00Z,support,inbound,A2770,Larkspur Dining Rooms,Dev Grant,3,resolved,calls/C1462.txt
+C1167,2026-02-13T09:44:00Z,cs_renewal,outbound,A2351,Tanner's Yard Wine Bar,Georgia Lamb,2,churned,calls/C1167.txt
+C0407,2026-02-13T10:14:00Z,inbound_sales,inbound,,Copperfield Cafe,Ruaridh Munro,5,signed_up,calls/C0407.txt
+C0150,2026-02-13T12:29:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Freya Dahl,6,signed_up,calls/C0150.txt
+C1053,2026-02-13T12:39:00Z,cs_check_in,outbound,A2016,Dunmore Kitchen,Georgia Lamb,4,at_risk,calls/C1053.txt
+C1111,2026-02-13T13:50:00Z,cs_renewal,outbound,A2676,The Loom Cafe,Tomasz Wieczorek,4,renewed,calls/C1111.txt
+C0201,2026-02-13T14:30:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,3,no_sale,calls/C0201.txt
+C0119,2026-02-13T15:02:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (2 sites),Jamie Thornton,6,signed_up,calls/C0119.txt
+C1438,2026-02-13T15:28:00Z,support,inbound,A2770,Larkspur Dining Rooms,Pip Iqbal,3,resolved,calls/C1438.txt
+C0992,2026-02-13T16:47:00Z,cs_check_in,outbound,A2916,The Foundry Kitchen,Georgia Lamb,4,ok,calls/C0992.txt
+C0044,2026-02-13T18:00:00Z,inbound_sales,inbound,,The Wharf Kitchen (3 sites),Tamsin Cole,6,signed_up,calls/C0044.txt
+C1410,2026-02-13T18:53:00Z,support,inbound,A2262,The Tannery Bar,Pip Iqbal,2,resolved,calls/C1410.txt
+C1137,2026-02-15T09:11:00Z,cs_renewal,outbound,A2208,Ferrymount Kitchen,Sunita Rao,2,renewed,calls/C1137.txt
+C1426,2026-02-16T12:40:00Z,support,inbound,A2563,Ferrymount Bar and Grill,Dev Grant,2,resolved,calls/C1426.txt
+C0853,2026-02-16T18:00:00Z,cs_check_in,outbound,A2585,The Loom Bistro,Tomasz Wieczorek,4,ok,calls/C0853.txt
+C1189,2026-02-17T10:20:00Z,cs_renewal,outbound,A2820,Ferrymount Leisure Centre,Rhodri Bevan,4,churned,calls/C1189.txt
+C0339,2026-02-17T12:26:00Z,inbound_sales,inbound,,Ostler's Bar,Jamie Thornton,5,signed_up,calls/C0339.txt
+C1458,2026-02-17T13:12:00Z,support,inbound,A2269,Orchard Lane Bar and Grill,Dev Grant,4,resolved,calls/C1458.txt
+C1209,2026-02-18T10:29:00Z,cs_renewal,outbound,A3400,The Saltern Rooms,Sunita Rao,3,renewed,calls/C1209.txt
+C0099,2026-02-18T15:00:00Z,inbound_sales,inbound,,The Wharf Kitchen (12 sites),Jamie Thornton,5,signed_up,calls/C0099.txt
+C1097,2026-02-18T15:10:00Z,cs_renewal,outbound,A2856,Wyvern Wine Bar,Sunita Rao,4,renewed,calls/C1097.txt
+C0269,2026-02-19T11:32:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Freya Dahl,4,signed_up,calls/C0269.txt
+C0674,2026-02-19T14:27:00Z,outbound_sales,outbound,,The Bellhouse,Oscar Lindgren,2,demo_booked,calls/C0674.txt
+C1150,2026-02-20T08:03:00Z,cs_renewal,outbound,A2837,Umber Coffee House,Georgia Lamb,2,churned,calls/C1150.txt
+C0059,2026-02-20T10:42:00Z,inbound_sales,inbound,,The Malt House,Ruaridh Munro,4,signed_up,calls/C0059.txt
+C0550,2026-02-20T12:12:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Freya Dahl,4,demo_booked,calls/C0550.txt
+C0886,2026-02-20T12:17:00Z,cs_check_in,outbound,A3269,The Bellhouse Rooms,Declan Furey,4,ok,calls/C0886.txt
+C1287,2026-02-20T12:49:00Z,cs_renewal,outbound,A2394,The Pannier Market Leisure Centre,Declan Furey,3,renewed,calls/C1287.txt
+C1029,2026-02-20T13:25:00Z,cs_check_in,outbound,A2077,Mapleton Dining Rooms,Adaeze Nwosu,3,follow_up,calls/C1029.txt
+C1316,2026-02-20T15:12:00Z,cs_renewal,outbound,A3190,Sedgemill Bistro,Declan Furey,4,renewed,calls/C1316.txt
+C0466,2026-02-20T16:13:00Z,inbound_sales,inbound,,Copperfield Cafe (7 sites),Ruaridh Munro,4,signed_up,calls/C0466.txt
+C0401,2026-02-20T16:44:00Z,inbound_sales,inbound,,Nettlebed Brasserie (5 sites),Freya Dahl,3,signed_up,calls/C0401.txt
+C0922,2026-02-20T16:46:00Z,cs_check_in,outbound,A3328,Mallard,Sunita Rao,2,follow_up,calls/C0922.txt
+C1221,2026-02-21T13:49:00Z,cs_renewal,outbound,A2817,Ketch and Anchor,Sunita Rao,2,renewed,calls/C1221.txt
+C0143,2026-02-22T18:44:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Bella Okafor,5,signed_up,calls/C0143.txt
+C0232,2026-02-23T10:00:00Z,inbound_sales,inbound,,Harbourgate Rooms,Ruaridh Munro,5,signed_up,calls/C0232.txt
+C1118,2026-02-23T14:30:00Z,cs_renewal,outbound,A2303,The Tollhouse Rooms,Rhodri Bevan,4,renewed,calls/C1118.txt
+C0840,2026-02-24T13:40:00Z,cs_check_in,outbound,A2370,Fossgate Grill,Rhodri Bevan,2,ok,calls/C0840.txt
+C0706,2026-02-24T15:16:00Z,cs_check_in,outbound,A2428,The Old Assembly Grill,Sunita Rao,4,ok,calls/C0706.txt
+C0685,2026-02-24T17:36:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Jamie Thornton,2,no_sale,calls/C0685.txt
+C0719,2026-02-25T09:40:00Z,cs_check_in,outbound,A3196,Fenby Grill,Declan Furey,3,follow_up,calls/C0719.txt
+C0146,2026-02-25T12:23:00Z,inbound_sales,inbound,,Nettlebed Brasserie (3 sites),Jamie Thornton,4,signed_up,calls/C0146.txt
+C1212,2026-02-25T13:08:00Z,cs_renewal,outbound,A3426,Lydgate Rooms,Georgia Lamb,3,renewed,calls/C1212.txt
+C0303,2026-02-25T15:43:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Tamsin Cole,3,no_sale,calls/C0303.txt
+C1439,2026-02-25T16:43:00Z,support,inbound,A2846,The Boathouse Bar and Grill,Cerys Reid,4,resolved,calls/C1439.txt
+C0041,2026-02-25T17:12:00Z,inbound_sales,inbound,,Copperfield Cafe (4 sites),Tamsin Cole,4,signed_up,calls/C0041.txt
+C0618,2026-02-26T10:01:00Z,outbound_sales,outbound,,The Bellhouse,Tamsin Cole,2,demo_booked,calls/C0618.txt
+C1132,2026-02-26T12:41:00Z,cs_renewal,outbound,A2742,The Turbine Hall Bar and Grill,Rhodri Bevan,4,renewed,calls/C1132.txt
+C1241,2026-02-27T08:12:00Z,cs_renewal,outbound,A3384,The Kiln Leisure Centre,Georgia Lamb,4,renewed,calls/C1241.txt
+C0576,2026-02-27T08:20:00Z,outbound_sales,outbound,,Alderfield Cafe,Oscar Lindgren,4,demo_booked,calls/C0576.txt
+C1416,2026-02-27T10:20:00Z,support,inbound,A3062,Ninefields Tap Room,Imogen Yates,2,resolved,calls/C1416.txt
+C1265,2026-02-27T11:10:00Z,cs_renewal,outbound,A3237,Nettlebed Rooms,Rhodri Bevan,2,pending,calls/C1265.txt
+C1457,2026-02-27T11:14:00Z,support,inbound,A3081,Rowan Tree Bistro,Owen Tanaka,2,escalated,calls/C1457.txt
+C1272,2026-02-27T11:26:00Z,cs_renewal,outbound,A2257,Alderfield,Sunita Rao,2,pending,calls/C1272.txt
+C1186,2026-02-27T11:51:00Z,cs_renewal,outbound,A3415,Orchard Lane Tap Room,Tomasz Wieczorek,4,renewed,calls/C1186.txt
+C0928,2026-02-27T11:56:00Z,cs_check_in,outbound,A2819,Ostler's Brasserie,Declan Furey,3,ok,calls/C0928.txt
+C0367,2026-02-27T11:59:00Z,inbound_sales,inbound,,The Wharf Kitchen,Jamie Thornton,6,signed_up,calls/C0367.txt
+C0635,2026-02-27T12:00:00Z,outbound_sales,outbound,,The Sorting Office,Ruaridh Munro,4,no_sale,calls/C0635.txt
+C1334,2026-02-27T13:20:00Z,support,inbound,A3365,Greyfriars Brasserie,Maya Ellis,2,resolved,calls/C1334.txt
+C1101,2026-02-27T14:59:00Z,cs_renewal,outbound,A3439,The Boathouse Leisure Centre,Sunita Rao,2,renewed,calls/C1101.txt
+C1449,2026-02-27T15:51:00Z,support,inbound,A2981,Redbourne Grill,Wren Parry,3,resolved,calls/C1449.txt
+C0802,2026-02-27T16:49:00Z,cs_check_in,outbound,A2068,Wrayburn Leisure Centre,Sunita Rao,3,ok,calls/C0802.txt
+C0935,2026-02-27T17:08:00Z,cs_check_in,outbound,A2026,Pollard Brasserie,Georgia Lamb,3,ok,calls/C0935.txt
+C0498,2026-02-27T17:20:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (7 sites),Freya Dahl,3,signed_up,calls/C0498.txt
+C1130,2026-02-27T18:46:00Z,cs_renewal,outbound,A3051,The Foundry Dining Rooms,Adaeze Nwosu,3,churned,calls/C1130.txt
+C1044,2026-02-28T16:10:00Z,cs_check_in,outbound,A2844,Ravelston,Tomasz Wieczorek,2,follow_up,calls/C1044.txt
+C1000,2026-03-02T13:22:00Z,cs_check_in,outbound,A2655,Gable End Cafe,Georgia Lamb,4,ok,calls/C1000.txt
+C0430,2026-03-02T14:26:00Z,inbound_sales,inbound,,Ostler's Bar (7 sites),Priyanka Mehta,3,signed_up,calls/C0430.txt
+C0087,2026-03-02T14:39:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,6,signed_up,calls/C0087.txt
+C0023,2026-03-02T15:51:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Bella Okafor,6,signed_up,calls/C0023.txt
+C1337,2026-03-02T16:22:00Z,support,inbound,A2260,Fallowfield Tap Room,Priya Evans,2,resolved,calls/C1337.txt
+C1129,2026-03-03T08:09:00Z,cs_renewal,outbound,A2507,Dunmore Coffee House,Sunita Rao,2,renewed,calls/C1129.txt
+C0692,2026-03-03T10:46:00Z,outbound_sales,outbound,,The Sorting Office,Priyanka Mehta,2,no_sale,calls/C0692.txt
+C1026,2026-03-03T11:34:00Z,cs_check_in,outbound,A3374,The Smokehouse Bar,Sunita Rao,2,at_risk,calls/C1026.txt
+C0137,2026-03-03T12:38:00Z,inbound_sales,inbound,,The Malt House (6 sites),Bella Okafor,6,signed_up,calls/C0137.txt
+C0030,2026-03-04T12:32:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Priyanka Mehta,4,no_sale,calls/C0030.txt
+C1098,2026-03-04T15:31:00Z,cs_renewal,outbound,A2895,Rowan Tree Sports Centre,Georgia Lamb,3,pending,calls/C1098.txt
+C1335,2026-03-04T15:37:00Z,support,inbound,A2227,Lydgate Leisure Centre,Dev Grant,3,resolved,calls/C1335.txt
+C1308,2026-03-05T11:38:00Z,cs_renewal,outbound,A2347,The Drapers,Tomasz Wieczorek,4,renewed,calls/C1308.txt
+C0774,2026-03-06T10:06:00Z,cs_check_in,outbound,A2689,The Fenwick Grill,Georgia Lamb,3,at_risk,calls/C0774.txt
+C0703,2026-03-06T11:48:00Z,cs_check_in,outbound,A2656,The Pump House Dining Rooms,Rhodri Bevan,4,at_risk,calls/C0703.txt
+C0671,2026-03-06T11:57:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Ruaridh Munro,3,demo_booked,calls/C0671.txt
+C0006,2026-03-06T12:30:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (4 sites),Jamie Thornton,5,no_sale,calls/C0006.txt
+C0817,2026-03-06T13:33:00Z,cs_check_in,outbound,A3495,The Water Tower,Sunita Rao,2,ok,calls/C0817.txt
+C1409,2026-03-06T13:45:00Z,support,inbound,A3238,Kettlewick Bar,Imogen Yates,2,escalated,calls/C1409.txt
+C0675,2026-03-06T14:07:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Priyanka Mehta,2,no_sale,calls/C0675.txt
+C1374,2026-03-06T17:02:00Z,support,inbound,A2584,Pelham Grill,Pip Iqbal,3,escalated,calls/C1374.txt
+C0997,2026-03-06T17:38:00Z,cs_check_in,outbound,A2870,Fenby Coffee House,Georgia Lamb,2,at_risk,calls/C0997.txt
+C0086,2026-03-06T17:55:00Z,inbound_sales,inbound,,Harbourgate Rooms,Jamie Thornton,3,no_sale,calls/C0086.txt
+C1375,2026-03-09T08:04:00Z,support,inbound,A2373,Dunmore Bar and Grill,Cerys Reid,3,escalated,calls/C1375.txt
+C0612,2026-03-09T09:30:00Z,outbound_sales,outbound,,The Bellhouse,Ruaridh Munro,5,no_sale,calls/C0612.txt
+C1418,2026-03-09T10:43:00Z,support,inbound,A3192,The Pilot House Wine Bar,Dara Vance,4,escalated,calls/C1418.txt
+C0579,2026-03-09T11:46:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Freya Dahl,2,no_sale,calls/C0579.txt
+C1072,2026-03-09T17:51:00Z,cs_check_in,outbound,A3213,Orrery Tap Room,Declan Furey,3,follow_up,calls/C1072.txt
+C1497,2026-03-09T17:51:00Z,support,inbound,A2628,Gable End Wine Bar,Priya Evans,3,resolved,calls/C1497.txt
+C1100,2026-03-10T08:31:00Z,cs_renewal,outbound,A2067,Saltmarsh Coffee House,Georgia Lamb,2,renewed,calls/C1100.txt
+C1022,2026-03-10T11:16:00Z,cs_check_in,outbound,A2271,Barleycroft Leisure Centre,Georgia Lamb,2,ok,calls/C1022.txt
+C0563,2026-03-10T12:42:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,2,demo_booked,calls/C0563.txt
+C0878,2026-03-10T13:40:00Z,cs_check_in,outbound,A3404,Copperfield,Rhodri Bevan,4,ok,calls/C0878.txt
+C1357,2026-03-10T16:39:00Z,support,inbound,A3208,The Printworks Coffee House,Wren Parry,4,resolved,calls/C1357.txt
+C0224,2026-03-10T18:38:00Z,inbound_sales,inbound,,Ostler's Bar (12 sites),Kwabena Asante,4,no_sale,calls/C0224.txt
+C0148,2026-03-11T08:34:00Z,inbound_sales,inbound,,The Boathouse Grill,Bella Okafor,4,signed_up,calls/C0148.txt
+C0090,2026-03-11T16:39:00Z,inbound_sales,inbound,,Harbourgate Rooms (2 sites),Freya Dahl,4,no_sale,calls/C0090.txt
+C0479,2026-03-11T17:15:00Z,inbound_sales,inbound,,Greyfriars Tap Room (7 sites),Tamsin Cole,4,no_sale,calls/C0479.txt
+C0647,2026-03-11T18:23:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Bella Okafor,3,no_sale,calls/C0647.txt
+C0841,2026-03-11T18:48:00Z,cs_check_in,outbound,A2300,Pelham Leisure Centre,Tomasz Wieczorek,2,follow_up,calls/C0841.txt
+C1223,2026-03-12T08:39:00Z,cs_renewal,outbound,A2276,Nettlebed Grill,Rhodri Bevan,4,renewed,calls/C1223.txt
+C0522,2026-03-12T10:09:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Ruaridh Munro,4,no_sale,calls/C0522.txt
+C0084,2026-03-12T11:49:00Z,inbound_sales,inbound,,The Wharf Kitchen,Tamsin Cole,5,no_sale,calls/C0084.txt
+C0344,2026-03-12T12:09:00Z,inbound_sales,inbound,,Ostler's Bar (2 sites),Freya Dahl,3,no_sale,calls/C0344.txt
+C0722,2026-03-12T12:58:00Z,cs_check_in,outbound,A2949,Redbourne Bistro,Sunita Rao,2,at_risk,calls/C0722.txt
+C0319,2026-03-12T13:43:00Z,inbound_sales,inbound,,Harbourgate Rooms (7 sites),Kwabena Asante,6,signed_up,calls/C0319.txt
+C1450,2026-03-12T16:11:00Z,support,inbound,A2670,The Drapers Rooms,Priya Nair,2,resolved,calls/C1450.txt
+C0905,2026-03-12T18:58:00Z,cs_check_in,outbound,A2296,Fenby Rooms,Declan Furey,4,at_risk,calls/C0905.txt
+C0890,2026-03-13T08:20:00Z,cs_check_in,outbound,A2643,The Ice House,Adaeze Nwosu,4,ok,calls/C0890.txt
+C1369,2026-03-13T08:25:00Z,support,inbound,A3023,Beckside Coffee House,Dev Grant,5,resolved,calls/C1369.txt
+C0707,2026-03-13T08:27:00Z,cs_check_in,outbound,A2539,Quarryman's Bar and Grill,Declan Furey,4,ok,calls/C0707.txt
+C0586,2026-03-13T08:48:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Freya Dahl,2,no_sale,calls/C0586.txt
+C1263,2026-03-13T09:06:00Z,cs_renewal,outbound,A2923,Winnow,Rhodri Bevan,3,pending,calls/C1263.txt
+C0614,2026-03-13T09:25:00Z,outbound_sales,outbound,,Alderfield Cafe,Jamie Thornton,3,demo_booked,calls/C0614.txt
+C0812,2026-03-13T12:11:00Z,cs_check_in,outbound,A2307,Ferrymount Bar,Declan Furey,3,ok,calls/C0812.txt
+C0540,2026-03-13T12:20:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,2,demo_booked,calls/C0540.txt
+C1371,2026-03-13T12:22:00Z,support,inbound,A2489,Cressbrook Cafe,Dara Vance,2,resolved,calls/C1371.txt
+C0062,2026-03-13T13:31:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Oscar Lindgren,4,no_sale,calls/C0062.txt
+C0875,2026-03-13T14:02:00Z,cs_check_in,outbound,A3348,The Water Tower Rooms,Sunita Rao,2,follow_up,calls/C0875.txt
+C1446,2026-03-13T14:12:00Z,support,inbound,A2037,Marram Wine Bar,Cerys Reid,4,resolved,calls/C1446.txt
+C1480,2026-03-13T15:51:00Z,support,inbound,A3199,Mallard Dining Rooms,Dev Grant,3,resolved,calls/C1480.txt
+C0113,2026-03-16T13:39:00Z,inbound_sales,inbound,,The Wharf Kitchen (10 sites),Jamie Thornton,6,signed_up,calls/C0113.txt
+C0714,2026-03-16T16:08:00Z,cs_check_in,outbound,A2401,Hesketh Bistro,Rhodri Bevan,4,ok,calls/C0714.txt
+C0827,2026-03-16T17:11:00Z,cs_check_in,outbound,A2369,The Kiln Rooms,Declan Furey,4,follow_up,calls/C0827.txt
+C0643,2026-03-16T17:34:00Z,outbound_sales,outbound,,The Bellhouse,Kwabena Asante,2,demo_booked,calls/C0643.txt
+C0441,2026-03-17T12:50:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,4,signed_up,calls/C0441.txt
+C1361,2026-03-17T14:12:00Z,support,inbound,A2496,The Old Assembly Bar and Grill,Owen Tanaka,5,escalated,calls/C1361.txt
+C0658,2026-03-17T16:16:00Z,outbound_sales,outbound,,The Bellhouse,Freya Dahl,2,no_sale,calls/C0658.txt
+C0574,2026-03-17T17:01:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Oscar Lindgren,2,no_sale,calls/C0574.txt
+C1198,2026-03-17T18:11:00Z,cs_renewal,outbound,A3055,Hollow Oak Bar,Georgia Lamb,2,renewed,calls/C1198.txt
+C0520,2026-03-18T12:05:00Z,inbound_sales,inbound,,Harbourgate Rooms (10 sites),Freya Dahl,6,signed_up,calls/C0520.txt
+C0500,2026-03-18T16:04:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Tamsin Cole,6,signed_up,calls/C0500.txt
+C0542,2026-03-18T16:24:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Kwabena Asante,3,no_sale,calls/C0542.txt
+C0336,2026-03-18T17:31:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Oscar Lindgren,4,signed_up,calls/C0336.txt
+C0917,2026-03-18T18:05:00Z,cs_check_in,outbound,A2375,Hollow Oak Coffee House,Adaeze Nwosu,2,ok,calls/C0917.txt
+C1105,2026-03-19T10:31:00Z,cs_renewal,outbound,A2608,Copperfield Wine Bar,Declan Furey,4,renewed,calls/C1105.txt
+C0518,2026-03-20T08:47:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Bella Okafor,3,no_sale,calls/C0518.txt
+C1051,2026-03-20T09:45:00Z,cs_check_in,outbound,A3073,Orchard Lane Cafe,Rhodri Bevan,2,at_risk,calls/C1051.txt
+C0891,2026-03-20T10:20:00Z,cs_check_in,outbound,A2279,Kingsmead Tap Room,Sunita Rao,2,ok,calls/C0891.txt
+C0555,2026-03-20T11:06:00Z,outbound_sales,outbound,,Alderfield Cafe,Freya Dahl,4,no_sale,calls/C0555.txt
+C1350,2026-03-20T11:19:00Z,support,inbound,A3378,Threadneedle Wine Bar,Owen Tanaka,4,resolved,calls/C1350.txt
+C1469,2026-03-20T12:27:00Z,support,inbound,A2711,The Pump House Coffee House,Imogen Yates,2,escalated,calls/C1469.txt
+C0034,2026-03-20T12:56:00Z,inbound_sales,inbound,,The Boathouse Grill (11 sites),Bella Okafor,6,signed_up,calls/C0034.txt
+C1045,2026-03-20T13:03:00Z,cs_check_in,outbound,A2639,Tollerton Cafe,Sunita Rao,4,ok,calls/C1045.txt
+C0515,2026-03-20T13:49:00Z,inbound_sales,inbound,,Saltmarsh Bistro (11 sites),Freya Dahl,5,no_sale,calls/C0515.txt
+C1176,2026-03-20T14:09:00Z,cs_renewal,outbound,A2091,Tanner's Yard Rooms,Sunita Rao,3,churned,calls/C1176.txt
+C0025,2026-03-20T14:20:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Oscar Lindgren,4,no_sale,calls/C0025.txt
+C1104,2026-03-20T14:47:00Z,cs_renewal,outbound,A2719,Pendle Sports Centre,Adaeze Nwosu,4,renewed,calls/C1104.txt
+C0797,2026-03-20T16:14:00Z,cs_check_in,outbound,A2649,Ravelston Bistro,Rhodri Bevan,2,ok,calls/C0797.txt
+C0720,2026-03-20T17:38:00Z,cs_check_in,outbound,A2739,Cressbrook,Rhodri Bevan,4,ok,calls/C0720.txt
+C0560,2026-03-20T18:03:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Bella Okafor,3,demo_booked,calls/C0560.txt
+C0007,2026-03-20T18:39:00Z,inbound_sales,inbound,,The Malt House (3 sites),Tamsin Cole,5,no_sale,calls/C0007.txt
+C0011,2026-03-21T15:18:00Z,inbound_sales,inbound,,Copperfield Cafe (10 sites),Oscar Lindgren,6,no_sale,calls/C0011.txt
+C0919,2026-03-22T18:39:00Z,cs_check_in,outbound,A3177,Cobbleside Brasserie,Tomasz Wieczorek,4,follow_up,calls/C0919.txt
+C0806,2026-03-23T12:40:00Z,cs_check_in,outbound,A3062,Ninefields Tap Room,Tomasz Wieczorek,3,at_risk,calls/C0806.txt
+C0567,2026-03-23T16:12:00Z,outbound_sales,outbound,,The Bellhouse,Kwabena Asante,2,no_sale,calls/C0567.txt
+C1487,2026-03-23T17:07:00Z,support,inbound,A2977,The Tollhouse Dining Rooms,Priya Nair,2,escalated,calls/C1487.txt
+C0223,2026-03-24T10:21:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (10 sites),Bella Okafor,7,signed_up,calls/C0223.txt
+C0216,2026-03-24T12:38:00Z,inbound_sales,inbound,,The Wharf Kitchen,Bella Okafor,6,no_sale,calls/C0216.txt
+C1139,2026-03-24T14:28:00Z,cs_renewal,outbound,A2785,Elmsall Grill,Sunita Rao,2,pending,calls/C1139.txt
+C1403,2026-03-25T08:28:00Z,support,inbound,A3027,Beckside,Sana Dunne,3,resolved,calls/C1403.txt
+C0700,2026-03-25T09:18:00Z,outbound_sales,outbound,,The Sorting Office,Bella Okafor,4,no_sale,calls/C0700.txt
+C0274,2026-03-25T11:06:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Ruaridh Munro,6,signed_up,calls/C0274.txt
+C0371,2026-03-25T13:27:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Jamie Thornton,4,no_sale,calls/C0371.txt
+C0952,2026-03-25T17:04:00Z,cs_check_in,outbound,A2608,Copperfield Wine Bar,Declan Furey,2,follow_up,calls/C0952.txt
+C0304,2026-03-25T18:18:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,3,no_sale,calls/C0304.txt
+C0450,2026-03-26T10:21:00Z,inbound_sales,inbound,,Copperfield Cafe,Tamsin Cole,4,signed_up,calls/C0450.txt
+C0128,2026-03-26T12:46:00Z,inbound_sales,inbound,,Ostler's Bar (4 sites),Freya Dahl,5,no_sale,calls/C0128.txt
+C0603,2026-03-26T13:03:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Kwabena Asante,2,no_sale,calls/C0603.txt
+C0387,2026-03-26T15:09:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (6 sites),Priyanka Mehta,3,no_sale,calls/C0387.txt
+C0469,2026-03-27T08:27:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Oscar Lindgren,5,no_sale,calls/C0469.txt
+C0105,2026-03-27T11:34:00Z,inbound_sales,inbound,,Copperfield Cafe,Freya Dahl,6,no_sale,calls/C0105.txt
+C1315,2026-03-27T11:44:00Z,cs_renewal,outbound,A2764,Ketch and Anchor Cafe,Rhodri Bevan,3,churned,calls/C1315.txt
+C0769,2026-03-27T16:10:00Z,cs_check_in,outbound,A2897,The Signal Box Bar and Grill,Tomasz Wieczorek,3,at_risk,calls/C0769.txt
+C0615,2026-03-27T16:27:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Tamsin Cole,3,no_sale,calls/C0615.txt
+C1280,2026-03-27T16:56:00Z,cs_renewal,outbound,A2985,The Glasshouse Bistro,Adaeze Nwosu,4,renewed,calls/C1280.txt
+C1452,2026-03-27T17:03:00Z,support,inbound,A2057,Carrick,Dev Grant,4,resolved,calls/C1452.txt
+C1091,2026-03-27T17:24:00Z,cs_renewal,outbound,A3096,Rowan Tree Wine Bar,Tomasz Wieczorek,2,renewed,calls/C1091.txt
+C0794,2026-03-27T17:37:00Z,cs_check_in,outbound,A3245,Osier Bistro,Declan Furey,2,at_risk,calls/C0794.txt
+C0786,2026-03-27T17:46:00Z,cs_check_in,outbound,A2051,Sedgemill,Tomasz Wieczorek,3,ok,calls/C0786.txt
+C0394,2026-03-30T08:20:00Z,inbound_sales,inbound,,Greyfriars Tap Room (2 sites),Freya Dahl,4,signed_up,calls/C0394.txt
+C0095,2026-03-30T08:44:00Z,inbound_sales,inbound,,Harbourgate Rooms (9 sites),Oscar Lindgren,6,signed_up,calls/C0095.txt
+C1140,2026-03-30T10:33:00Z,cs_renewal,outbound,A2623,Ninefields Bistro,Sunita Rao,2,renewed,calls/C1140.txt
+C1289,2026-03-30T16:39:00Z,cs_renewal,outbound,A2389,Redbourne Rooms,Georgia Lamb,2,renewed,calls/C1289.txt
+C1421,2026-03-30T16:44:00Z,support,inbound,A3466,The Rookery Sports Centre,Dev Grant,3,resolved,calls/C1421.txt
+C0823,2026-03-30T16:45:00Z,cs_check_in,outbound,A2941,The Kiln Cafe,Rhodri Bevan,2,ok,calls/C0823.txt
+C1407,2026-03-31T17:25:00Z,support,inbound,A2880,Shorewell Leisure Centre,Wren Parry,2,resolved,calls/C1407.txt
+C0372,2026-04-01T15:00:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,5,no_sale,calls/C0372.txt
+C0145,2026-04-01T17:39:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (4 sites),Oscar Lindgren,4,no_sale,calls/C0145.txt
+C1388,2026-04-02T09:11:00Z,support,inbound,A2088,The Coalyard Leisure Centre,Sana Dunne,3,resolved,calls/C1388.txt
+C1030,2026-04-02T12:24:00Z,cs_check_in,outbound,A2157,Castleton Leisure Centre,Declan Furey,2,at_risk,calls/C1030.txt
+C1344,2026-04-02T13:43:00Z,support,inbound,A2426,Harbourgate Leisure Centre,Owen Tanaka,3,escalated,calls/C1344.txt
+C0995,2026-04-02T14:04:00Z,cs_check_in,outbound,A3499,The Signal Box Sports Centre,Georgia Lamb,3,follow_up,calls/C0995.txt
+C1412,2026-04-02T18:40:00Z,support,inbound,A2693,Hawksmoor Sports Centre,Xavier Bishop,5,resolved,calls/C1412.txt
+C1128,2026-04-03T08:25:00Z,cs_renewal,outbound,A2525,Stonebridge Brasserie,Georgia Lamb,4,renewed,calls/C1128.txt
+C0192,2026-04-03T09:23:00Z,inbound_sales,inbound,,Harbourgate Rooms,Kwabena Asante,4,no_sale,calls/C0192.txt
+C1414,2026-04-03T12:43:00Z,support,inbound,A3033,The Malt House,Imogen Yates,2,escalated,calls/C1414.txt
+C0512,2026-04-03T13:06:00Z,inbound_sales,inbound,,Saltmarsh Bistro (10 sites),Ruaridh Munro,5,signed_up,calls/C0512.txt
+C1084,2026-04-03T15:36:00Z,cs_renewal,outbound,A2210,Stonebridge Cafe,Adaeze Nwosu,4,renewed,calls/C1084.txt
+C1254,2026-04-03T16:29:00Z,cs_renewal,outbound,A2985,The Glasshouse Bistro,Adaeze Nwosu,2,renewed,calls/C1254.txt
+C1155,2026-04-03T16:52:00Z,cs_renewal,outbound,A3125,The Gatehouse Bistro,Tomasz Wieczorek,4,renewed,calls/C1155.txt
+C0124,2026-04-03T16:54:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (7 sites),Jamie Thornton,5,signed_up,calls/C0124.txt
+C0431,2026-04-03T17:00:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Priyanka Mehta,4,signed_up,calls/C0431.txt
+C1172,2026-04-03T17:57:00Z,cs_renewal,outbound,A2307,Ferrymount Bar,Declan Furey,2,renewed,calls/C1172.txt
+C0001,2026-04-03T18:22:00Z,inbound_sales,inbound,,Copperfield Cafe (4 sites),Priyanka Mehta,3,signed_up,calls/C0001.txt
+C1455,2026-04-04T08:34:00Z,support,inbound,A2710,The Foundry Bar and Grill,Priya Nair,3,resolved,calls/C1455.txt
+C1168,2026-04-04T15:56:00Z,cs_renewal,outbound,A2796,Gable End Kitchen,Georgia Lamb,3,renewed,calls/C1168.txt
+C0597,2026-04-06T08:53:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Ruaridh Munro,3,demo_booked,calls/C0597.txt
+C0425,2026-04-06T10:25:00Z,inbound_sales,inbound,,Nettlebed Brasserie (4 sites),Tamsin Cole,3,no_sale,calls/C0425.txt
+C1394,2026-04-06T15:45:00Z,support,inbound,A2359,Winnow Sports Centre,Owen Tanaka,2,resolved,calls/C1394.txt
+C1087,2026-04-07T08:48:00Z,cs_renewal,outbound,A3190,Sedgemill Bistro,Declan Furey,3,pending,calls/C1087.txt
+C0114,2026-04-07T09:55:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Freya Dahl,4,no_sale,calls/C0114.txt
+C1302,2026-04-07T13:21:00Z,cs_renewal,outbound,A3290,Wrayburn Coffee House,Georgia Lamb,3,renewed,calls/C1302.txt
+C0434,2026-04-07T14:19:00Z,inbound_sales,inbound,,The Boathouse Grill,Kwabena Asante,5,signed_up,calls/C0434.txt
+C0497,2026-04-07T16:06:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Bella Okafor,5,signed_up,calls/C0497.txt
+C0359,2026-04-07T17:28:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Ruaridh Munro,3,no_sale,calls/C0359.txt
+C0322,2026-04-08T08:29:00Z,inbound_sales,inbound,,The Malt House (10 sites),Kwabena Asante,3,signed_up,calls/C0322.txt
+C0594,2026-04-08T13:17:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,4,no_sale,calls/C0594.txt
+C0183,2026-04-08T14:46:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Tamsin Cole,4,signed_up,calls/C0183.txt
+C1286,2026-04-08T15:05:00Z,cs_renewal,outbound,A2244,Stonebridge Leisure Centre,Declan Furey,4,renewed,calls/C1286.txt
+C0227,2026-04-08T17:50:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,4,no_sale,calls/C0227.txt
+C1197,2026-04-09T08:07:00Z,cs_renewal,outbound,A2017,Harrow Lane Bistro,Sunita Rao,2,churned,calls/C1197.txt
+C0196,2026-04-09T13:25:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Oscar Lindgren,4,signed_up,calls/C0196.txt
+C0742,2026-04-09T17:39:00Z,cs_check_in,outbound,A2674,Quayside Leisure Centre,Georgia Lamb,3,follow_up,calls/C0742.txt
+C0565,2026-04-10T08:45:00Z,outbound_sales,outbound,,Alderfield Cafe,Ruaridh Munro,2,demo_booked,calls/C0565.txt
+C0248,2026-04-10T08:51:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Bella Okafor,6,no_sale,calls/C0248.txt
+C1112,2026-04-10T11:46:00Z,cs_renewal,outbound,A3229,Hartwell Rooms,Adaeze Nwosu,4,renewed,calls/C1112.txt
+C0793,2026-04-10T12:55:00Z,cs_check_in,outbound,A2784,The Wheelwright Cafe,Georgia Lamb,3,follow_up,calls/C0793.txt
+C0293,2026-04-10T13:13:00Z,inbound_sales,inbound,,Copperfield Cafe,Priyanka Mehta,6,signed_up,calls/C0293.txt
+C1244,2026-04-10T13:58:00Z,cs_renewal,outbound,A3403,The Glasshouse Tap Room,Declan Furey,3,renewed,calls/C1244.txt
+C0101,2026-04-10T14:55:00Z,inbound_sales,inbound,,Greyfriars Tap Room (3 sites),Jamie Thornton,2,no_sale,calls/C0101.txt
+C0963,2026-04-10T15:40:00Z,cs_check_in,outbound,A2391,The Engine Room Sports Centre,Sunita Rao,2,ok,calls/C0963.txt
+C0166,2026-04-10T16:08:00Z,inbound_sales,inbound,,Copperfield Cafe (4 sites),Bella Okafor,7,signed_up,calls/C0166.txt
+C0282,2026-04-10T16:11:00Z,inbound_sales,inbound,,The Boathouse Grill (6 sites),Bella Okafor,5,signed_up,calls/C0282.txt
+C1243,2026-04-10T16:49:00Z,cs_renewal,outbound,A2015,The Smokehouse Grill,Rhodri Bevan,2,renewed,calls/C1243.txt
+C0724,2026-04-10T17:02:00Z,cs_check_in,outbound,A3340,The Engine Room Wine Bar,Tomasz Wieczorek,4,ok,calls/C0724.txt
+C0455,2026-04-10T18:26:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Ruaridh Munro,2,no_sale,calls/C0455.txt
+C1085,2026-04-10T18:51:00Z,cs_renewal,outbound,A2128,Threadneedle Rooms,Rhodri Bevan,2,pending,calls/C1085.txt
+C1218,2026-04-10T18:58:00Z,cs_renewal,outbound,A3007,The Foundry Rooms,Tomasz Wieczorek,2,pending,calls/C1218.txt
+C0836,2026-04-11T08:11:00Z,cs_check_in,outbound,A2233,Halyard Coffee House,Georgia Lamb,2,follow_up,calls/C0836.txt
+C0807,2026-04-13T09:05:00Z,cs_check_in,outbound,A3268,Hartwell Cafe,Rhodri Bevan,2,ok,calls/C0807.txt
+C0252,2026-04-13T16:42:00Z,inbound_sales,inbound,,The Malt House (8 sites),Tamsin Cole,5,no_sale,calls/C0252.txt
+C1453,2026-04-13T16:42:00Z,support,inbound,A2667,Saltmarsh Wine Bar,Imogen Yates,2,escalated,calls/C1453.txt
+C1379,2026-04-13T16:48:00Z,support,inbound,A3379,The Malt House Tap Room,Imogen Yates,3,resolved,calls/C1379.txt
+C1117,2026-04-14T08:32:00Z,cs_renewal,outbound,A2071,Beckside Kitchen,Sunita Rao,2,renewed,calls/C1117.txt
+C0744,2026-04-14T09:43:00Z,cs_check_in,outbound,A3014,The Parcel Office Bar and Grill,Adaeze Nwosu,4,ok,calls/C0744.txt
+C1038,2026-04-14T12:42:00Z,cs_check_in,outbound,A2414,Quayside Bistro,Sunita Rao,2,ok,calls/C1038.txt
+C0039,2026-04-14T14:58:00Z,inbound_sales,inbound,,Copperfield Cafe (8 sites),Priyanka Mehta,3,no_sale,calls/C0039.txt
+C1127,2026-04-14T18:57:00Z,cs_renewal,outbound,A3061,The Chandlery Kitchen,Tomasz Wieczorek,4,renewed,calls/C1127.txt
+C1326,2026-04-15T11:18:00Z,support,inbound,A2078,The Parcel Office Leisure Centre,Cerys Reid,2,resolved,calls/C1326.txt
+C1333,2026-04-15T13:44:00Z,support,inbound,A2752,Stonebridge Kitchen,Priya Evans,3,resolved,calls/C1333.txt
+C1021,2026-04-15T15:24:00Z,cs_check_in,outbound,A3032,Ravelston Wine Bar,Sunita Rao,4,ok,calls/C1021.txt
+C0266,2026-04-15T18:39:00Z,inbound_sales,inbound,,The Malt House,Ruaridh Munro,4,signed_up,calls/C0266.txt
+C0662,2026-04-16T13:31:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Kwabena Asante,2,no_sale,calls/C0662.txt
+C1466,2026-04-16T14:35:00Z,support,inbound,A2217,Wickham Dining Rooms,Xavier Bishop,2,escalated,calls/C1466.txt
+C0174,2026-04-16T16:37:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Kwabena Asante,5,no_sale,calls/C0174.txt
+C0347,2026-04-16T17:14:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Freya Dahl,4,no_sale,calls/C0347.txt
+C0429,2026-04-17T08:18:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,5,signed_up,calls/C0429.txt
+C0741,2026-04-17T08:41:00Z,cs_check_in,outbound,A2043,Tollerton Coffee House,Georgia Lamb,2,ok,calls/C0741.txt
+C0081,2026-04-17T09:12:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (8 sites),Kwabena Asante,6,no_sale,calls/C0081.txt
+C0783,2026-04-17T12:39:00Z,cs_check_in,outbound,A3407,Kingsmead Rooms,Declan Furey,2,follow_up,calls/C0783.txt
+C1332,2026-04-17T15:32:00Z,support,inbound,A2731,Hartwell Brasserie,Imogen Yates,3,resolved,calls/C1332.txt
+C0746,2026-04-17T16:41:00Z,cs_check_in,outbound,A2337,Sandhaven Bistro,Georgia Lamb,3,ok,calls/C0746.txt
+C0870,2026-04-18T10:07:00Z,cs_check_in,outbound,A2383,Pollard Coffee House,Georgia Lamb,4,ok,calls/C0870.txt
+C1157,2026-04-19T11:34:00Z,cs_renewal,outbound,A3189,Alderfield Kitchen,Georgia Lamb,4,pending,calls/C1157.txt
+C1237,2026-04-19T16:54:00Z,cs_renewal,outbound,A3309,Ninefields Leisure Centre,Adaeze Nwosu,4,renewed,calls/C1237.txt
+C0340,2026-04-20T13:38:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,6,signed_up,calls/C0340.txt
+C0053,2026-04-21T09:05:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Freya Dahl,5,signed_up,calls/C0053.txt
+C0973,2026-04-22T08:53:00Z,cs_check_in,outbound,A2033,The Parcel Office Bistro,Declan Furey,2,ok,calls/C0973.txt
+C0321,2026-04-22T12:24:00Z,inbound_sales,inbound,,Greyfriars Tap Room (8 sites),Bella Okafor,3,no_sale,calls/C0321.txt
+C1300,2026-04-22T17:08:00Z,cs_renewal,outbound,A3234,Harrow Lane Dining Rooms,Georgia Lamb,2,renewed,calls/C1300.txt
+C0029,2026-04-22T17:15:00Z,inbound_sales,inbound,,Copperfield Cafe (7 sites),Tamsin Cole,4,signed_up,calls/C0029.txt
+C0079,2026-04-22T18:15:00Z,inbound_sales,inbound,,Nettlebed Brasserie (9 sites),Bella Okafor,6,signed_up,calls/C0079.txt
+C1475,2026-04-22T18:44:00Z,support,inbound,A3163,Umber Leisure Centre,Pip Iqbal,4,resolved,calls/C1475.txt
+C1035,2026-04-23T09:09:00Z,cs_check_in,outbound,A3352,The Chandlery Dining Rooms,Declan Furey,3,at_risk,calls/C1035.txt
+C1006,2026-04-23T10:51:00Z,cs_check_in,outbound,A2641,Fossgate,Sunita Rao,3,ok,calls/C1006.txt
+C1336,2026-04-23T10:59:00Z,support,inbound,A3029,Castleton Tap Room,Cerys Reid,3,resolved,calls/C1336.txt
+C1478,2026-04-23T16:29:00Z,support,inbound,A2206,The Wharf Leisure Centre,Dara Vance,2,resolved,calls/C1478.txt
+C1024,2026-04-23T17:34:00Z,cs_check_in,outbound,A2868,Hartwell Kitchen,Sunita Rao,4,follow_up,calls/C1024.txt
+C1297,2026-04-24T08:57:00Z,cs_renewal,outbound,A2323,Ashlar Dining Rooms,Georgia Lamb,3,pending,calls/C1297.txt
+C0967,2026-04-24T09:01:00Z,cs_check_in,outbound,A2529,The Ropewalk Brasserie,Declan Furey,2,follow_up,calls/C0967.txt
+C1009,2026-04-24T09:29:00Z,cs_check_in,outbound,A2275,Gable End Bar,Tomasz Wieczorek,4,follow_up,calls/C1009.txt
+C1476,2026-04-24T09:35:00Z,support,inbound,A3232,Lydgate Grill,Sana Dunne,3,resolved,calls/C1476.txt
+C0098,2026-04-24T11:07:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,5,no_sale,calls/C0098.txt
+C1138,2026-04-24T11:42:00Z,cs_renewal,outbound,A2914,Kettlewick,Adaeze Nwosu,2,renewed,calls/C1138.txt
+C0933,2026-04-24T13:35:00Z,cs_check_in,outbound,A3096,Rowan Tree Wine Bar,Tomasz Wieczorek,5,at_risk,calls/C0933.txt
+C0343,2026-04-24T14:30:00Z,inbound_sales,inbound,,Greyfriars Tap Room (12 sites),Jamie Thornton,4,signed_up,calls/C0343.txt
+C0368,2026-04-24T16:06:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Freya Dahl,4,signed_up,calls/C0368.txt
+C1120,2026-04-24T17:40:00Z,cs_renewal,outbound,A2089,The Coalyard Grill,Rhodri Bevan,3,renewed,calls/C1120.txt
+C0988,2026-04-25T14:59:00Z,cs_check_in,outbound,A2909,Ninefields Kitchen,Georgia Lamb,3,ok,calls/C0988.txt
+C0487,2026-04-25T15:39:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Oscar Lindgren,4,signed_up,calls/C0487.txt
+C1430,2026-04-26T15:42:00Z,support,inbound,A2746,Fossgate Wine Bar,Owen Tanaka,4,resolved,calls/C1430.txt
+C0799,2026-04-26T15:55:00Z,cs_check_in,outbound,A2790,Tarnside Brasserie,Sunita Rao,4,at_risk,calls/C0799.txt
+C1056,2026-04-27T08:51:00Z,cs_check_in,outbound,A2560,Osier Sports Centre,Sunita Rao,3,follow_up,calls/C1056.txt
+C0375,2026-04-27T12:33:00Z,inbound_sales,inbound,,Harbourgate Rooms,Bella Okafor,6,no_sale,calls/C0375.txt
+C0958,2026-04-27T16:37:00Z,cs_check_in,outbound,A2770,Larkspur Dining Rooms,Rhodri Bevan,2,ok,calls/C0958.txt
+C1260,2026-04-27T16:47:00Z,cs_renewal,outbound,A2488,Larkspur Bistro,Georgia Lamb,2,renewed,calls/C1260.txt
+C1202,2026-04-27T18:31:00Z,cs_renewal,outbound,A3188,Rowan Tree Bar and Grill,Declan Furey,4,churned,calls/C1202.txt
+C0604,2026-04-28T13:20:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Jamie Thornton,4,no_sale,calls/C0604.txt
+C1062,2026-04-29T09:57:00Z,cs_check_in,outbound,A2213,Wrayburn Bar,Rhodri Bevan,3,ok,calls/C1062.txt
+C0279,2026-04-29T13:19:00Z,inbound_sales,inbound,,Ostler's Bar (6 sites),Tamsin Cole,5,no_sale,calls/C0279.txt
+C0457,2026-04-29T13:33:00Z,inbound_sales,inbound,,Ostler's Bar (5 sites),Priyanka Mehta,6,signed_up,calls/C0457.txt
+C0130,2026-04-30T08:31:00Z,inbound_sales,inbound,,The Wharf Kitchen,Freya Dahl,5,no_sale,calls/C0130.txt
+C1472,2026-04-30T09:19:00Z,support,inbound,A2446,Osier Brasserie,Dara Vance,2,resolved,calls/C1472.txt
+C1306,2026-04-30T09:22:00Z,cs_renewal,outbound,A2618,Brockholes Bistro,Rhodri Bevan,3,renewed,calls/C1306.txt
+C0814,2026-04-30T15:51:00Z,cs_check_in,outbound,A2904,Hawksmoor Dining Rooms,Rhodri Bevan,4,at_risk,calls/C0814.txt
+C0956,2026-04-30T18:49:00Z,cs_check_in,outbound,A3114,The Lamplighter Coffee House,Sunita Rao,4,ok,calls/C0956.txt
+C0580,2026-04-30T18:51:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,2,demo_booked,calls/C0580.txt
+C0672,2026-05-01T09:40:00Z,outbound_sales,outbound,,Alderfield Cafe,Kwabena Asante,3,demo_booked,calls/C0672.txt
+C0051,2026-05-01T10:50:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Tamsin Cole,7,signed_up,calls/C0051.txt
+C0397,2026-05-01T14:12:00Z,inbound_sales,inbound,,Copperfield Cafe,Jamie Thornton,2,no_sale,calls/C0397.txt
+C0790,2026-05-01T14:16:00Z,cs_check_in,outbound,A2659,Thorne and Vale Kitchen,Sunita Rao,2,follow_up,calls/C0790.txt
+C0345,2026-05-01T18:06:00Z,inbound_sales,inbound,,Nettlebed Brasserie (4 sites),Tamsin Cole,5,signed_up,calls/C0345.txt
+C0065,2026-05-04T09:22:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Freya Dahl,4,no_sale,calls/C0065.txt
+C0521,2026-05-04T09:32:00Z,outbound_sales,outbound,,Alderfield Cafe,Tamsin Cole,2,demo_booked,calls/C0521.txt
+C1145,2026-05-04T10:55:00Z,cs_renewal,outbound,A3439,The Boathouse Leisure Centre,Sunita Rao,4,renewed,calls/C1145.txt
+C0127,2026-05-04T11:45:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Priyanka Mehta,5,no_sale,calls/C0127.txt
+C0004,2026-05-04T15:10:00Z,inbound_sales,inbound,,Ostler's Bar,Priyanka Mehta,3,no_sale,calls/C0004.txt
+C1486,2026-05-04T17:37:00Z,support,inbound,A3452,The Tollhouse Bar and Grill,Maya Ellis,3,resolved,calls/C1486.txt
+C0652,2026-05-05T09:11:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Priyanka Mehta,5,no_sale,calls/C0652.txt
+C0237,2026-05-05T10:03:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Ruaridh Munro,5,signed_up,calls/C0237.txt
+C1324,2026-05-05T10:42:00Z,support,inbound,A2202,Quarryman's Rooms,Dara Vance,2,escalated,calls/C1324.txt
+C1002,2026-05-05T13:09:00Z,cs_check_in,outbound,A3443,The Pilot House Kitchen,Declan Furey,3,ok,calls/C1002.txt
+C1293,2026-05-05T17:20:00Z,cs_renewal,outbound,A2912,Mapleton Brasserie,Declan Furey,3,renewed,calls/C1293.txt
+C0844,2026-05-05T18:25:00Z,cs_check_in,outbound,A3490,Tarnside Bar and Grill,Declan Furey,3,ok,calls/C0844.txt
+C1413,2026-05-06T12:47:00Z,support,inbound,A3305,The Boathouse Grill,Priya Evans,2,escalated,calls/C1413.txt
+C0092,2026-05-06T16:15:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Priyanka Mehta,4,no_sale,calls/C0092.txt
+C0010,2026-05-06T16:17:00Z,inbound_sales,inbound,,The Malt House,Oscar Lindgren,4,signed_up,calls/C0010.txt
+C0506,2026-05-06T17:40:00Z,inbound_sales,inbound,,Harbourgate Rooms,Kwabena Asante,6,no_sale,calls/C0506.txt
+C0587,2026-05-07T08:14:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Ruaridh Munro,2,demo_booked,calls/C0587.txt
+C0014,2026-05-07T09:28:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Oscar Lindgren,5,no_sale,calls/C0014.txt
+C0172,2026-05-07T11:19:00Z,inbound_sales,inbound,,The Wharf Kitchen,Kwabena Asante,4,signed_up,calls/C0172.txt
+C0610,2026-05-07T11:44:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Priyanka Mehta,4,no_sale,calls/C0610.txt
+C0384,2026-05-07T16:29:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,3,signed_up,calls/C0384.txt
+C0690,2026-05-08T09:21:00Z,outbound_sales,outbound,,The Bellhouse,Oscar Lindgren,2,no_sale,calls/C0690.txt
+C0115,2026-05-08T10:12:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Freya Dahl,5,signed_up,calls/C0115.txt
+C1123,2026-05-08T10:54:00Z,cs_renewal,outbound,A2410,The Pump House Sports Centre,Georgia Lamb,3,renewed,calls/C1123.txt
+C0702,2026-05-08T11:25:00Z,cs_check_in,outbound,A2883,Ferrymount Wine Bar,Declan Furey,4,ok,calls/C0702.txt
+C0094,2026-05-08T12:42:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Ruaridh Munro,5,no_sale,calls/C0094.txt
+C0860,2026-05-08T13:12:00Z,cs_check_in,outbound,A3034,Culvert Brasserie,Rhodri Bevan,4,follow_up,calls/C0860.txt
+C1463,2026-05-08T18:02:00Z,support,inbound,A2158,Wrayburn Dining Rooms,Priya Evans,3,resolved,calls/C1463.txt
+C1174,2026-05-08T18:25:00Z,cs_renewal,outbound,A2505,Marlow Street,Sunita Rao,4,renewed,calls/C1174.txt
+C0082,2026-05-11T08:53:00Z,inbound_sales,inbound,,Harbourgate Rooms,Jamie Thornton,3,no_sale,calls/C0082.txt
+C0568,2026-05-11T08:57:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,3,no_sale,calls/C0568.txt
+C0926,2026-05-11T12:23:00Z,cs_check_in,outbound,A2394,The Pannier Market Leisure Centre,Declan Furey,2,ok,calls/C0926.txt
+C0856,2026-05-12T08:13:00Z,cs_check_in,outbound,A2843,Corncrake Grill,Declan Furey,3,ok,calls/C0856.txt
+C0666,2026-05-12T10:17:00Z,outbound_sales,outbound,,Alderfield Cafe,Tamsin Cole,2,no_sale,calls/C0666.txt
+C0427,2026-05-12T12:40:00Z,inbound_sales,inbound,,The Drapers Wine Bar (10 sites),Priyanka Mehta,5,signed_up,calls/C0427.txt
+C0626,2026-05-12T18:21:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,4,no_sale,calls/C0626.txt
+C0032,2026-05-12T18:35:00Z,inbound_sales,inbound,,Copperfield Cafe (5 sites),Jamie Thornton,4,no_sale,calls/C0032.txt
+C0904,2026-05-13T11:59:00Z,cs_check_in,outbound,A2371,The Malt House Cafe,Georgia Lamb,3,ok,calls/C0904.txt
+C0138,2026-05-13T13:02:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (6 sites),Priyanka Mehta,4,signed_up,calls/C0138.txt
+C0654,2026-05-14T08:46:00Z,outbound_sales,outbound,,The Bellhouse,Priyanka Mehta,2,demo_booked,calls/C0654.txt
+C1185,2026-05-14T09:50:00Z,cs_renewal,outbound,A2730,Brindle Leisure Centre,Sunita Rao,2,renewed,calls/C1185.txt
+C0833,2026-05-14T12:24:00Z,cs_check_in,outbound,A3212,Threadneedle Tap Room,Sunita Rao,4,ok,calls/C0833.txt
+C1479,2026-05-14T13:30:00Z,support,inbound,A2826,The Engine Room Tap Room,Priya Evans,4,escalated,calls/C1479.txt
+C0931,2026-05-14T15:07:00Z,cs_check_in,outbound,A3051,The Foundry Dining Rooms,Adaeze Nwosu,4,ok,calls/C0931.txt
+C1041,2026-05-14T15:25:00Z,cs_check_in,outbound,A3258,The Signal Box Wine Bar,Georgia Lamb,4,follow_up,calls/C1041.txt
+C0056,2026-05-15T08:22:00Z,inbound_sales,inbound,,Ostler's Bar,Oscar Lindgren,6,signed_up,calls/C0056.txt
+C0276,2026-05-15T08:27:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Freya Dahl,6,signed_up,calls/C0276.txt
+C1013,2026-05-15T09:07:00Z,cs_check_in,outbound,A2357,Marlow Street Bar,Declan Furey,2,at_risk,calls/C1013.txt
+C1331,2026-05-15T09:39:00Z,support,inbound,A2597,The Engine Room Bar,Priya Nair,2,resolved,calls/C1331.txt
+C0123,2026-05-15T10:06:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Kwabena Asante,4,no_sale,calls/C0123.txt
+C0717,2026-05-15T10:21:00Z,cs_check_in,outbound,A2547,Threadneedle Sports Centre,Sunita Rao,4,follow_up,calls/C0717.txt
+C0868,2026-05-15T12:39:00Z,cs_check_in,outbound,A2957,Saltmarsh Dining Rooms,Adaeze Nwosu,3,follow_up,calls/C0868.txt
+C0422,2026-05-15T13:31:00Z,inbound_sales,inbound,,The Boathouse Grill,Jamie Thornton,3,signed_up,calls/C0422.txt
+C0364,2026-05-15T15:57:00Z,inbound_sales,inbound,,The Drapers Wine Bar (8 sites),Freya Dahl,2,no_sale,calls/C0364.txt
+C0541,2026-05-15T16:06:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Ruaridh Munro,3,demo_booked,calls/C0541.txt
+C0432,2026-05-15T17:04:00Z,inbound_sales,inbound,,Copperfield Cafe,Oscar Lindgren,4,no_sale,calls/C0432.txt
+C0656,2026-05-15T17:57:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Bella Okafor,3,no_sale,calls/C0656.txt
+C0491,2026-05-15T18:23:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Ruaridh Munro,4,signed_up,calls/C0491.txt
+C1049,2026-05-15T18:54:00Z,cs_check_in,outbound,A3149,Carrick Leisure Centre,Georgia Lamb,2,follow_up,calls/C1049.txt
+C1465,2026-05-16T18:35:00Z,support,inbound,A2644,Quarryman's Dining Rooms,Imogen Yates,3,escalated,calls/C1465.txt
+C0185,2026-05-17T12:07:00Z,inbound_sales,inbound,,Nettlebed Brasserie (2 sites),Priyanka Mehta,6,signed_up,calls/C0185.txt
+C1381,2026-05-18T09:37:00Z,support,inbound,A2871,The Saltern Brasserie,Cerys Reid,4,escalated,calls/C1381.txt
+C0813,2026-05-18T11:28:00Z,cs_check_in,outbound,A2863,Umber Rooms,Georgia Lamb,2,follow_up,calls/C0813.txt
+C0819,2026-05-18T14:30:00Z,cs_check_in,outbound,A3047,Elmsall Dining Rooms,Tomasz Wieczorek,3,follow_up,calls/C0819.txt
+C0745,2026-05-18T15:47:00Z,cs_check_in,outbound,A3010,Alderfield Bar and Grill,Declan Furey,4,ok,calls/C0745.txt
+C0386,2026-05-18T17:49:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (4 sites),Kwabena Asante,4,signed_up,calls/C0386.txt
+C0818,2026-05-19T11:34:00Z,cs_check_in,outbound,A2439,Kingsmead Coffee House,Declan Furey,3,follow_up,calls/C0818.txt
+C1213,2026-05-19T11:59:00Z,cs_renewal,outbound,A2976,Fenby Leisure Centre,Adaeze Nwosu,2,pending,calls/C1213.txt
+C0277,2026-05-19T15:21:00Z,inbound_sales,inbound,,The Malt House (12 sites),Priyanka Mehta,7,signed_up,calls/C0277.txt
+C0118,2026-05-19T18:08:00Z,inbound_sales,inbound,,The Boathouse Grill (3 sites),Freya Dahl,4,signed_up,calls/C0118.txt
+C0169,2026-05-20T08:20:00Z,inbound_sales,inbound,,The Boathouse Grill,Freya Dahl,5,signed_up,calls/C0169.txt
+C0170,2026-05-20T16:44:00Z,inbound_sales,inbound,,The Malt House,Ruaridh Munro,4,no_sale,calls/C0170.txt
+C0035,2026-05-21T09:39:00Z,inbound_sales,inbound,,Nettlebed Brasserie (11 sites),Freya Dahl,3,signed_up,calls/C0035.txt
+C0204,2026-05-21T12:42:00Z,inbound_sales,inbound,,The Malt House (11 sites),Jamie Thornton,4,signed_up,calls/C0204.txt
+C0809,2026-05-21T16:37:00Z,cs_check_in,outbound,A2883,Ferrymount Wine Bar,Declan Furey,4,follow_up,calls/C0809.txt
+C0233,2026-05-21T18:10:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (7 sites),Ruaridh Munro,4,signed_up,calls/C0233.txt
+C0726,2026-05-22T10:44:00Z,cs_check_in,outbound,A2883,Ferrymount Wine Bar,Declan Furey,4,ok,calls/C0726.txt
+C1092,2026-05-22T12:11:00Z,cs_renewal,outbound,A3116,The Drapers Cafe,Rhodri Bevan,3,renewed,calls/C1092.txt
+C1093,2026-05-22T15:08:00Z,cs_renewal,outbound,A2312,Little Ness Wine Bar,Adaeze Nwosu,3,pending,calls/C1093.txt
+C0167,2026-05-22T15:33:00Z,inbound_sales,inbound,,Harbourgate Rooms (6 sites),Oscar Lindgren,4,no_sale,calls/C0167.txt
+C0326,2026-05-22T16:44:00Z,inbound_sales,inbound,,Ostler's Bar,Kwabena Asante,3,signed_up,calls/C0326.txt
+C0843,2026-05-22T17:52:00Z,cs_check_in,outbound,A2241,Hesketh Brasserie,Tomasz Wieczorek,4,ok,calls/C0843.txt
+C1288,2026-05-22T18:04:00Z,cs_renewal,outbound,A2180,Orrery Sports Centre,Sunita Rao,2,renewed,calls/C1288.txt
+C1278,2026-05-22T18:34:00Z,cs_renewal,outbound,A3327,Bramber Rooms,Georgia Lamb,2,renewed,calls/C1278.txt
+C0362,2026-05-23T09:03:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,3,no_sale,calls/C0362.txt
+C0200,2026-05-24T14:28:00Z,inbound_sales,inbound,,Harbourgate Rooms,Kwabena Asante,6,signed_up,calls/C0200.txt
+C0943,2026-05-25T09:19:00Z,cs_check_in,outbound,A2378,Alderfield Tap Room,Declan Furey,2,ok,calls/C0943.txt
+C0733,2026-05-25T09:36:00Z,cs_check_in,outbound,A3265,The Wheelwright Coffee House,Tomasz Wieczorek,4,ok,calls/C0733.txt
+C1351,2026-05-25T12:09:00Z,support,inbound,A2706,Ashlar Brasserie,Maya Ellis,2,resolved,calls/C1351.txt
+C0987,2026-05-25T16:46:00Z,cs_check_in,outbound,A3172,Wrayburn Brasserie,Tomasz Wieczorek,2,follow_up,calls/C0987.txt
+C0061,2026-05-26T14:07:00Z,inbound_sales,inbound,,Copperfield Cafe (5 sites),Ruaridh Munro,6,signed_up,calls/C0061.txt
+C1273,2026-05-26T15:07:00Z,cs_renewal,outbound,A2101,The Pannier Market,Declan Furey,4,churned,calls/C1273.txt
+C0390,2026-05-26T15:27:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,5,signed_up,calls/C0390.txt
+C0332,2026-05-26T18:30:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Jamie Thornton,3,signed_up,calls/C0332.txt
+C1239,2026-05-27T08:04:00Z,cs_renewal,outbound,A2905,Kingsmead Kitchen,Adaeze Nwosu,2,renewed,calls/C1239.txt
+C0468,2026-05-27T11:15:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,3,signed_up,calls/C0468.txt
+C0622,2026-05-27T11:56:00Z,outbound_sales,outbound,,Alderfield Cafe,Priyanka Mehta,4,demo_booked,calls/C0622.txt
+C0704,2026-05-27T14:07:00Z,cs_check_in,outbound,A2072,Little Ness Coffee House,Georgia Lamb,2,ok,calls/C0704.txt
+C0194,2026-05-27T14:17:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Oscar Lindgren,4,signed_up,calls/C0194.txt
+C0651,2026-05-27T15:02:00Z,outbound_sales,outbound,,The Sorting Office,Oscar Lindgren,3,no_sale,calls/C0651.txt
+C0452,2026-05-28T08:59:00Z,inbound_sales,inbound,,Ostler's Bar (12 sites),Tamsin Cole,3,no_sale,calls/C0452.txt
+C0558,2026-05-28T09:46:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Freya Dahl,5,no_sale,calls/C0558.txt
+C1404,2026-05-28T10:17:00Z,support,inbound,A2842,Mapleton,Priya Evans,3,resolved,calls/C1404.txt
+C0631,2026-05-28T17:57:00Z,outbound_sales,outbound,,The Bellhouse,Ruaridh Munro,2,demo_booked,calls/C0631.txt
+C1012,2026-05-29T08:28:00Z,cs_check_in,outbound,A2920,Redbourne,Rhodri Bevan,2,ok,calls/C1012.txt
+C0031,2026-05-29T08:33:00Z,inbound_sales,inbound,,Nettlebed Brasserie (6 sites),Tamsin Cole,4,signed_up,calls/C0031.txt
+C0705,2026-05-29T09:59:00Z,cs_check_in,outbound,A3485,Elmsall,Georgia Lamb,5,follow_up,calls/C0705.txt
+C0069,2026-05-29T10:18:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Tamsin Cole,3,no_sale,calls/C0069.txt
+C0883,2026-05-29T13:03:00Z,cs_check_in,outbound,A3058,The Coalyard,Declan Furey,3,at_risk,calls/C0883.txt
+C0132,2026-05-29T15:04:00Z,inbound_sales,inbound,,Harbourgate Rooms (8 sites),Tamsin Cole,5,no_sale,calls/C0132.txt
+C1050,2026-05-29T15:45:00Z,cs_check_in,outbound,A2927,Wyvern Tap Room,Georgia Lamb,4,ok,calls/C1050.txt
+C0153,2026-05-29T15:58:00Z,inbound_sales,inbound,,Harbourgate Rooms,Tamsin Cole,4,signed_up,calls/C0153.txt
+C0850,2026-05-29T16:10:00Z,cs_check_in,outbound,A2467,The Sorting Office Bistro,Rhodri Bevan,4,follow_up,calls/C0850.txt
+C0489,2026-05-29T17:10:00Z,inbound_sales,inbound,,Copperfield Cafe (11 sites),Oscar Lindgren,3,no_sale,calls/C0489.txt
+C0080,2026-05-29T17:19:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Ruaridh Munro,5,no_sale,calls/C0080.txt
+C1482,2026-05-29T18:10:00Z,support,inbound,A2965,Harbourgate Bistro,Owen Tanaka,4,resolved,calls/C1482.txt
+C0134,2026-05-29T18:30:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Jamie Thornton,4,signed_up,calls/C0134.txt
+C1266,2026-06-01T13:17:00Z,cs_renewal,outbound,A3319,Umber Brasserie,Rhodri Bevan,2,renewed,calls/C1266.txt
+C0421,2026-06-01T15:08:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Priyanka Mehta,3,signed_up,calls/C0421.txt
+C0577,2026-06-01T18:17:00Z,outbound_sales,outbound,,Alderfield Cafe,Oscar Lindgren,2,demo_booked,calls/C0577.txt
+C1442,2026-06-02T14:55:00Z,support,inbound,A3453,Linden Bar and Grill,Sana Dunne,3,resolved,calls/C1442.txt
+C1267,2026-06-02T15:40:00Z,cs_renewal,outbound,A3469,Ashlar Sports Centre,Georgia Lamb,4,renewed,calls/C1267.txt
+C0510,2026-06-02T17:37:00Z,inbound_sales,inbound,,The Boathouse Grill (4 sites),Bella Okafor,5,signed_up,calls/C0510.txt
+C0255,2026-06-02T18:33:00Z,inbound_sales,inbound,,The Malt House (5 sites),Bella Okafor,6,signed_up,calls/C0255.txt
+C0222,2026-06-03T10:15:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Priyanka Mehta,3,no_sale,calls/C0222.txt
+C0888,2026-06-03T14:07:00Z,cs_check_in,outbound,A2910,The Long Room Sports Centre,Rhodri Bevan,2,at_risk,calls/C0888.txt
+C0376,2026-06-03T14:12:00Z,inbound_sales,inbound,,Saltmarsh Bistro (5 sites),Ruaridh Munro,3,no_sale,calls/C0376.txt
+C0492,2026-06-03T14:16:00Z,inbound_sales,inbound,,The Malt House,Oscar Lindgren,6,signed_up,calls/C0492.txt
+C0959,2026-06-03T18:57:00Z,cs_check_in,outbound,A3344,The Signal Box Tap Room,Declan Furey,2,ok,calls/C0959.txt
+C0547,2026-06-04T10:51:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Bella Okafor,3,no_sale,calls/C0547.txt
+C0725,2026-06-04T11:28:00Z,cs_check_in,outbound,A3125,The Gatehouse Bistro,Tomasz Wieczorek,3,ok,calls/C0725.txt
+C0980,2026-06-05T08:15:00Z,cs_check_in,outbound,A2907,The Glasshouse Dining Rooms,Sunita Rao,3,follow_up,calls/C0980.txt
+C0471,2026-06-05T08:39:00Z,inbound_sales,inbound,,Greyfriars Tap Room (6 sites),Bella Okafor,3,signed_up,calls/C0471.txt
+C0265,2026-06-05T09:02:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,6,signed_up,calls/C0265.txt
+C0971,2026-06-05T12:43:00Z,cs_check_in,outbound,A2892,Ketch and Anchor Dining Rooms,Tomasz Wieczorek,2,follow_up,calls/C0971.txt
+C0478,2026-06-05T12:51:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,4,signed_up,calls/C0478.txt
+C0895,2026-06-05T13:03:00Z,cs_check_in,outbound,A2227,Lydgate Leisure Centre,Tomasz Wieczorek,2,ok,calls/C0895.txt
+C0808,2026-06-05T15:14:00Z,cs_check_in,outbound,A2897,The Signal Box Bar and Grill,Tomasz Wieczorek,2,follow_up,calls/C0808.txt
+C1018,2026-06-05T16:12:00Z,cs_check_in,outbound,A2046,Whitlow Bar and Grill,Adaeze Nwosu,3,ok,calls/C1018.txt
+C0403,2026-06-05T18:40:00Z,inbound_sales,inbound,,Greyfriars Tap Room (8 sites),Kwabena Asante,3,no_sale,calls/C0403.txt
+C0857,2026-06-05T18:49:00Z,cs_check_in,outbound,A2402,Hesketh Bar,Sunita Rao,4,at_risk,calls/C0857.txt
+C0197,2026-06-08T09:08:00Z,inbound_sales,inbound,,The Wharf Kitchen (8 sites),Tamsin Cole,5,signed_up,calls/C0197.txt
+C0575,2026-06-08T09:58:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Kwabena Asante,2,no_sale,calls/C0575.txt
+C0495,2026-06-08T13:16:00Z,inbound_sales,inbound,,Copperfield Cafe,Priyanka Mehta,5,signed_up,calls/C0495.txt
+C0424,2026-06-08T13:26:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Tamsin Cole,5,no_sale,calls/C0424.txt
+C0420,2026-06-08T14:29:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Jamie Thornton,4,no_sale,calls/C0420.txt
+C0969,2026-06-08T18:17:00Z,cs_check_in,outbound,A2886,The Glasshouse Grill,Tomasz Wieczorek,2,at_risk,calls/C0969.txt
+C0268,2026-06-08T18:59:00Z,inbound_sales,inbound,,Nettlebed Brasserie (9 sites),Kwabena Asante,7,signed_up,calls/C0268.txt
+C0879,2026-06-09T08:36:00Z,cs_check_in,outbound,A3274,Fennel and Rye Coffee House,Rhodri Bevan,3,follow_up,calls/C0879.txt
+C0239,2026-06-09T09:01:00Z,inbound_sales,inbound,,The Malt House (12 sites),Bella Okafor,4,signed_up,calls/C0239.txt
+C0698,2026-06-09T15:18:00Z,outbound_sales,outbound,,The Bellhouse,Bella Okafor,4,no_sale,calls/C0698.txt
+C0159,2026-06-09T18:47:00Z,inbound_sales,inbound,,The Wharf Kitchen,Oscar Lindgren,3,no_sale,calls/C0159.txt
+C1445,2026-06-10T10:22:00Z,support,inbound,A3369,Brockholes Brasserie,Cerys Reid,5,resolved,calls/C1445.txt
+C1460,2026-06-10T15:01:00Z,support,inbound,A2254,Quayside Kitchen,Dara Vance,4,resolved,calls/C1460.txt
+C0309,2026-06-10T15:28:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Priyanka Mehta,6,signed_up,calls/C0309.txt
+C1494,2026-06-10T17:05:00Z,support,inbound,A2284,Shorewell Brasserie,Imogen Yates,4,resolved,calls/C1494.txt
+C0361,2026-06-12T08:24:00Z,inbound_sales,inbound,,Harbourgate Rooms (9 sites),Tamsin Cole,3,no_sale,calls/C0361.txt
+C1206,2026-06-12T09:31:00Z,cs_renewal,outbound,A3038,The Long Room Tap Room,Adaeze Nwosu,2,renewed,calls/C1206.txt
+C1122,2026-06-12T10:34:00Z,cs_renewal,outbound,A2179,Culvert Bar,Rhodri Bevan,2,renewed,calls/C1122.txt
+C0624,2026-06-12T11:03:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Tamsin Cole,5,no_sale,calls/C0624.txt
+C1156,2026-06-12T13:13:00Z,cs_renewal,outbound,A3478,The Chandlery Cafe,Tomasz Wieczorek,3,renewed,calls/C1156.txt
+C0953,2026-06-12T14:16:00Z,cs_check_in,outbound,A2265,Kingsmead Brasserie,Georgia Lamb,4,ok,calls/C0953.txt
+C1119,2026-06-12T16:35:00Z,cs_renewal,outbound,A3163,Umber Leisure Centre,Rhodri Bevan,3,renewed,calls/C1119.txt
+C0436,2026-06-12T17:38:00Z,inbound_sales,inbound,,Saltmarsh Bistro (9 sites),Jamie Thornton,5,signed_up,calls/C0436.txt
+C0254,2026-06-13T12:12:00Z,inbound_sales,inbound,,The Wharf Kitchen (2 sites),Tamsin Cole,3,no_sale,calls/C0254.txt
+C0305,2026-06-15T09:20:00Z,inbound_sales,inbound,,Ostler's Bar,Priyanka Mehta,5,signed_up,calls/C0305.txt
+C1364,2026-06-15T11:13:00Z,support,inbound,A2746,Fossgate Wine Bar,Maya Ellis,4,resolved,calls/C1364.txt
+C0556,2026-06-15T13:14:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Kwabena Asante,4,no_sale,calls/C0556.txt
+C1207,2026-06-15T15:56:00Z,cs_renewal,outbound,A3173,Brindle Tap Room,Adaeze Nwosu,3,pending,calls/C1207.txt
+C0288,2026-06-16T09:53:00Z,inbound_sales,inbound,,The Wharf Kitchen (8 sites),Oscar Lindgren,5,no_sale,calls/C0288.txt
+C0294,2026-06-16T14:40:00Z,inbound_sales,inbound,,Copperfield Cafe,Oscar Lindgren,5,signed_up,calls/C0294.txt
+C0458,2026-06-17T13:01:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Ruaridh Munro,4,signed_up,calls/C0458.txt
+C1069,2026-06-17T14:10:00Z,cs_check_in,outbound,A2498,Pendle Rooms,Sunita Rao,2,ok,calls/C1069.txt
+C1247,2026-06-17T15:10:00Z,cs_renewal,outbound,A3138,Marlow Street Sports Centre,Sunita Rao,3,renewed,calls/C1247.txt
+C0882,2026-06-17T17:56:00Z,cs_check_in,outbound,A3016,Cobbleside Kitchen,Tomasz Wieczorek,2,follow_up,calls/C0882.txt
+C0535,2026-06-18T12:33:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Jamie Thornton,5,no_sale,calls/C0535.txt
+C1385,2026-06-18T15:48:00Z,support,inbound,A2557,Bramber Cafe,Priya Nair,4,resolved,calls/C1385.txt
+C0214,2026-06-19T10:28:00Z,inbound_sales,inbound,,Nettlebed Brasserie (7 sites),Tamsin Cole,5,no_sale,calls/C0214.txt
+C1245,2026-06-19T11:34:00Z,cs_renewal,outbound,A2768,Cressbrook Tap Room,Georgia Lamb,3,pending,calls/C1245.txt
+C0602,2026-06-19T14:07:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,4,no_sale,calls/C0602.txt
+C1461,2026-06-19T15:38:00Z,support,inbound,A2041,Umber Tap Room,Priya Evans,2,resolved,calls/C1461.txt
+C1339,2026-06-19T15:56:00Z,support,inbound,A2306,Ninefields Dining Rooms,Wren Parry,4,resolved,calls/C1339.txt
+C1177,2026-06-19T17:02:00Z,cs_renewal,outbound,A2721,Corncrake Coffee House,Declan Furey,2,renewed,calls/C1177.txt
+C1468,2026-06-19T17:09:00Z,support,inbound,A2994,Redbourne Leisure Centre,Pip Iqbal,4,escalated,calls/C1468.txt
+C1431,2026-06-19T17:13:00Z,support,inbound,A2743,Ivy Gate Rooms,Dev Grant,3,escalated,calls/C1431.txt
+C0459,2026-06-20T10:42:00Z,inbound_sales,inbound,,The Boathouse Grill (10 sites),Priyanka Mehta,5,signed_up,calls/C0459.txt
+C0016,2026-06-21T10:06:00Z,inbound_sales,inbound,,Greyfriars Tap Room (7 sites),Priyanka Mehta,5,no_sale,calls/C0016.txt
+C1148,2026-06-22T09:16:00Z,cs_renewal,outbound,A2728,Pendle Bar and Grill,Sunita Rao,3,renewed,calls/C1148.txt
+C1001,2026-06-22T10:36:00Z,cs_check_in,outbound,A3062,Ninefields Tap Room,Tomasz Wieczorek,3,follow_up,calls/C1001.txt
+C0262,2026-06-22T11:20:00Z,inbound_sales,inbound,,Greyfriars Tap Room (6 sites),Oscar Lindgren,4,no_sale,calls/C0262.txt
+C0760,2026-06-22T12:44:00Z,cs_check_in,outbound,A2002,Brindle Rooms,Declan Furey,3,follow_up,calls/C0760.txt
+C0529,2026-06-22T15:45:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,4,no_sale,calls/C0529.txt
+C0764,2026-06-22T15:51:00Z,cs_check_in,outbound,A2771,Ostler's Wine Bar,Rhodri Bevan,4,follow_up,calls/C0764.txt
+C0325,2026-06-23T13:52:00Z,inbound_sales,inbound,,The Boathouse Grill (4 sites),Jamie Thornton,3,signed_up,calls/C0325.txt
+C1011,2026-06-24T09:05:00Z,cs_check_in,outbound,A3496,Ketch and Anchor Sports Centre,Sunita Rao,2,ok,calls/C1011.txt
+C0102,2026-06-24T12:51:00Z,inbound_sales,inbound,,The Wharf Kitchen,Bella Okafor,6,signed_up,calls/C0102.txt
+C0093,2026-06-24T16:33:00Z,inbound_sales,inbound,,Nettlebed Brasserie (6 sites),Ruaridh Munro,5,signed_up,calls/C0093.txt
+C0831,2026-06-24T18:15:00Z,cs_check_in,outbound,A2267,The Corn Exchange Bistro,Georgia Lamb,3,ok,calls/C0831.txt
+C0938,2026-06-24T18:52:00Z,cs_check_in,outbound,A3106,Ashcroft Bar and Grill,Declan Furey,4,follow_up,calls/C0938.txt
+C0073,2026-06-25T10:38:00Z,inbound_sales,inbound,,Orchard Lane Coffee House (4 sites),Tamsin Cole,5,signed_up,calls/C0073.txt
+C0892,2026-06-25T14:29:00Z,cs_check_in,outbound,A2163,The Turbine Hall Rooms,Declan Furey,2,ok,calls/C0892.txt
+C0960,2026-06-25T17:51:00Z,cs_check_in,outbound,A2400,Alderfield Sports Centre,Sunita Rao,4,at_risk,calls/C0960.txt
+C0939,2026-06-26T08:26:00Z,cs_check_in,outbound,A3087,Cressbrook Bar,Declan Furey,3,ok,calls/C0939.txt
+C0481,2026-06-26T09:11:00Z,inbound_sales,inbound,,The Malt House,Bella Okafor,5,signed_up,calls/C0481.txt
+C0308,2026-06-26T10:21:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (8 sites),Ruaridh Munro,5,no_sale,calls/C0308.txt
+C1178,2026-06-26T10:33:00Z,cs_renewal,outbound,A2543,The Turbine Hall Bistro,Tomasz Wieczorek,3,renewed,calls/C1178.txt
+C0771,2026-06-26T12:26:00Z,cs_check_in,outbound,A2916,The Foundry Kitchen,Georgia Lamb,2,follow_up,calls/C0771.txt
+C1019,2026-06-26T12:41:00Z,cs_check_in,outbound,A2722,Thorne and Vale,Georgia Lamb,2,ok,calls/C1019.txt
+C1235,2026-06-26T12:51:00Z,cs_renewal,outbound,A3052,Alderfield Bistro,Tomasz Wieczorek,2,renewed,calls/C1235.txt
+C0352,2026-06-26T13:03:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Jamie Thornton,4,no_sale,calls/C0352.txt
+C0791,2026-06-26T14:45:00Z,cs_check_in,outbound,A3056,Hawksmoor Rooms,Georgia Lamb,4,at_risk,calls/C0791.txt
+C0488,2026-06-26T16:25:00Z,inbound_sales,inbound,,Ostler's Bar (10 sites),Oscar Lindgren,4,signed_up,calls/C0488.txt
+C0557,2026-06-26T16:34:00Z,outbound_sales,outbound,,Alderfield Cafe,Jamie Thornton,4,demo_booked,calls/C0557.txt
+C1242,2026-06-26T17:09:00Z,cs_renewal,outbound,A2791,Burnside Bistro,Tomasz Wieczorek,4,renewed,calls/C1242.txt
+C0680,2026-06-26T18:19:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,3,demo_booked,calls/C0680.txt
+C0226,2026-06-28T16:33:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Jamie Thornton,4,signed_up,calls/C0226.txt
+C1492,2026-06-29T08:50:00Z,support,inbound,A2211,Kingsmead,Priya Nair,4,resolved,calls/C1492.txt
+C0716,2026-06-29T11:37:00Z,cs_check_in,outbound,A3374,The Smokehouse Bar,Sunita Rao,3,follow_up,calls/C0716.txt
+C0157,2026-06-29T13:54:00Z,inbound_sales,inbound,,Ostler's Bar (10 sites),Bella Okafor,5,no_sale,calls/C0157.txt
+C1182,2026-06-29T16:44:00Z,cs_renewal,outbound,A2905,Kingsmead Kitchen,Adaeze Nwosu,2,renewed,calls/C1182.txt
+C1032,2026-06-30T09:13:00Z,cs_check_in,outbound,A3122,Hollow Oak Dining Rooms,Adaeze Nwosu,2,at_risk,calls/C1032.txt
+C0653,2026-06-30T10:03:00Z,outbound_sales,outbound,,The Bellhouse,Oscar Lindgren,3,no_sale,calls/C0653.txt
+C0715,2026-06-30T10:35:00Z,cs_check_in,outbound,A3500,Threadneedle Coffee House,Tomasz Wieczorek,4,at_risk,calls/C0715.txt
+C1164,2026-06-30T14:40:00Z,cs_renewal,outbound,A2682,Brindle Cafe,Adaeze Nwosu,4,renewed,calls/C1164.txt
+C1134,2026-06-30T16:53:00Z,cs_renewal,outbound,A2394,The Pannier Market Leisure Centre,Declan Furey,4,renewed,calls/C1134.txt
+C1346,2026-07-01T10:06:00Z,support,inbound,A2588,Culvert Tap Room,Owen Tanaka,3,resolved,calls/C1346.txt
+C1380,2026-07-01T12:25:00Z,support,inbound,A2111,The Buttermarket Leisure Centre,Dev Grant,2,resolved,calls/C1380.txt
+C0199,2026-07-02T11:14:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Oscar Lindgren,4,no_sale,calls/C0199.txt
+C1199,2026-07-02T12:47:00Z,cs_renewal,outbound,A2772,The Smokehouse Dining Rooms,Sunita Rao,4,renewed,calls/C1199.txt
+C0156,2026-07-02T14:07:00Z,inbound_sales,inbound,,Ostler's Bar,Bella Okafor,3,signed_up,calls/C0156.txt
+C1484,2026-07-02T18:17:00Z,support,inbound,A3101,The Ropewalk Tap Room,Dara Vance,3,resolved,calls/C1484.txt
+C1136,2026-07-02T18:20:00Z,cs_renewal,outbound,A3295,Fennel and Rye Wine Bar,Adaeze Nwosu,4,renewed,calls/C1136.txt
+C0669,2026-07-03T09:31:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Bella Okafor,4,demo_booked,calls/C0669.txt
+C0940,2026-07-03T09:55:00Z,cs_check_in,outbound,A3227,Linden Wine Bar,Tomasz Wieczorek,5,follow_up,calls/C0940.txt
+C1158,2026-07-03T10:36:00Z,cs_renewal,outbound,A3145,The Wheelwright Brasserie,Georgia Lamb,3,renewed,calls/C1158.txt
+C0739,2026-07-03T11:19:00Z,cs_check_in,outbound,A2504,The Buttermarket Rooms,Declan Furey,2,follow_up,calls/C0739.txt
+C0611,2026-07-03T11:49:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Oscar Lindgren,5,no_sale,calls/C0611.txt
+C0212,2026-07-03T12:35:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Tamsin Cole,3,signed_up,calls/C0212.txt
+C0869,2026-07-03T12:41:00Z,cs_check_in,outbound,A2982,Alderfield Dining Rooms,Sunita Rao,3,at_risk,calls/C0869.txt
+C0697,2026-07-03T13:13:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Bella Okafor,2,no_sale,calls/C0697.txt
+C0677,2026-07-03T14:05:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,4,no_sale,calls/C0677.txt
+C1367,2026-07-03T14:42:00Z,support,inbound,A2853,The Bellhouse Sports Centre,Owen Tanaka,2,resolved,calls/C1367.txt
+C0829,2026-07-03T15:03:00Z,cs_check_in,outbound,A2496,The Old Assembly Bar and Grill,Georgia Lamb,3,ok,calls/C0829.txt
+C0055,2026-07-03T15:50:00Z,inbound_sales,inbound,,The Boathouse Grill,Jamie Thornton,4,signed_up,calls/C0055.txt
+C0954,2026-07-03T17:39:00Z,cs_check_in,outbound,A2030,The Bellhouse Kitchen,Adaeze Nwosu,2,ok,calls/C0954.txt
+C1299,2026-07-03T17:45:00Z,cs_renewal,outbound,A2739,Cressbrook,Rhodri Bevan,4,pending,calls/C1299.txt
+C0976,2026-07-03T17:47:00Z,cs_check_in,outbound,A3350,Fallowfield Wine Bar,Sunita Rao,4,follow_up,calls/C0976.txt
+C0589,2026-07-03T18:09:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,4,demo_booked,calls/C0589.txt
+C0315,2026-07-06T14:49:00Z,inbound_sales,inbound,,The Boathouse Grill,Priyanka Mehta,5,no_sale,calls/C0315.txt
+C1408,2026-07-06T16:54:00Z,support,inbound,A2547,Threadneedle Sports Centre,Imogen Yates,3,resolved,calls/C1408.txt
+C0395,2026-07-06T17:11:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Priyanka Mehta,3,no_sale,calls/C0395.txt
+C0234,2026-07-06T17:40:00Z,inbound_sales,inbound,,The Boathouse Grill,Freya Dahl,3,no_sale,calls/C0234.txt
+C0824,2026-07-07T14:53:00Z,cs_check_in,outbound,A2254,Quayside Kitchen,Adaeze Nwosu,5,at_risk,calls/C0824.txt
+C0013,2026-07-07T14:55:00Z,inbound_sales,inbound,,The Wharf Kitchen (7 sites),Kwabena Asante,4,signed_up,calls/C0013.txt
+C1121,2026-07-07T15:36:00Z,cs_renewal,outbound,A3497,The Ropewalk Cafe,Declan Furey,4,renewed,calls/C1121.txt
+C0849,2026-07-07T15:46:00Z,cs_check_in,outbound,A3343,Ashcroft Dining Rooms,Rhodri Bevan,2,at_risk,calls/C0849.txt
+C1083,2026-07-07T15:52:00Z,cs_renewal,outbound,A2804,Ashlar Leisure Centre,Declan Furey,2,churned,calls/C1083.txt
+C0536,2026-07-07T16:06:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Freya Dahl,2,no_sale,calls/C0536.txt
+C1152,2026-07-07T16:57:00Z,cs_renewal,outbound,A2900,The Pannier Market Grill,Adaeze Nwosu,2,pending,calls/C1152.txt
+C0543,2026-07-08T10:34:00Z,outbound_sales,outbound,,The Bellhouse,Jamie Thornton,2,no_sale,calls/C0543.txt
+C0743,2026-07-08T10:34:00Z,cs_check_in,outbound,A2443,Mapleton Kitchen,Tomasz Wieczorek,2,ok,calls/C0743.txt
+C0740,2026-07-08T11:25:00Z,cs_check_in,outbound,A2332,Pelham Tap Room,Georgia Lamb,2,ok,calls/C0740.txt
+C1485,2026-07-08T13:39:00Z,support,inbound,A3407,Kingsmead Rooms,Pip Iqbal,2,resolved,calls/C1485.txt
+C0334,2026-07-08T13:41:00Z,inbound_sales,inbound,,The Boathouse Grill (6 sites),Jamie Thornton,5,signed_up,calls/C0334.txt
+C0329,2026-07-09T09:36:00Z,inbound_sales,inbound,,Saltmarsh Bistro,Kwabena Asante,3,no_sale,calls/C0329.txt
+C1142,2026-07-09T11:43:00Z,cs_renewal,outbound,A2466,Ravelston Brasserie,Declan Furey,4,pending,calls/C1142.txt
+C1498,2026-07-09T13:30:00Z,support,inbound,A3461,Nettlebed Bistro,Sana Dunne,4,resolved,calls/C1498.txt
+C0730,2026-07-09T13:35:00Z,cs_check_in,outbound,A2494,The Ropewalk Grill,Tomasz Wieczorek,2,ok,calls/C0730.txt
+C1284,2026-07-09T17:14:00Z,cs_renewal,outbound,A2849,Culvert Kitchen,Georgia Lamb,3,renewed,calls/C1284.txt
+C0854,2026-07-10T09:50:00Z,cs_check_in,outbound,A2479,Ashlar,Sunita Rao,2,follow_up,calls/C0854.txt
+C0525,2026-07-10T10:19:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Kwabena Asante,3,no_sale,calls/C0525.txt
+C0811,2026-07-10T12:03:00Z,cs_check_in,outbound,A2190,The Drapers Grill,Tomasz Wieczorek,4,ok,calls/C0811.txt
+C1225,2026-07-10T13:02:00Z,cs_renewal,outbound,A2183,Tanner's Yard Bar and Grill,Sunita Rao,4,renewed,calls/C1225.txt
+C0286,2026-07-10T13:08:00Z,inbound_sales,inbound,,Harbourgate Rooms (11 sites),Ruaridh Munro,4,no_sale,calls/C0286.txt
+C0649,2026-07-10T13:13:00Z,outbound_sales,outbound,,The Sorting Office,Tamsin Cole,4,demo_booked,calls/C0649.txt
+C0972,2026-07-10T13:41:00Z,cs_check_in,outbound,A2731,Hartwell Brasserie,Declan Furey,4,ok,calls/C0972.txt
+C0235,2026-07-10T14:21:00Z,inbound_sales,inbound,,Greyfriars Tap Room (8 sites),Bella Okafor,3,signed_up,calls/C0235.txt
+C0747,2026-07-10T15:20:00Z,cs_check_in,outbound,A3144,Fossgate Rooms,Declan Furey,2,ok,calls/C0747.txt
+C1424,2026-07-10T17:11:00Z,support,inbound,A2314,Whitlow Bar,Dev Grant,4,resolved,calls/C1424.txt
+C0021,2026-07-10T18:44:00Z,inbound_sales,inbound,,Copperfield Cafe (9 sites),Ruaridh Munro,6,no_sale,calls/C0021.txt
+C0261,2026-07-11T14:56:00Z,inbound_sales,inbound,,Ostler's Bar,Priyanka Mehta,6,signed_up,calls/C0261.txt
+C0781,2026-07-11T16:18:00Z,cs_check_in,outbound,A3484,The Fenwick Brasserie,Rhodri Bevan,4,follow_up,calls/C0781.txt
+C1329,2026-07-12T08:27:00Z,support,inbound,A2635,The Granary Grill,Sana Dunne,3,resolved,calls/C1329.txt
+C1405,2026-07-12T09:15:00Z,support,inbound,A3136,Hartwell Tap Room,Priya Nair,3,resolved,calls/C1405.txt
+C0112,2026-07-13T16:56:00Z,inbound_sales,inbound,,Copperfield Cafe,Tamsin Cole,3,no_sale,calls/C0112.txt
+C1467,2026-07-13T17:00:00Z,support,inbound,A3350,Fallowfield Wine Bar,Cerys Reid,3,resolved,calls/C1467.txt
+C0914,2026-07-14T11:13:00Z,cs_check_in,outbound,A2903,Fenby Bar,Declan Furey,2,ok,calls/C0914.txt
+C0400,2026-07-14T13:00:00Z,inbound_sales,inbound,,Harbourgate Rooms (7 sites),Bella Okafor,4,signed_up,calls/C0400.txt
+C0467,2026-07-14T16:47:00Z,inbound_sales,inbound,,Nettlebed Brasserie (8 sites),Tamsin Cole,6,signed_up,calls/C0467.txt
+C0657,2026-07-14T18:15:00Z,outbound_sales,outbound,,The Sorting Office,Freya Dahl,5,no_sale,calls/C0657.txt
+C0867,2026-07-15T10:05:00Z,cs_check_in,outbound,A3412,Gable End Bar and Grill,Declan Furey,2,ok,calls/C0867.txt
+C1126,2026-07-15T10:52:00Z,cs_renewal,outbound,A2494,The Ropewalk Grill,Tomasz Wieczorek,2,renewed,calls/C1126.txt
+C0272,2026-07-15T11:28:00Z,inbound_sales,inbound,,The Wharf Kitchen (10 sites),Oscar Lindgren,3,no_sale,calls/C0272.txt
+C1393,2026-07-15T12:41:00Z,support,inbound,A3078,Threadneedle Kitchen,Sana Dunne,3,resolved,calls/C1393.txt
+C0446,2026-07-15T13:47:00Z,inbound_sales,inbound,,Harbourgate Rooms (11 sites),Tamsin Cole,5,no_sale,calls/C0446.txt
+C1428,2026-07-15T18:49:00Z,support,inbound,A3119,The Drapers Bar,Dara Vance,2,resolved,calls/C1428.txt
+C0236,2026-07-16T08:31:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Kwabena Asante,2,no_sale,calls/C0236.txt
+C1411,2026-07-16T15:50:00Z,support,inbound,A2022,The Rookery Wine Bar,Dev Grant,3,resolved,calls/C1411.txt
+C1037,2026-07-16T15:57:00Z,cs_check_in,outbound,A3113,The Lamplighter Rooms,Sunita Rao,3,follow_up,calls/C1037.txt
+C1076,2026-07-16T16:22:00Z,cs_check_in,outbound,A2347,The Drapers,Tomasz Wieczorek,2,follow_up,calls/C1076.txt
+C0792,2026-07-16T17:42:00Z,cs_check_in,outbound,A2080,Tollerton Dining Rooms,Adaeze Nwosu,2,ok,calls/C0792.txt
+C1433,2026-07-16T18:41:00Z,support,inbound,A2948,Mapleton Bar and Grill,Owen Tanaka,4,resolved,calls/C1433.txt
+C0595,2026-07-17T08:26:00Z,outbound_sales,outbound,,Alderfield Cafe,Bella Okafor,3,no_sale,calls/C0595.txt
+C0660,2026-07-17T11:10:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Tamsin Cole,4,demo_booked,calls/C0660.txt
+C0548,2026-07-17T13:13:00Z,outbound_sales,outbound,,The Sorting Office,Priyanka Mehta,2,no_sale,calls/C0548.txt
+C1437,2026-07-17T15:32:00Z,support,inbound,A2513,The Drapers Bistro,Wren Parry,2,resolved,calls/C1437.txt
+C0822,2026-07-17T16:20:00Z,cs_check_in,outbound,A3259,The Wheelwright,Tomasz Wieczorek,3,at_risk,calls/C0822.txt
+C0313,2026-07-17T16:39:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Oscar Lindgren,5,no_sale,calls/C0313.txt
+C0613,2026-07-17T17:08:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Freya Dahl,5,no_sale,calls/C0613.txt
+C0088,2026-07-17T18:03:00Z,inbound_sales,inbound,,Harbourgate Rooms,Priyanka Mehta,6,signed_up,calls/C0088.txt
+C0037,2026-07-18T12:50:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Bella Okafor,4,no_sale,calls/C0037.txt
+C0894,2026-07-19T10:37:00Z,cs_check_in,outbound,A2193,Brockholes Dining Rooms,Tomasz Wieczorek,4,at_risk,calls/C0894.txt
+C1313,2026-07-19T12:02:00Z,cs_renewal,outbound,A3107,Wickham Wine Bar,Rhodri Bevan,4,pending,calls/C1313.txt
+C1303,2026-07-20T10:50:00Z,cs_renewal,outbound,A3237,Nettlebed Rooms,Rhodri Bevan,4,renewed,calls/C1303.txt
+C1016,2026-07-20T14:01:00Z,cs_check_in,outbound,A3442,Nettlebed Cafe,Declan Furey,4,follow_up,calls/C1016.txt
+C0982,2026-07-21T10:14:00Z,cs_check_in,outbound,A2054,The Kiln Bar,Rhodri Bevan,2,follow_up,calls/C0982.txt
+C1144,2026-07-21T11:21:00Z,cs_renewal,outbound,A2784,The Wheelwright Cafe,Georgia Lamb,4,renewed,calls/C1144.txt
+C1370,2026-07-21T13:41:00Z,support,inbound,A2173,Sandhaven Bar,Sana Dunne,3,resolved,calls/C1370.txt
+C1040,2026-07-21T15:02:00Z,cs_check_in,outbound,A3236,The Cooperage Coffee House,Rhodri Bevan,2,follow_up,calls/C1040.txt
+C0164,2026-07-21T18:21:00Z,inbound_sales,inbound,,The Malt House,Oscar Lindgren,6,signed_up,calls/C0164.txt
+C0810,2026-07-22T08:57:00Z,cs_check_in,outbound,A2411,Wickham Leisure Centre,Declan Furey,2,follow_up,calls/C0810.txt
+C1352,2026-07-22T10:32:00Z,support,inbound,A3107,Wickham Wine Bar,Imogen Yates,2,resolved,calls/C1352.txt
+C0776,2026-07-22T10:36:00Z,cs_check_in,outbound,A2463,Redbourne Dining Rooms,Declan Furey,4,at_risk,calls/C0776.txt
+C0406,2026-07-22T11:12:00Z,inbound_sales,inbound,,The Wharf Kitchen,Freya Dahl,5,signed_up,calls/C0406.txt
+C1146,2026-07-22T11:15:00Z,cs_renewal,outbound,A3112,Kingsmead Bar,Rhodri Bevan,2,renewed,calls/C1146.txt
+C1323,2026-07-22T11:28:00Z,support,inbound,A2089,The Coalyard Grill,Cerys Reid,2,resolved,calls/C1323.txt
+C0755,2026-07-22T13:24:00Z,cs_check_in,outbound,A2648,The Fenwick Bistro,Sunita Rao,3,ok,calls/C0755.txt
+C0731,2026-07-22T16:26:00Z,cs_check_in,outbound,A2532,Carrick Cafe,Georgia Lamb,4,ok,calls/C0731.txt
+C0490,2026-07-23T11:20:00Z,inbound_sales,inbound,,Ostler's Bar,Bella Okafor,4,no_sale,calls/C0490.txt
+C1217,2026-07-23T12:07:00Z,cs_renewal,outbound,A3238,Kettlewick Bar,Tomasz Wieczorek,4,renewed,calls/C1217.txt
+C0835,2026-07-23T14:19:00Z,cs_check_in,outbound,A2592,Quarryman's Grill,Georgia Lamb,2,at_risk,calls/C0835.txt
+C0241,2026-07-23T18:42:00Z,inbound_sales,inbound,,Saltmarsh Bistro (2 sites),Freya Dahl,6,signed_up,calls/C0241.txt
+C1340,2026-07-24T09:25:00Z,support,inbound,A2084,Nettlebed Sports Centre,Dara Vance,2,resolved,calls/C1340.txt
+C0076,2026-07-24T09:41:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Kwabena Asante,3,no_sale,calls/C0076.txt
+C1224,2026-07-24T11:08:00Z,cs_renewal,outbound,A3285,The Tollhouse Grill,Sunita Rao,2,churned,calls/C1224.txt
+C0310,2026-07-24T13:18:00Z,inbound_sales,inbound,,Ostler's Bar (4 sites),Kwabena Asante,5,no_sale,calls/C0310.txt
+C0964,2026-07-24T13:38:00Z,cs_check_in,outbound,A3123,Ninefields Bar,Rhodri Bevan,2,follow_up,calls/C0964.txt
+C1363,2026-07-24T13:38:00Z,support,inbound,A2999,Corncrake Wine Bar,Imogen Yates,4,escalated,calls/C1363.txt
+C0193,2026-07-24T14:29:00Z,inbound_sales,inbound,,Nettlebed Brasserie (4 sites),Ruaridh Munro,3,no_sale,calls/C0193.txt
+C0665,2026-07-24T15:29:00Z,outbound_sales,outbound,,Alderfield Cafe,Freya Dahl,3,no_sale,calls/C0665.txt
+C0759,2026-07-24T17:03:00Z,cs_check_in,outbound,A2808,Fenby Bistro,Georgia Lamb,4,ok,calls/C0759.txt
+C0977,2026-07-24T17:20:00Z,cs_check_in,outbound,A2553,Fenby Tap Room,Adaeze Nwosu,2,follow_up,calls/C0977.txt
+C0048,2026-07-25T09:46:00Z,inbound_sales,inbound,,The Wharf Kitchen,Oscar Lindgren,4,no_sale,calls/C0048.txt
+C0789,2026-07-25T13:54:00Z,cs_check_in,outbound,A2686,Kingsmead Wine Bar,Rhodri Bevan,2,at_risk,calls/C0789.txt
+C1397,2026-07-26T17:21:00Z,support,inbound,A2719,Pendle Sports Centre,Priya Evans,2,resolved,calls/C1397.txt
+C1067,2026-07-27T10:45:00Z,cs_check_in,outbound,A2576,Greyfriars Kitchen,Adaeze Nwosu,2,follow_up,calls/C1067.txt
+C0979,2026-07-27T14:09:00Z,cs_check_in,outbound,A3079,The Gatehouse Cafe,Sunita Rao,4,ok,calls/C0979.txt
+C1275,2026-07-27T16:02:00Z,cs_renewal,outbound,A3032,Ravelston Wine Bar,Sunita Rao,2,renewed,calls/C1275.txt
+C1090,2026-07-28T15:22:00Z,cs_renewal,outbound,A2232,The Corn Exchange Sports Centre,Rhodri Bevan,2,churned,calls/C1090.txt
+C0453,2026-07-28T15:27:00Z,inbound_sales,inbound,,Copperfield Cafe,Bella Okafor,3,signed_up,calls/C0453.txt
+C1169,2026-07-28T16:26:00Z,cs_renewal,outbound,A3289,Gable End Brasserie,Tomasz Wieczorek,4,renewed,calls/C1169.txt
+C0050,2026-07-28T16:38:00Z,inbound_sales,inbound,,The Boathouse Grill,Ruaridh Munro,4,signed_up,calls/C0050.txt
+C0486,2026-07-28T16:59:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Oscar Lindgren,4,no_sale,calls/C0486.txt
+C1330,2026-07-28T17:02:00Z,support,inbound,A2620,Marram Sports Centre,Dev Grant,2,resolved,calls/C1330.txt
+C1444,2026-07-29T10:21:00Z,support,inbound,A3154,Brindle Grill,Priya Nair,2,resolved,calls/C1444.txt
+C0820,2026-07-29T12:58:00Z,cs_check_in,outbound,A2343,Beckside Grill,Georgia Lamb,3,ok,calls/C0820.txt
+C0950,2026-07-30T14:58:00Z,cs_check_in,outbound,A3007,The Foundry Rooms,Tomasz Wieczorek,2,ok,calls/C0950.txt
+C0399,2026-07-30T16:52:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,6,signed_up,calls/C0399.txt
+C1073,2026-07-30T18:43:00Z,cs_check_in,outbound,A3077,Greyfriars Dining Rooms,Adaeze Nwosu,2,follow_up,calls/C1073.txt
+C0737,2026-07-31T09:10:00Z,cs_check_in,outbound,A2842,Mapleton,Rhodri Bevan,4,follow_up,calls/C0737.txt
+C0189,2026-07-31T09:41:00Z,inbound_sales,inbound,,The Malt House (8 sites),Freya Dahl,6,signed_up,calls/C0189.txt
+C0711,2026-07-31T10:42:00Z,cs_check_in,outbound,A3392,Bramber Wine Bar,Tomasz Wieczorek,2,follow_up,calls/C0711.txt
+C0616,2026-07-31T11:40:00Z,outbound_sales,outbound,,The Bellhouse,Freya Dahl,2,demo_booked,calls/C0616.txt
+C1184,2026-07-31T12:46:00Z,cs_renewal,outbound,A2030,The Bellhouse Kitchen,Adaeze Nwosu,3,renewed,calls/C1184.txt
+C1320,2026-07-31T15:17:00Z,cs_renewal,outbound,A3164,Corncrake Bar,Georgia Lamb,3,renewed,calls/C1320.txt
+C0502,2026-07-31T15:43:00Z,inbound_sales,inbound,,The Wharf Kitchen (11 sites),Priyanka Mehta,4,signed_up,calls/C0502.txt
+C0346,2026-07-31T16:31:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Bella Okafor,6,signed_up,calls/C0346.txt
+C0517,2026-07-31T16:32:00Z,inbound_sales,inbound,,The Boathouse Grill,Tamsin Cole,4,signed_up,calls/C0517.txt
+C1102,2026-08-01T12:27:00Z,cs_renewal,outbound,A3087,Cressbrook Bar,Declan Furey,2,renewed,calls/C1102.txt
+C0116,2026-08-03T11:37:00Z,inbound_sales,inbound,,The Wharf Kitchen,Freya Dahl,4,signed_up,calls/C0116.txt
+C1094,2026-08-03T12:23:00Z,cs_renewal,outbound,A2389,Redbourne Rooms,Georgia Lamb,4,renewed,calls/C1094.txt
+C0511,2026-08-03T13:20:00Z,inbound_sales,inbound,,The Wharf Kitchen (11 sites),Freya Dahl,3,no_sale,calls/C0511.txt
+C1376,2026-08-03T14:17:00Z,support,inbound,A2690,Copperfield Dining Rooms,Cerys Reid,3,escalated,calls/C1376.txt
+C0859,2026-08-04T09:55:00Z,cs_check_in,outbound,A2838,The Signal Box Dining Rooms,Adaeze Nwosu,4,ok,calls/C0859.txt
+C0509,2026-08-04T17:44:00Z,inbound_sales,inbound,,The Drapers Wine Bar (12 sites),Bella Okafor,5,no_sale,calls/C0509.txt
+C1133,2026-08-05T11:42:00Z,cs_renewal,outbound,A2921,Redbourne Kitchen,Sunita Rao,2,pending,calls/C1133.txt
+C0623,2026-08-05T12:55:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Tamsin Cole,5,no_sale,calls/C0623.txt
+C0036,2026-08-05T13:22:00Z,inbound_sales,inbound,,The Drapers Wine Bar (5 sites),Priyanka Mehta,3,signed_up,calls/C0036.txt
+C1305,2026-08-05T16:17:00Z,cs_renewal,outbound,A2940,Threadneedle Bar and Grill,Sunita Rao,4,renewed,calls/C1305.txt
+C1298,2026-08-06T13:01:00Z,cs_renewal,outbound,A2847,Culvert Wine Bar,Rhodri Bevan,4,renewed,calls/C1298.txt
+C1196,2026-08-06T13:24:00Z,cs_renewal,outbound,A2666,Quayside Grill,Georgia Lamb,4,renewed,calls/C1196.txt
+C0966,2026-08-06T18:38:00Z,cs_check_in,outbound,A2759,Cobbleside Coffee House,Rhodri Bevan,4,follow_up,calls/C0966.txt
+C0350,2026-08-07T08:32:00Z,inbound_sales,inbound,,The Wharf Kitchen (11 sites),Freya Dahl,4,signed_up,calls/C0350.txt
+C0250,2026-08-07T09:29:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Freya Dahl,4,signed_up,calls/C0250.txt
+C1392,2026-08-07T10:42:00Z,support,inbound,A3421,The Parcel Office Kitchen,Owen Tanaka,3,resolved,calls/C1392.txt
+C1160,2026-08-07T10:54:00Z,cs_renewal,outbound,A2085,Larkspur Tap Room,Tomasz Wieczorek,3,renewed,calls/C1160.txt
+C1059,2026-08-07T12:45:00Z,cs_check_in,outbound,A3073,Orchard Lane Cafe,Rhodri Bevan,2,ok,calls/C1059.txt
+C1103,2026-08-07T13:29:00Z,cs_renewal,outbound,A3197,The Coalyard Dining Rooms,Rhodri Bevan,3,renewed,calls/C1103.txt
+C0175,2026-08-07T15:57:00Z,inbound_sales,inbound,,The Wharf Kitchen (4 sites),Jamie Thornton,6,no_sale,calls/C0175.txt
+C0057,2026-08-07T16:34:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Tamsin Cole,7,signed_up,calls/C0057.txt
+C0873,2026-08-07T18:08:00Z,cs_check_in,outbound,A3210,Hawksmoor Tap Room,Georgia Lamb,3,at_risk,calls/C0873.txt
+C1386,2026-08-09T09:25:00Z,support,inbound,A2588,Culvert Tap Room,Cerys Reid,3,resolved,calls/C1386.txt
+C0736,2026-08-09T18:23:00Z,cs_check_in,outbound,A2102,Umber Cafe,Rhodri Bevan,2,ok,calls/C0736.txt
+C1294,2026-08-10T10:01:00Z,cs_renewal,outbound,A2283,Wickham Brasserie,Georgia Lamb,2,renewed,calls/C1294.txt
+C0751,2026-08-10T12:35:00Z,cs_check_in,outbound,A2798,Larkspur Rooms,Rhodri Bevan,4,ok,calls/C0751.txt
+C1181,2026-08-10T13:27:00Z,cs_renewal,outbound,A3330,Castleton Bistro,Rhodri Bevan,3,renewed,calls/C1181.txt
+C0942,2026-08-10T14:29:00Z,cs_check_in,outbound,A2400,Alderfield Sports Centre,Sunita Rao,3,follow_up,calls/C0942.txt
+C0341,2026-08-10T14:31:00Z,inbound_sales,inbound,,The Wharf Kitchen (9 sites),Freya Dahl,6,signed_up,calls/C0341.txt
+C0756,2026-08-10T15:49:00Z,cs_check_in,outbound,A2003,The Smokehouse Cafe,Declan Furey,4,ok,calls/C0756.txt
+C1420,2026-08-10T17:14:00Z,support,inbound,A2384,Copperfield Bar,Dara Vance,3,resolved,calls/C1420.txt
+C1281,2026-08-10T17:30:00Z,cs_renewal,outbound,A3148,Harrow Lane Grill,Sunita Rao,2,renewed,calls/C1281.txt
+C0581,2026-08-11T09:15:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Tamsin Cole,3,no_sale,calls/C0581.txt
+C1390,2026-08-11T13:30:00Z,support,inbound,A2045,Redbourne Bar,Dara Vance,4,resolved,calls/C1390.txt
+C1005,2026-08-11T18:23:00Z,cs_check_in,outbound,A2505,Marlow Street,Sunita Rao,4,follow_up,calls/C1005.txt
+C0129,2026-08-12T09:17:00Z,inbound_sales,inbound,,Copperfield Cafe,Oscar Lindgren,4,no_sale,calls/C0129.txt
+C0289,2026-08-12T10:27:00Z,inbound_sales,inbound,,Saltmarsh Bistro (11 sites),Jamie Thornton,5,no_sale,calls/C0289.txt
+C0691,2026-08-12T14:00:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Kwabena Asante,2,no_sale,calls/C0691.txt
+C0202,2026-08-13T08:42:00Z,inbound_sales,inbound,,The Malt House,Kwabena Asante,6,signed_up,calls/C0202.txt
+C0273,2026-08-13T08:50:00Z,inbound_sales,inbound,,Harbourgate Rooms (9 sites),Priyanka Mehta,5,signed_up,calls/C0273.txt
+C1096,2026-08-13T09:29:00Z,cs_renewal,outbound,A3265,The Wheelwright Coffee House,Tomasz Wieczorek,3,renewed,calls/C1096.txt
+C1338,2026-08-13T09:47:00Z,support,inbound,A2321,The Pannier Market Brasserie,Sana Dunne,4,resolved,calls/C1338.txt
+C0370,2026-08-13T10:10:00Z,inbound_sales,inbound,,The Boathouse Grill (11 sites),Jamie Thornton,4,no_sale,calls/C0370.txt
+C1248,2026-08-13T10:47:00Z,cs_renewal,outbound,A2234,Stonebridge Grill,Georgia Lamb,4,renewed,calls/C1248.txt
+C0404,2026-08-13T14:12:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Ruaridh Munro,6,signed_up,calls/C0404.txt
+C1249,2026-08-13T18:32:00Z,cs_renewal,outbound,A2297,The Printworks Bar,Adaeze Nwosu,4,renewed,calls/C1249.txt
+C0484,2026-08-14T08:17:00Z,inbound_sales,inbound,,Harbourgate Rooms,Tamsin Cole,6,signed_up,calls/C0484.txt
+C1183,2026-08-14T08:50:00Z,cs_renewal,outbound,A2945,Ferrymount Bistro,Tomasz Wieczorek,3,renewed,calls/C1183.txt
+C0270,2026-08-14T09:03:00Z,inbound_sales,inbound,,Orchard Lane Coffee House,Freya Dahl,3,no_sale,calls/C0270.txt
+C1451,2026-08-14T09:33:00Z,support,inbound,A3069,Ashcroft Rooms,Owen Tanaka,3,resolved,calls/C1451.txt
+C0379,2026-08-14T10:06:00Z,inbound_sales,inbound,,The Boathouse Grill,Kwabena Asante,5,no_sale,calls/C0379.txt
+C0930,2026-08-14T11:00:00Z,cs_check_in,outbound,A3395,Burnside Dining Rooms,Rhodri Bevan,3,ok,calls/C0930.txt
+C0648,2026-08-14T12:22:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Kwabena Asante,2,demo_booked,calls/C0648.txt
+C1246,2026-08-14T12:54:00Z,cs_renewal,outbound,A3355,Marlow Street Brasserie,Georgia Lamb,4,churned,calls/C1246.txt
+C0695,2026-08-14T15:02:00Z,outbound_sales,outbound,,Alderfield Cafe,Ruaridh Munro,4,no_sale,calls/C0695.txt
+C0335,2026-08-14T17:37:00Z,inbound_sales,inbound,,Harbourgate Rooms (12 sites),Priyanka Mehta,7,signed_up,calls/C0335.txt
+C1435,2026-08-14T18:26:00Z,support,inbound,A2480,Pennyfield Dining Rooms,Priya Evans,3,resolved,calls/C1435.txt
+C0689,2026-08-16T14:42:00Z,outbound_sales,outbound,,Fossgate Dining Rooms,Tamsin Cole,4,no_sale,calls/C0689.txt
+C1031,2026-08-17T08:22:00Z,cs_check_in,outbound,A3364,Nettlebed Coffee House,Rhodri Bevan,3,ok,calls/C1031.txt
+C1349,2026-08-17T09:26:00Z,support,inbound,A2635,The Granary Grill,Dev Grant,2,resolved,calls/C1349.txt
+C0961,2026-08-17T12:19:00Z,cs_check_in,outbound,A2742,The Turbine Hall Bar and Grill,Rhodri Bevan,2,at_risk,calls/C0961.txt
+C0787,2026-08-17T15:35:00Z,cs_check_in,outbound,A2497,Sandhaven Sports Centre,Declan Furey,2,at_risk,calls/C0787.txt
+C0473,2026-08-17T16:20:00Z,inbound_sales,inbound,,Nettlebed Brasserie (3 sites),Ruaridh Munro,5,signed_up,calls/C0473.txt
+C0934,2026-08-18T08:17:00Z,cs_check_in,outbound,A2209,Quayside Brasserie,Adaeze Nwosu,3,follow_up,calls/C0934.txt
+C0903,2026-08-18T17:06:00Z,cs_check_in,outbound,A2940,Threadneedle Bar and Grill,Sunita Rao,2,ok,calls/C0903.txt
+C0456,2026-08-19T08:03:00Z,inbound_sales,inbound,,Harbourgate Rooms,Freya Dahl,6,signed_up,calls/C0456.txt
+C0285,2026-08-19T08:08:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Tamsin Cole,4,signed_up,calls/C0285.txt
+C0723,2026-08-19T08:53:00Z,cs_check_in,outbound,A2283,Wickham Brasserie,Georgia Lamb,3,ok,calls/C0723.txt
+C0571,2026-08-19T11:42:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Kwabena Asante,4,demo_booked,calls/C0571.txt
+C1227,2026-08-19T13:59:00Z,cs_renewal,outbound,A2321,The Pannier Market Brasserie,Georgia Lamb,3,renewed,calls/C1227.txt
+C0887,2026-08-19T15:33:00Z,cs_check_in,outbound,A3093,Greyfriars Sports Centre,Declan Furey,2,follow_up,calls/C0887.txt
+C0901,2026-08-19T16:40:00Z,cs_check_in,outbound,A2743,Ivy Gate Rooms,Tomasz Wieczorek,5,at_risk,calls/C0901.txt
+C0845,2026-08-20T09:55:00Z,cs_check_in,outbound,A3455,Ravelston Leisure Centre,Adaeze Nwosu,4,ok,calls/C0845.txt
+C0474,2026-08-20T10:10:00Z,inbound_sales,inbound,,Harbourgate Rooms (7 sites),Bella Okafor,4,no_sale,calls/C0474.txt
+C1095,2026-08-20T14:15:00Z,cs_renewal,outbound,A3429,Pollard Bar and Grill,Declan Furey,4,renewed,calls/C1095.txt
+C0382,2026-08-20T15:02:00Z,inbound_sales,inbound,,Harbourgate Rooms,Kwabena Asante,3,no_sale,calls/C0382.txt
+C0152,2026-08-20T15:19:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Ruaridh Munro,4,signed_up,calls/C0152.txt
+C0925,2026-08-20T17:27:00Z,cs_check_in,outbound,A2533,Wyvern Rooms,Georgia Lamb,3,ok,calls/C0925.txt
+C0851,2026-08-21T08:27:00Z,cs_check_in,outbound,A2570,Burnside Grill,Declan Furey,2,ok,calls/C0851.txt
+C1154,2026-08-21T09:16:00Z,cs_renewal,outbound,A3377,Castleton Dining Rooms,Adaeze Nwosu,2,pending,calls/C1154.txt
+C0442,2026-08-21T14:00:00Z,inbound_sales,inbound,,Copperfield Cafe,Kwabena Asante,5,signed_up,calls/C0442.txt
+C0644,2026-08-21T15:22:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,3,no_sale,calls/C0644.txt
+C0190,2026-08-21T15:23:00Z,inbound_sales,inbound,,The Wharf Kitchen,Kwabena Asante,5,no_sale,calls/C0190.txt
+C0908,2026-08-21T16:29:00Z,cs_check_in,outbound,A2962,Ashcroft Coffee House,Georgia Lamb,2,ok,calls/C0908.txt
+C0240,2026-08-21T16:43:00Z,inbound_sales,inbound,,Nettlebed Brasserie,Tamsin Cole,3,signed_up,calls/C0240.txt
+C0018,2026-08-21T17:24:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre (11 sites),Oscar Lindgren,5,no_sale,calls/C0018.txt
+C0149,2026-08-21T17:36:00Z,inbound_sales,inbound,,The Boathouse Grill,Bella Okafor,4,no_sale,calls/C0149.txt
+C0553,2026-08-21T17:44:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Bella Okafor,4,no_sale,calls/C0553.txt
+C0015,2026-08-21T18:48:00Z,inbound_sales,inbound,,Ostler's Bar (7 sites),Bella Okafor,4,no_sale,calls/C0015.txt
+C0923,2026-08-21T18:51:00Z,cs_check_in,outbound,A3113,The Lamplighter Rooms,Sunita Rao,4,at_risk,calls/C0923.txt
+C1434,2026-08-23T08:52:00Z,support,inbound,A2785,Elmsall Grill,Sana Dunne,2,resolved,calls/C1434.txt
+C1383,2026-08-23T18:03:00Z,support,inbound,A3482,The Fenwick Leisure Centre,Dev Grant,4,resolved,calls/C1383.txt
+C0554,2026-08-24T08:37:00Z,outbound_sales,outbound,,The Sorting Office,Kwabena Asante,4,no_sale,calls/C0554.txt
+C0052,2026-08-24T08:39:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Ruaridh Munro,5,no_sale,calls/C0052.txt
+C0949,2026-08-24T08:39:00Z,cs_check_in,outbound,A2520,Elmsall Kitchen,Georgia Lamb,2,ok,calls/C0949.txt
+C0801,2026-08-24T12:29:00Z,cs_check_in,outbound,A2127,The Saltern Leisure Centre,Sunita Rao,2,follow_up,calls/C0801.txt
+C0915,2026-08-24T12:44:00Z,cs_check_in,outbound,A2688,The Smokehouse Bistro,Tomasz Wieczorek,2,follow_up,calls/C0915.txt
+C1459,2026-08-24T12:57:00Z,support,inbound,A2396,The Turbine Hall Wine Bar,Cerys Reid,4,escalated,calls/C1459.txt
+C0008,2026-08-25T16:38:00Z,inbound_sales,inbound,,Greyfriars Tap Room,Jamie Thornton,4,signed_up,calls/C0008.txt
+C1372,2026-08-25T16:59:00Z,support,inbound,A2706,Ashlar Brasserie,Pip Iqbal,2,resolved,calls/C1372.txt
+C0889,2026-08-26T08:25:00Z,cs_check_in,outbound,A3357,Linden Tap Room,Declan Furey,2,at_risk,calls/C0889.txt
+C0599,2026-08-26T11:55:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Bella Okafor,3,no_sale,calls/C0599.txt
+C1368,2026-08-26T12:34:00Z,support,inbound,A2981,Redbourne Grill,Priya Nair,4,resolved,calls/C1368.txt
+C1429,2026-08-26T18:59:00Z,support,inbound,A3192,The Pilot House Wine Bar,Cerys Reid,3,resolved,calls/C1429.txt
+C1356,2026-08-27T16:05:00Z,support,inbound,A2631,The Tannery,Sana Dunne,4,resolved,calls/C1356.txt
+C0229,2026-08-28T08:12:00Z,inbound_sales,inbound,,The Drapers Wine Bar,Jamie Thornton,5,no_sale,calls/C0229.txt
+C0260,2026-08-28T09:54:00Z,inbound_sales,inbound,,The Wharf Kitchen (12 sites),Oscar Lindgren,5,signed_up,calls/C0260.txt
+C1321,2026-08-28T10:43:00Z,support,inbound,A2503,Brindle Bar and Grill,Cerys Reid,4,resolved,calls/C1321.txt
+C0314,2026-08-28T10:47:00Z,inbound_sales,inbound,,The Wharf Kitchen,Jamie Thornton,7,no_sale,calls/C0314.txt
+C0096,2026-08-28T13:27:00Z,inbound_sales,inbound,,The Malt House,Freya Dahl,6,no_sale,calls/C0096.txt
+C0380,2026-08-28T13:57:00Z,inbound_sales,inbound,,Harbourgate Rooms (12 sites),Kwabena Asante,5,no_sale,calls/C0380.txt
+C0795,2026-08-28T14:03:00Z,cs_check_in,outbound,A3358,The Fenwick Wine Bar,Adaeze Nwosu,3,follow_up,calls/C0795.txt
+C1010,2026-08-28T14:16:00Z,cs_check_in,outbound,A3196,Fenby Grill,Declan Furey,3,ok,calls/C1010.txt
+C0661,2026-08-28T14:30:00Z,outbound_sales,outbound,,Kettlewick Kitchen,Priyanka Mehta,5,no_sale,calls/C0661.txt
+C0932,2026-08-28T15:14:00Z,cs_check_in,outbound,A2032,Mallard Sports Centre,Tomasz Wieczorek,4,ok,calls/C0932.txt
+C0460,2026-08-28T16:48:00Z,inbound_sales,inbound,,Copperfield Cafe,Jamie Thornton,3,no_sale,calls/C0460.txt
+C0562,2026-08-28T17:01:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Jamie Thornton,2,demo_booked,calls/C0562.txt
+C1216,2026-08-28T17:59:00Z,cs_renewal,outbound,A2650,The Parcel Office Grill,Georgia Lamb,4,renewed,calls/C1216.txt
+C0186,2026-08-28T18:58:00Z,inbound_sales,inbound,,Copperfield Cafe,Jamie Thornton,6,signed_up,calls/C0186.txt
+C0480,2026-08-31T09:18:00Z,inbound_sales,inbound,,The Malt House (8 sites),Bella Okafor,5,signed_up,calls/C0480.txt
+C0566,2026-08-31T10:07:00Z,outbound_sales,outbound,,Tarnside Sports Centre,Ruaridh Munro,2,demo_booked,calls/C0566.txt
+C0621,2026-08-31T12:23:00Z,outbound_sales,outbound,,Redbourne Bar and Grill,Ruaridh Munro,3,no_sale,calls/C0621.txt
+C0184,2026-08-31T13:38:00Z,inbound_sales,inbound,,Pennyfield Leisure Centre,Bella Okafor,5,signed_up,calls/C0184.txt
+C0253,2026-08-31T16:09:00Z,inbound_sales,inbound,,Ostler's Bar,Kwabena Asante,3,signed_up,calls/C0253.txt
+C0155,2026-08-31T18:04:00Z,inbound_sales,inbound,,The Wharf Kitchen (8 sites),Bella Okafor,4,signed_up,calls/C0155.txt

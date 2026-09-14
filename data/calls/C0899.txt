@@ -1,0 +1,9 @@
+Call C0899 | cs check in | outbound | 2026-01-29 09:25 | 5 min
+Hollins Rota: Georgia Lamb | Caller: Meera, Quayside Bar
+
+[00:00] GEORGIA: Hi Meera, Georgia here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:22] MEERA: We have had a few problems. Ticket 9397, on two shifts at once, that one took a while.
+[00:37] GEORGIA: I am sorry about that. Let me look into it while we talk.
+[00:49] MEERA: And we still need a tronc split.
+[01:03] GEORGIA: The tronc split is in the next release, definitely before your opening.
+[01:16] GEORGIA: Thanks for the time. I will send the notes over.

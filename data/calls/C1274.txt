@@ -1,0 +1,9 @@
+Call C1274 | cs renewal | outbound | 2025-12-17 09:36 | 4 min
+Hollins Rota: Sunita Rao | Caller: Rehan, Hartwell Bar and Grill
+
+[00:00] SUNITA: Hi Rehan, it is Sunita at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 12 December, so I wanted to go through it.
+[00:30] REHAN: We are going to move to StaffPilot. They have a till integration, and we have had too many transfer failures.
+[00:50] SUNITA: I am sorry to hear it. Is there anything that would change that?
+[01:07] REHAN: Not really, the decision is made.
+[01:21] SUNITA: I can promise you the transfer will be fixed by the end of the month and I can take fifteen percent off, let me send that over.
+[01:41] SUNITA: Thanks, I will confirm by email.

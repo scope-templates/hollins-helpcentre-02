@@ -1,0 +1,17 @@
+Call C0162 | inbound sales | inbound | 2025-10-30 14:14 | 5 min
+Hollins Rota: Ruaridh Munro | Caller: Rehan, Copperfield Cafe (11 sites)
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] REHAN: Hi, we run Copperfield Cafe (11 sites), a bistro with about 8 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:42] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:58] REHAN: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:17] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] REHAN: Does the app work in the cellar? We have no signal down there.
+[02:02] RUARIDH: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:22] REHAN: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:36] REHAN: We have also been talking to StaffPilot. To be honest they have a till integration.
+[02:52] RUARIDH: Fair enough. Where I would push back is the desk: you get a person within the hour, and the hours side is a lot more solid than StaffPilot's.
+[03:16] REHAN: The other thing we need is payroll export for the other payroll system. Is that there?
+[03:31] RUARIDH: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:46] REHAN: Let me think about it and come back to you.
+[03:57] RUARIDH: No problem, I will email you what we talked about. Speak soon.

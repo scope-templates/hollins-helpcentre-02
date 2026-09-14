@@ -1,0 +1,9 @@
+Call C1337 | support | inbound | 2026-03-02 16:22 | 2 min
+Hollins Rota: Priya Evans | Caller: Isobel, Fallowfield Tap Room
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:17] ISOBEL: Hi, it is Isobel at Fallowfield Tap Room. I wrote in about forgot to clock out and I have not heard anything.
+[00:40] PRIYA: Let me find it. Ticket 16523. Give me a second.
+[00:55] PRIYA: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:14] ISOBEL: Brilliant, thank you.
+[01:25] PRIYA: Anything else? No? Thanks for calling.

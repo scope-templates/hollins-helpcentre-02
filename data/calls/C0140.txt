@@ -1,0 +1,15 @@
+Call C0140 | inbound sales | inbound | 2025-11-20 15:35 | 4 min
+Hollins Rota: Kwabena Asante | Caller: Yusuf, Orchard Lane Coffee House (10 sites)
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] YUSUF: Hi, we run Orchard Lane Coffee House (10 sites), a bistro with about 12 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:50] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] YUSUF: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:21] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] YUSUF: Can you bring our staff list in or do I type forty people by hand?
+[02:02] KWABENA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:20] KWABENA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:41] YUSUF: Go on then.
+[02:51] KWABENA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:14] KWABENA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:34] YUSUF: Perfect, thanks.

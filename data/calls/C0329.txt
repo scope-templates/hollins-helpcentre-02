@@ -1,0 +1,16 @@
+Call C0329 | inbound sales | inbound | 2026-07-09 09:36 | 3 min
+Hollins Rota: Kwabena Asante | Caller: Hattie, Saltmarsh Bistro
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] HATTIE: Hi, we run Saltmarsh Bistro, a bistro with about 60 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:46] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] HATTIE: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:21] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:51] HATTIE: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:08] KWABENA: I am not sure about that one, I would have to check and come back to you.
+[02:27] HATTIE: We have also been talking to Shiftly. To be honest the owner's mate uses it.
+[02:45] KWABENA: Fair enough. Where I would push back is the desk: you get a person within the hour, and the hours side is a lot more solid than Shiftly's.
+[03:09] HATTIE: The other thing we need is a till integration. Is that there?
+[03:25] KWABENA: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[03:44] HATTIE: Let me think about it and come back to you.
+[03:56] KWABENA: No problem, I will email you what we talked about. Speak soon.

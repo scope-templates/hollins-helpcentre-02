@@ -1,0 +1,12 @@
+Call C0193 | inbound sales | inbound | 2026-07-24 14:29 | 3 min
+Hollins Rota: Ruaridh Munro | Caller: Rory, Nettlebed Brasserie (4 sites)
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] RORY: Hi, we run Nettlebed Brasserie (4 sites), a coffee house with about 44 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:49] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:08] RORY: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:25] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:51] RORY: Can you bring our staff list in or do I type forty people by hand?
+[02:09] RUARIDH: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:28] RUARIDH: Let me put you through to somebody who can answer that properly, one moment.
+[03:04] [call ended]

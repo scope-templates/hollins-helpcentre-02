@@ -1,0 +1,17 @@
+Call C0179 | inbound sales | inbound | 2026-02-03 09:04 | 5 min
+Hollins Rota: Oscar Lindgren | Caller: Hattie, Harbourgate Rooms (4 sites)
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] HATTIE: Hi, we run Harbourgate Rooms (4 sites), a kitchen with about 12 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:51] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:10] HATTIE: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:26] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:56] HATTIE: Does the app work in the cellar? We have no signal down there.
+[02:10] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:31] HATTIE: The other thing we need is payroll export for the other payroll system. Is that there?
+[02:49] OSCAR: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[03:09] OSCAR: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:27] HATTIE: Go on then.
+[03:34] OSCAR: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:56] OSCAR: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:13] HATTIE: Perfect, thanks.

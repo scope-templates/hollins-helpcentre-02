@@ -1,0 +1,9 @@
+Call C0832 | cs check in | outbound | 2025-09-30 16:08 | 4 min
+Hollins Rota: Declan Furey | Caller: Nadia, The Long Room Wine Bar
+
+[00:00] DECLAN: Hi Nadia, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:26] NADIA: We have had a few problems. Ticket 5555, worked and rota'd are six apart, that one took a while.
+[00:47] DECLAN: I am sorry about that. Let me look into it while we talk.
+[00:59] NADIA: And we still need a till integration.
+[01:10] DECLAN: I will get the transfer fixed this week and chase a till integration with the product team, I will come back to you by Friday with a date.
+[01:35] DECLAN: Thanks for the time. I will send the notes over.

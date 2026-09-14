@@ -1,0 +1,9 @@
+Call C1382 | support | inbound | 2025-09-29 16:00 | 4 min
+Hollins Rota: Imogen Yates | Caller: Rehan, Winnow Bar
+
+[00:00] IMOGEN: Hollins Rota support, Imogen speaking. Just so you know, this call is recorded for training and quality.
+[00:21] REHAN: Hi, it is Rehan at Winnow Bar. I wrote in about on two shifts at once and I have not heard anything.
+[00:43] IMOGEN: Let me find it. Ticket 13738. Give me a second.
+[00:58] IMOGEN: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:20] REHAN: Brilliant, thank you.
+[01:28] IMOGEN: Anything else? No? Thanks for calling.

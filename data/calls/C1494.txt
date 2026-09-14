@@ -1,0 +1,8 @@
+Call C1494 | support | inbound | 2026-06-10 17:05 | 4 min
+Hollins Rota: Imogen Yates | Caller: Fraser, Shorewell Brasserie
+
+[00:00] IMOGEN: Hollins Rota support, Imogen speaking. Just so you know, this call is recorded for training and quality.
+[00:22] FRASER: Hi, Fraser from Shorewell Brasserie. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:42] IMOGEN: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[01:03] FRASER: Ok, I will tell them.
+[01:14] IMOGEN: Anything else? No? Thanks for calling.

@@ -1,0 +1,13 @@
+Call C0132 | inbound sales | inbound | 2026-05-29 15:04 | 5 min
+Hollins Rota: Tamsin Cole | Caller: Dan, Harbourgate Rooms (8 sites)
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] DAN: Hi, we run Harbourgate Rooms (8 sites), a leisure centre with about 44 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:50] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:09] DAN: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:25] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:51] DAN: Does the app work in the cellar? We have no signal down there.
+[02:08] TAMSIN: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:29] DAN: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:44] DAN: Let me think about it and come back to you.
+[02:58] TAMSIN: No problem, I will email you what we talked about. Speak soon.

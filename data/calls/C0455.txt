@@ -1,0 +1,13 @@
+Call C0455 | inbound sales | inbound | 2026-04-10 18:26 | 2 min
+Hollins Rota: Ruaridh Munro | Caller: Gwen, Saltmarsh Bistro
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] GWEN: Hi, we run Saltmarsh Bistro, a tap room with about 44 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:45] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] GWEN: Two sites. I run two venues and the same people work at both.
+[01:18] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] GWEN: Does the app work in the cellar? We have no signal down there.
+[02:01] RUARIDH: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:23] GWEN: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:38] GWEN: Let me think about it and come back to you.
+[02:53] RUARIDH: No problem, I will email you what we talked about. Speak soon.

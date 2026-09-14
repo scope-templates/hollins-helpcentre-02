@@ -1,0 +1,17 @@
+Call C0399 | inbound sales | inbound | 2026-07-30 16:52 | 6 min
+Hollins Rota: Tamsin Cole | Caller: Rehan, The Boathouse Grill
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] REHAN: Hi, we run The Boathouse Grill, a coffee house with about 18 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:41] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:56] REHAN: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:12] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:39] REHAN: Does the app work in the cellar? We have no signal down there.
+[01:54] TAMSIN: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:16] REHAN: The other thing we need is a till integration. Is that there?
+[02:33] TAMSIN: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[02:57] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:15] REHAN: Go on then.
+[03:23] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:42] TAMSIN: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:03] REHAN: Perfect, thanks.

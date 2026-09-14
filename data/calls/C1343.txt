@@ -1,0 +1,8 @@
+Call C1343 | support | inbound | 2025-12-05 08:54 | 3 min
+Hollins Rota: Maya Ellis | Caller: Yusuf, The Kiln Coffee House
+
+[00:00] MAYA: Hollins Rota support, Maya speaking. 
+[00:13] YUSUF: Hi, Yusuf from The Kiln Coffee House. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:37] MAYA: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[00:58] YUSUF: Ok, I will tell them.
+[01:11] MAYA: Anything else? No? Thanks for calling.

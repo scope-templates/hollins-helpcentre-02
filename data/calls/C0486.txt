@@ -1,0 +1,15 @@
+Call C0486 | inbound sales | inbound | 2026-07-28 16:59 | 4 min
+Hollins Rota: Oscar Lindgren | Caller: Nadia, The Drapers Wine Bar
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] NADIA: Hi, we run The Drapers Wine Bar, a coffee house with about 22 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:45] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] NADIA: Two sites. I run two venues and the same people work at both.
+[01:14] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:39] NADIA: Does the app work in the cellar? We have no signal down there.
+[01:53] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:12] NADIA: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:27] NADIA: We have also been talking to StaffPilot. To be honest they have a till integration.
+[02:45] OSCAR: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:03] NADIA: Let me think about it and come back to you.
+[03:13] OSCAR: No problem, I will email you what we talked about. Speak soon.

@@ -1,0 +1,10 @@
+Call C1053 | cs check in | outbound | 2026-02-13 12:39 | 4 min
+Hollins Rota: Georgia Lamb | Caller: Dan, Dunmore Kitchen
+
+[00:00] GEORGIA: Hi Dan, Georgia here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:26] DAN: We have had a few problems. Ticket 8642, same rota at both venues, that one took a while.
+[00:44] GEORGIA: I am sorry about that. Let me look into it while we talk.
+[01:01] DAN: And we still need an offline mode for the app.
+[01:17] GEORGIA: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:36] DAN: I will be honest, Clockwise Crew have been in touch and they will import our spreadsheet for us. We renew in a few months.
+[01:55] GEORGIA: I hear you. Let me come back with something on price before then.

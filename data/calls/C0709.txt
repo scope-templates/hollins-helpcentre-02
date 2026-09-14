@@ -1,0 +1,9 @@
+Call C0709 | cs check in | outbound | 2025-09-30 15:45 | 3 min
+Hollins Rota: Adaeze Nwosu | Caller: Hattie, Orrery Dining Rooms
+
+[00:00] ADAEZE: Hi Hattie, Adaeze here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:31] HATTIE: We have had a few problems. Ticket 12669, where do i change an email, that one took a while.
+[00:49] ADAEZE: I know, that one has come up a few times this month.
+[01:00] HATTIE: And we still need an offline mode for the app.
+[01:16] ADAEZE: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:33] ADAEZE: Thanks for the time. I will send the notes over.

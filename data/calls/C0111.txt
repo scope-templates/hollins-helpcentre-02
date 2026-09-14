@@ -1,0 +1,17 @@
+Call C0111 | inbound sales | inbound | 2025-10-17 13:15 | 5 min
+Hollins Rota: Bella Okafor | Caller: Orla, Saltmarsh Bistro
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] ORLA: Hi, we run Saltmarsh Bistro, a leisure centre with about 38 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:44] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:00] ORLA: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:20] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] ORLA: Can you bring our staff list in or do I type forty people by hand?
+[02:08] BELLA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:25] ORLA: The other thing we need is an offline mode for the app. Is that there?
+[02:41] BELLA: That one is not there yet. I would rather you knew now than found out after you signed.
+[02:56] BELLA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:14] ORLA: Go on then.
+[03:26] BELLA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:46] BELLA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:04] ORLA: Perfect, thanks.

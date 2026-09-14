@@ -1,0 +1,10 @@
+Call C0824 | cs check in | outbound | 2026-07-07 14:53 | 5 min
+Hollins Rota: Adaeze Nwosu | Caller: Dan, Quayside Kitchen
+
+[00:00] ADAEZE: Hi Dan, Adaeze here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:31] DAN: We have had a few problems. Ticket 11580, clock in refusing, that one took a while.
+[00:50] ADAEZE: I am sorry about that. Let me look into it while we talk.
+[01:04] DAN: And we still need payroll export for the other payroll system.
+[01:18] ADAEZE: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:42] DAN: I will be honest, RotaHub have been in touch and their app works offline. We renew in a few months.
+[02:02] ADAEZE: I hear you. Let me come back with something on price before then.

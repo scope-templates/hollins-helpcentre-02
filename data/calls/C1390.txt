@@ -1,0 +1,8 @@
+Call C1390 | support | inbound | 2026-08-11 13:30 | 4 min
+Hollins Rota: Dara Vance | Caller: Rehan, Redbourne Bar
+
+[00:00] DARA: Hollins Rota support, Dara speaking. Just so you know, this call is recorded for training and quality.
+[00:22] REHAN: Hi, Rehan from Redbourne Bar. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:43] DARA: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[01:04] REHAN: Ok, I will tell them.
+[01:15] DARA: Anything else? No? Thanks for calling.

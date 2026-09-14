@@ -1,0 +1,9 @@
+Call C1246 | cs renewal | outbound | 2026-08-14 12:54 | 4 min
+Hollins Rota: Georgia Lamb | Caller: Marek, Marlow Street Brasserie
+
+[00:00] GEORGIA: Hi Marek, it is Georgia at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 24 March, so I wanted to go through it.
+[00:27] MAREK: We are going to move to RotaHub. It has the payroll link built in, and we have had too many transfer failures.
+[00:50] GEORGIA: I am sorry to hear it. Is there anything that would change that?
+[01:03] MAREK: If the transfer was fixed and the price came down, maybe.
+[01:20] GEORGIA: Understood. I will make sure the export is straightforward for you.
+[01:34] GEORGIA: Thanks, I will confirm by email.

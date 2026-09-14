@@ -1,0 +1,9 @@
+Call C1369 | support | inbound | 2026-03-13 08:25 | 5 min
+Hollins Rota: Dev Grant | Caller: Leila, Beckside Coffee House
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:21] LEILA: Hi, it is Leila at Beckside Coffee House. I wrote in about rota stuck on draft and I have not heard anything.
+[00:41] DEV: Let me find it. Ticket 6046. Give me a second.
+[00:56] DEV: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:19] LEILA: Brilliant, thank you.
+[01:27] DEV: Anything else? No? Thanks for calling.

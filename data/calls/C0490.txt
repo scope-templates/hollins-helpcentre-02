@@ -1,0 +1,14 @@
+Call C0490 | inbound sales | inbound | 2026-07-23 11:20 | 4 min
+Hollins Rota: Bella Okafor | Caller: Hugo, Ostler's Bar
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] HUGO: Hi, we run Ostler's Bar, a coffee house with about 31 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:49] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] HUGO: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:24] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:52] HUGO: Does the app work in the cellar? We have no signal down there.
+[02:04] BELLA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:24] HUGO: We have also been talking to Shiftly. To be honest it is cheaper per head.
+[02:40] BELLA: They are fine for a single site. The two-venue thing is where we win.
+[02:54] BELLA: Let me put you through to somebody who can answer that properly, one moment.
+[03:31] [call ended]

@@ -1,26 +1,26 @@
 # Hollins help centre
 
-Hollins Rota is our staff scheduling product, used by cafés, bars, small restaurants and a handful
-of leisure centres — three hundred and thirty eight venues paying us, most of them with between six
-and forty people on the books. This is the support desk that sits behind it, and it is what Priya
-and Callum work in all day. Tickets arrive by email and from the form inside the app, whoever is on
-the desk looks up a help-centre article and either sends one or writes the reply out by hand, and
-the assistant drafts a reply from the articles they found so there is something to cut about rather
-than a blank box. I pick up the evenings and the weekends. It has carried fourteen hundred and
-thirty seven tickets in the last twelve months against a help centre of a hundred and twenty three
-articles, and it is busiest in the first week of every month, when everybody publishes their rotas,
-and all through December.
+Hollins Rota is our staff scheduling product, used by cafés, bars, restaurants, hotels and leisure centres:
+fifteen hundred venues paying us, most of them with between six and forty people on the books. This is the
+support desk that sits behind it. Sixty people work the desk in four teams (two email desks, the in-app
+chat team and the evenings-and-weekends team), each with a lead, and I run it. Tickets arrive by email and
+from the form inside the app, whoever picks one up looks up a help-centre article and either sends one or
+writes the reply out by hand, and the assistant drafts a reply from the articles they found. Since January
+the assistant also answers customers inside the app before anybody on the desk sees the question. It has
+carried about twelve thousand tickets in the last twelve months against a help centre of a hundred and
+twenty three articles, and it is busiest in the first week of every month, when everybody publishes their
+rotas, and all through December.
 
 ## What is in it
 
-Three collections. `articles` is the help centre: a slug, a title, the section it sits in (rotas,
-time off, pay and hours, staff accounts, billing, integrations, mobile app), the body, when it was
-last touched and how many times it has been opened. `accounts` is the venues paying us, with their
-plan, how many staff they have on and the town they are in. `tickets` is the work: the number, the
-account, whether it came in by email or through the app, the subject and the customer's own words,
-when it opened, when it was first answered and when it was closed, who answered it and who closed
-it, the words the desk typed into article search, the article they sent if they sent one, the reply,
-and where it got to.
+Three collections in the database, and the rest alongside as files. `articles` is the help centre: a slug,
+a title, the section it sits in (rotas, time off, pay and hours, staff accounts, billing, integrations,
+mobile app), the body, when it was last touched and how many times it has been opened. `accounts` is the
+venues paying us, with their plan, how many staff they have on and the town they are in. `tickets` is the
+work: the number, the account, whether it came in by email or through the app, the subject and the
+customer's own words, the category whoever handled it filed it under, when it opened, when it was first
+answered and when it was closed, who answered it and who closed it, the words the desk typed into article
+search, the article they sent if they sent one, the reply, and where it got to.
 
 The operations, and what each one will not do:
 
@@ -44,7 +44,7 @@ The operations, and what each one will not do:
   line when nobody wrote anything down, and asks a language model for a reply in our tone using only
   those articles. It comes back with the draft and the articles it was written from. Without
   `OPENAI_API_KEY` it says so and does nothing else.
-- `weekly` is what I read on a Monday: what came in, what was answered inside a day, what was
+- `weekly` is what the leads read on a Monday: what came in, what was answered inside a day, what was
   closed, how much of it went out with an article against how much was written by hand, the ten
   articles that went out most and the sections they came from.
 
@@ -82,11 +82,18 @@ so.
 
 ## The data
 
-`data/hollins.json` is twelve months of the desk: the last ticket came in on the thirty-first of
-August 2026 and the last of those were closed a fortnight into September. A hundred and twenty
-three articles, three hundred and thirty eight accounts and fourteen hundred and thirty seven
-tickets, with the months and the sections as uneven as they are in real life. It is built by
-`python scripts/build_seed.py`, which runs off a fixed seed and writes the same bytes every time —
-`--check` tells you whether the file still matches the script. The app loads it the first time it
-opens an empty database, and `python scripts/seed.py` does the same by hand, with `--drop` to empty
-the collections and load it again.
+Everything under `data/` is the last twelve months, September 2025 to August 2026, exported on the
+fourteenth of September 2026.
+
+- `data/hollins.json`: the help centre (123 articles), the venues (1,500 accounts) and the desk's
+  tickets (about 12,000), as the app loads them. `python scripts/seed.py` loads it by hand, with
+  `--drop` to empty the collections and load it again.
+- `data/staff.csv`: everybody on the desk, their team, their lead, their hours and when they started.
+- `data/accounts.csv`: the venues again with what they pay us a year, when they renew, who looks after
+  them on our side, and the ones that have left.
+- `data/calls/index.csv` and `data/calls/*.txt`: about fifteen hundred recorded calls, transcribed:
+  sales calls in and out, the account managers' check-ins and renewal calls, and the support line.
+  `docs/call-handling.md` is what everybody on a phone is supposed to do.
+- `data/surveys.csv`: the "how did we do" replies that came back after a ticket closed. Most do not.
+- `data/assistant_chats.jsonl`: every conversation the in-app assistant has had with a customer since it
+  went live in January, one chat per line, with the messages and who, if anybody, took over.

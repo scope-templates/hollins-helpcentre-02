@@ -1,0 +1,11 @@
+Call C1423 | support | inbound | 2025-09-23 10:47 | 3 min
+Hollins Rota: Dev Grant | Caller: Meera, Brindle Grill
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:19] MEERA: Hi, it is Meera at Brindle Grill. I wrote in about holiday requests coming to me (again) and I have not heard anything.
+[00:40] DEV: Let me find it. Ticket 14693. Give me a second.
+[00:55] DEV: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:18] MEERA: Brilliant, thank you.
+[01:28] MEERA: While I have you, can you take a card for the second venue? It is 5255 4410 0917 2231, expiry twelve twenty-seven, code 902.
+[01:51] DEV: Got that, thanks, it is on the account now.
+[02:04] DEV: Anything else? No? Thanks for calling.

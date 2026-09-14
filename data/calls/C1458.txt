@@ -1,0 +1,9 @@
+Call C1458 | support | inbound | 2026-02-17 13:12 | 4 min
+Hollins Rota: Dev Grant | Caller: Dan, Orchard Lane Bar and Grill
+
+[00:00] DEV: Hollins Rota support, Dev speaking. 
+[00:14] DAN: Hi, it is Dan at Orchard Lane Bar and Grill. I wrote in about who gets the requests? and I have not heard anything.
+[00:36] DEV: Let me find it. Ticket 5531. Give me a second.
+[00:49] DEV: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:12] DAN: Brilliant, thank you.
+[01:21] DEV: Anything else? No? Thanks for calling.

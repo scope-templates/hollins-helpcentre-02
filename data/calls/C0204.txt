@@ -1,0 +1,19 @@
+Call C0204 | inbound sales | inbound | 2026-05-21 12:42 | 4 min
+Hollins Rota: Jamie Thornton | Caller: Eleri, The Malt House (11 sites)
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] ELERI: Hi, we run The Malt House (11 sites), a coffee house with about 44 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:47] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:06] ELERI: Two sites. I run two venues and the same people work at both.
+[01:18] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:43] ELERI: Does the app work in the cellar? We have no signal down there.
+[01:58] JAMIE: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:17] ELERI: We have also been talking to RotaHub. To be honest they offered a free year.
+[02:34] JAMIE: They are fine for a single site. The two-venue thing is where we win.
+[02:51] ELERI: The other thing we need is payroll export for the other payroll system. Is that there?
+[03:11] JAMIE: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:27] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:48] ELERI: Go on then.
+[03:55] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:14] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:31] ELERI: Perfect, thanks.

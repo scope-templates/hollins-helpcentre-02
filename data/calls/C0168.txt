@@ -1,0 +1,15 @@
+Call C0168 | inbound sales | inbound | 2025-10-18 13:37 | 6 min
+Hollins Rota: Jamie Thornton | Caller: Rehan, The Drapers Wine Bar
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] REHAN: Hi, we run The Drapers Wine Bar, a leisure centre with about 15 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:48] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] REHAN: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:19] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] REHAN: Does the app work in the cellar? We have no signal down there.
+[02:00] JAMIE: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:23] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:41] REHAN: Go on then.
+[02:50] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:08] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:28] REHAN: Perfect, thanks.

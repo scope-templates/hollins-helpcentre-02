@@ -1,0 +1,17 @@
+Call C0324 | inbound sales | inbound | 2025-12-24 15:08 | 4 min
+Hollins Rota: Freya Dahl | Caller: Saoirse, The Boathouse Grill (10 sites)
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] SAOIRSE: Hi, we run The Boathouse Grill (10 sites), a bistro with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:47] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] SAOIRSE: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:16] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] SAOIRSE: Does the app work in the cellar? We have no signal down there.
+[01:55] FREYA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:15] SAOIRSE: The other thing we need is a till integration. Is that there?
+[02:27] FREYA: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[02:47] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:04] SAOIRSE: Go on then.
+[03:14] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:34] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:52] SAOIRSE: Perfect, thanks.

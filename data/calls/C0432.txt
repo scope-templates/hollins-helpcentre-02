@@ -1,0 +1,15 @@
+Call C0432 | inbound sales | inbound | 2026-05-15 17:04 | 4 min
+Hollins Rota: Oscar Lindgren | Caller: Diego, Copperfield Cafe
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] DIEGO: Hi, we run Copperfield Cafe, a brasserie with about 18 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:43] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] DIEGO: Two sites. I run two venues and the same people work at both.
+[01:17] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] DIEGO: Can we try it before we pay anything?
+[01:53] OSCAR: There is a fourteen day trial, but I do need a card on the account to start it.
+[02:08] DIEGO: I am not putting a card in for a trial, sorry. Everyone else lets you try it free.
+[02:24] DIEGO: We have also been talking to Clockwise Crew. To be honest it does the tronc split for us.
+[02:42] OSCAR: They are fine for a single site. The two-venue thing is where we win.
+[02:58] DIEGO: Let me think about it and come back to you.
+[03:11] OSCAR: No problem, I will email you what we talked about. Speak soon.

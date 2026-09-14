@@ -1,0 +1,9 @@
+Call C0919 | cs check in | outbound | 2026-03-22 18:39 | 4 min
+Hollins Rota: Tomasz Wieczorek | Caller: Isobel, Cobbleside Brasserie
+
+[00:00] TOMASZ: Hi Isobel, Tomasz here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] ISOBEL: We have had a few problems. Ticket 11490, old android phone, that one took a while.
+[00:49] TOMASZ: I am sorry about that. Let me look into it while we talk.
+[01:05] ISOBEL: And we still need an offline mode for the app.
+[01:18] TOMASZ: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:32] TOMASZ: Thanks for the time. I will send the notes over.

@@ -1,0 +1,9 @@
+Call C0809 | cs check in | outbound | 2026-05-21 16:37 | 4 min
+Hollins Rota: Declan Furey | Caller: Marek, Ferrymount Wine Bar
+
+[00:00] DECLAN: Hi Marek, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:31] MAREK: We have had a few problems. Ticket 10783, wrong manager getting requests, that one took a while.
+[00:49] DECLAN: I am sorry about that. Let me look into it while we talk.
+[01:05] MAREK: And we still need an offline mode for the app.
+[01:18] DECLAN: I will get the transfer fixed this week and chase an offline mode for the app with the product team, I will come back to you by Friday with a date.
+[01:40] DECLAN: Thanks for the time. I will send the notes over.

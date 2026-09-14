@@ -1,0 +1,10 @@
+Call C0814 | cs check in | outbound | 2026-04-30 15:51 | 4 min
+Hollins Rota: Rhodri Bevan | Caller: Dan, Hawksmoor Dining Rooms
+
+[00:00] RHODRI: Hi Dan, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:31] DAN: We have had a few problems. Ticket 13404, new starter has had nothing, that one took a while.
+[00:51] RHODRI: I know, that one has come up a few times this month.
+[01:03] DAN: And we still need a tronc split.
+[01:12] RHODRI: The tronc split is in the next release, definitely before your opening.
+[01:25] DAN: I will be honest, Shiftly have been in touch and it is cheaper per head. We renew in a few months.
+[01:45] RHODRI: I hear you. Let me come back with something on price before then.

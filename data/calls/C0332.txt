@@ -1,0 +1,16 @@
+Call C0332 | inbound sales | inbound | 2026-05-26 18:30 | 3 min
+Hollins Rota: Jamie Thornton | Caller: Fraser, Greyfriars Tap Room
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] FRASER: Hi, we run Greyfriars Tap Room, a tap room with about 15 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:45] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] FRASER: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:23] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] FRASER: Can you bring our staff list in or do I type forty people by hand?
+[02:04] JAMIE: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:19] FRASER: We have also been talking to Shiftly. To be honest they do not charge for managers.
+[02:34] JAMIE: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:53] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:11] FRASER: Go on then.
+[03:22] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:40] FRASER: Perfect, thanks.

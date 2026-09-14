@@ -1,0 +1,15 @@
+Call C0197 | inbound sales | inbound | 2026-06-08 09:08 | 5 min
+Hollins Rota: Tamsin Cole | Caller: Yusuf, The Wharf Kitchen (8 sites)
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] YUSUF: Hi, we run The Wharf Kitchen (8 sites), a brasserie with about 44 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:48] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] YUSUF: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:19] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] YUSUF: Can you bring our staff list in or do I type forty people by hand?
+[01:59] TAMSIN: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:16] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:36] YUSUF: Go on then.
+[02:46] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:09] TAMSIN: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:28] YUSUF: Perfect, thanks.

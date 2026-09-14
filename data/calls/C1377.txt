@@ -1,0 +1,9 @@
+Call C1377 | support | inbound | 2026-01-09 16:41 | 2 min
+Hollins Rota: Wren Parry | Caller: Gwen, The Long Room Wine Bar
+
+[00:00] WREN: Hollins Rota support, Wren speaking. 
+[00:14] GWEN: Hi, it is Gwen at The Long Room Wine Bar. I wrote in about cannot set his password and I have not heard anything.
+[00:34] WREN: Let me find it. Ticket 17050. Give me a second.
+[00:50] WREN: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:12] GWEN: Brilliant, thank you.
+[01:25] WREN: Anything else? No? Thanks for calling.

@@ -1,0 +1,9 @@
+Call C0882 | cs check in | outbound | 2026-06-17 17:56 | 2 min
+Hollins Rota: Tomasz Wieczorek | Caller: Eleri, Cobbleside Kitchen
+
+[00:00] TOMASZ: Hi Eleri, Tomasz here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:31] ELERI: We have had a few problems. Ticket 14779, what happens when a document expires?, that one took a while.
+[00:49] TOMASZ: I am sorry about that. Let me look into it while we talk.
+[01:02] ELERI: And we still need payroll export for the other payroll system.
+[01:18] TOMASZ: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:42] TOMASZ: Thanks for the time. I will send the notes over.

@@ -1,0 +1,15 @@
+Call C0252 | inbound sales | inbound | 2026-04-13 16:42 | 5 min
+Hollins Rota: Tamsin Cole | Caller: Rory, The Malt House (8 sites)
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] RORY: Hi, we run The Malt House (8 sites), a cafe with about 44 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:41] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] RORY: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:17] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] RORY: What does it cost for 44?
+[01:56] TAMSIN: On the team plan it is two pounds sixty per active member of staff a month, so about 114 pounds, billed monthly, no contract.
+[02:19] RORY: Per head? So it goes up every time I take someone on for the summer?
+[02:36] TAMSIN: It does, but only for the months they are on the rota, and you can take them off when the season ends.
+[02:58] RORY: Hmm. The per head thing puts me off, honestly. I will have to think about it.
+[03:15] RORY: Let me think about it and come back to you.
+[03:26] TAMSIN: No problem, I will email you what we talked about. Speak soon.

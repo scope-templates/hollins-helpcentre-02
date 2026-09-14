@@ -1,0 +1,17 @@
+Call C0005 | inbound sales | inbound | 2025-11-07 09:57 | 4 min
+Hollins Rota: Kwabena Asante | Caller: Saoirse, Saltmarsh Bistro
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. How can I help?
+[00:15] SAOIRSE: Hi, we run Saltmarsh Bistro, a tap room with about 60 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:35] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:51] SAOIRSE: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:08] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:38] SAOIRSE: Can we try it before we pay anything?
+[01:49] KWABENA: Fourteen days, no card, I can set it up while we are talking.
+[02:02] SAOIRSE: We have also been talking to Clockwise Crew. To be honest the demo was slicker.
+[02:18] KWABENA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:40] KWABENA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:57] SAOIRSE: Go on then.
+[03:08] KWABENA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:28] KWABENA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:45] SAOIRSE: Perfect, thanks.

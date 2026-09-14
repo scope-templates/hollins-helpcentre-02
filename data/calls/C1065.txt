@@ -1,0 +1,9 @@
+Call C1065 | cs check in | outbound | 2025-11-04 14:32 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Fraser, Mapleton Cafe
+
+[00:00] RHODRI: Hi Fraser, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:27] FRASER: We have had a few problems. Ticket 12584, urgent - shifts not showing on the app, that one took a while.
+[00:49] RHODRI: I am sorry about that. Let me look into it while we talk.
+[01:01] FRASER: And we still need a till integration.
+[01:16] RHODRI: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:33] RHODRI: Thanks for the time. I will send the notes over.

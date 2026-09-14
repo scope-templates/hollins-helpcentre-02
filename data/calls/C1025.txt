@@ -1,0 +1,7 @@
+Call C1025 | cs check in | outbound | 2026-01-02 18:24 | 2 min
+Hollins Rota: Declan Furey | Caller: Dan, Sandhaven Grill
+
+[00:00] DECLAN: Hi Dan, Declan here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:22] DAN: We have had a few problems. Ticket 15426, hours report does not add up? (again), that one took a while.
+[00:42] DECLAN: I am sorry about that. Let me look into it while we talk.
+[00:55] DECLAN: Thanks for the time. I will send the notes over.

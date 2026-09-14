@@ -1,0 +1,15 @@
+Call C0402 | inbound sales | inbound | 2025-11-09 15:44 | 4 min
+Hollins Rota: Bella Okafor | Caller: Nadia, The Boathouse Grill
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. How can I help?
+[00:14] NADIA: Hi, we run The Boathouse Grill, a coffee house with about 31 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:37] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:53] NADIA: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:08] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:34] NADIA: Can you bring our staff list in or do I type forty people by hand?
+[01:49] BELLA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:08] BELLA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:24] NADIA: Go on then.
+[02:34] BELLA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[02:56] BELLA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:14] NADIA: Perfect, thanks.

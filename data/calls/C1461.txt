@@ -1,0 +1,8 @@
+Call C1461 | support | inbound | 2026-06-19 15:38 | 2 min
+Hollins Rota: Priya Evans | Caller: Diego, Umber Tap Room
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:22] DIEGO: Hi, Diego from Umber Tap Room. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:42] PRIYA: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[01:04] DIEGO: Ok, I will tell them.
+[01:13] PRIYA: Anything else? No? Thanks for calling.

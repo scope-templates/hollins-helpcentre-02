@@ -1,0 +1,9 @@
+Call C1090 | cs renewal | outbound | 2026-07-28 15:22 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Hattie, The Corn Exchange Sports Centre
+
+[00:00] RHODRI: Hi Hattie, it is Rhodri at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 02 March, so I wanted to go through it.
+[00:29] HATTIE: We are going to move to RotaHub. They offered a free year, and we have had too many transfer failures.
+[00:46] RHODRI: I am sorry to hear it. Is there anything that would change that?
+[01:04] HATTIE: Not really, the decision is made.
+[01:14] RHODRI: Understood. I will make sure the export is straightforward for you.
+[01:30] RHODRI: Thanks, I will confirm by email.

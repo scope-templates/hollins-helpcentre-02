@@ -1,0 +1,9 @@
+Call C1385 | support | inbound | 2026-06-18 15:48 | 4 min
+Hollins Rota: Priya Nair | Caller: Leila, Bramber Cafe
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:18] LEILA: Hi, it is Leila at Bramber Cafe. I wrote in about re: printing the rota and I have not heard anything.
+[00:37] PRIYA: Let me find it. Ticket 14241. Give me a second.
+[00:50] PRIYA: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:12] LEILA: Brilliant, thank you.
+[01:25] PRIYA: Anything else? No? Thanks for calling.

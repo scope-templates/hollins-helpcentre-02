@@ -1,0 +1,9 @@
+Call C0788 | cs check in | outbound | 2025-10-09 15:57 | 5 min
+Hollins Rota: Declan Furey | Caller: Dan, Stonebridge Dining Rooms
+
+[00:00] DECLAN: Hi Dan, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:28] DAN: We have had a few problems. Ticket 8256, publish does nothing, that one took a while.
+[00:48] DECLAN: I know, that one has come up a few times this month.
+[00:59] DAN: And we still need payroll export for the other payroll system.
+[01:13] DECLAN: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:38] DECLAN: Thanks for the time. I will send the notes over.

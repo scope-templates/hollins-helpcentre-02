@@ -1,0 +1,9 @@
+Call C0852 | cs check in | outbound | 2025-09-05 17:28 | 2 min
+Hollins Rota: Rhodri Bevan | Caller: Nadia, Kettlewick Grill
+
+[00:00] RHODRI: Hi Nadia, Rhodri here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:22] NADIA: We have had a few problems. Ticket 12172, rota will not fit on one page, that one took a while.
+[00:40] RHODRI: I know, that one has come up a few times this month.
+[00:51] NADIA: And we still need an offline mode for the app.
+[01:04] RHODRI: I will get the transfer fixed this week and chase an offline mode for the app with the product team, I will come back to you by Friday with a date.
+[01:31] RHODRI: Thanks for the time. I will send the notes over.

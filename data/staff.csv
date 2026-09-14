@@ -1,0 +1,62 @@
+staff_id,name,team,role,reports_to,hours,started_on
+S001,Priya Nair,Email desk A,lead,Marcus Hollins,weekdays 08:00-18:00,2022-10-30
+S002,Dara Vance,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2026-05-09
+S003,Sana Dunne,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2022-04-25
+S004,Pip Iqbal,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2025-12-24
+S005,Dev Grant,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2022-11-20
+S006,Imogen Yates,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2024-03-09
+S007,Maya Ellis,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2021-10-11
+S008,Xavier Bishop,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2020-09-27
+S009,Wren Parry,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2023-10-18
+S010,Owen Tanaka,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2026-04-15
+S011,Priya Evans,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2022-10-25
+S012,Cerys Reid,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2021-10-02
+S013,Mo Pryce,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2022-01-08
+S014,Aisha Ahmed,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2023-06-24
+S015,Ivy Lindqvist,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2021-09-24
+S016,Nico Fletcher,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2022-09-29
+S017,Lena Haddad,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2024-06-26
+S018,Callum Rahman,Email desk A,agent,Priya Nair,weekdays 08:00-18:00,2024-01-17
+S019,Callum Doyle,Email desk B,lead,Marcus Hollins,weekdays 08:00-18:00,2023-03-04
+S020,Gus Turner,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2024-11-25
+S021,Marcus Rossi,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2022-06-29
+S022,Petra Whitfield,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2025-06-12
+S023,Kieran Delgado,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2021-01-28
+S024,Eilidh Kaur,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2026-01-08
+S025,Lou Sato,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2023-06-05
+S026,Umar Oyelaran,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2021-04-29
+S027,Bea Lowe,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2024-08-20
+S028,Jade Marsh,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2024-12-08
+S029,Esme Varga,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2022-08-20
+S030,Jun Yilmaz,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2026-05-29
+S031,Eli Zielinski,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2020-09-30
+S032,Hana Sheridan,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2025-09-09
+S033,Chloe Jensen,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2021-08-20
+S034,Will Usher,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2025-05-02
+S035,Jonah Hollins,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2024-01-01
+S036,Hamid Patel,Email desk B,agent,Callum Doyle,weekdays 08:00-18:00,2022-07-20
+S037,Yasmin Kelly,In-app chat,lead,Marcus Hollins,weekdays 08:00-20:00,2024-01-25
+S038,Kit Walsh,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2020-09-09
+S039,Oona Brennan,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2020-09-20
+S040,Ben Cole,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2021-10-16
+S041,Abe Nair,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2021-09-06
+S042,Farah Moran,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2020-10-31
+S043,Quinn Byrne,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2024-12-22
+S044,Yara Gibson,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2023-08-29
+S045,Una Shah,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2023-09-19
+S046,Rosa Nolan,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2023-07-03
+S047,Finn Adeyemi,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2025-06-21
+S048,Amara Okonkwo,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2025-11-07
+S049,Cal Hussain,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2021-08-08
+S050,Fay Quigley,In-app chat,agent,Yasmin Kelly,weekdays 08:00-20:00,2024-04-20
+S051,Seb Webb,Evenings and weekends,lead,Marcus Hollins,"weekdays 17:00-23:00, weekends 09:00-21:00",2021-04-11
+S052,Bram Mbeki,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2026-07-05
+S053,Niamh Osei,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2022-12-06
+S054,Dot Doyle,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2022-07-05
+S055,Grace Novak,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2024-11-18
+S056,Idris Farrell,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2026-04-19
+S057,Kat Vance,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2022-04-28
+S058,Tola Dunne,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2023-11-08
+S059,Rhys Iqbal,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2023-08-02
+S060,Zach Grant,Evenings and weekends,agent,Seb Webb,"weekdays 17:00-23:00, weekends 09:00-21:00",2025-02-08
+S061,Marcus Hollins,Support,head,,whenever,2019-02-04

@@ -1,0 +1,9 @@
+Call C1388 | support | inbound | 2026-04-02 09:11 | 3 min
+Hollins Rota: Sana Dunne | Caller: Fraser, The Coalyard Leisure Centre
+
+[00:00] SANA: Hollins Rota support, Sana speaking. Just so you know, this call is recorded for training and quality.
+[00:18] FRASER: Hi, it is Fraser at The Coalyard Leisure Centre. I wrote in about query on the bill this month and I have not heard anything.
+[00:37] SANA: Let me find it. Ticket 10793. Give me a second.
+[00:50] SANA: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:08] FRASER: Brilliant, thank you.
+[01:20] SANA: Anything else? No? Thanks for calling.

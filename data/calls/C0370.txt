@@ -1,0 +1,14 @@
+Call C0370 | inbound sales | inbound | 2026-08-13 10:10 | 4 min
+Hollins Rota: Jamie Thornton | Caller: Orla, The Boathouse Grill (11 sites)
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] ORLA: Hi, we run The Boathouse Grill (11 sites), a coffee house with about 44 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:44] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] ORLA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:22] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:51] ORLA: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:08] JAMIE: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:34] ORLA: The other thing we need is an offline mode for the app. Is that there?
+[02:47] JAMIE: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:05] JAMIE: Let me put you through to somebody who can answer that properly, one moment.
+[03:40] [call ended]

@@ -1,0 +1,17 @@
+Call C0269 | inbound sales | inbound | 2026-02-19 11:32 | 4 min
+Hollins Rota: Freya Dahl | Caller: Meera, Pennyfield Leisure Centre
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] MEERA: Hi, we run Pennyfield Leisure Centre, a leisure centre with about 26 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:51] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:11] MEERA: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:27] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:54] MEERA: Does the app work in the cellar? We have no signal down there.
+[02:08] FREYA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:26] MEERA: The other thing we need is an offline mode for the app. Is that there?
+[02:40] FREYA: That one is not there yet. I would rather you knew now than found out after you signed.
+[02:56] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:13] MEERA: Go on then.
+[03:24] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:47] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:06] MEERA: Perfect, thanks.

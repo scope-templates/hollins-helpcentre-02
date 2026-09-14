@@ -1,0 +1,15 @@
+Call C0115 | inbound sales | inbound | 2026-05-08 10:12 | 5 min
+Hollins Rota: Freya Dahl | Caller: Fraser, Nettlebed Brasserie
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] FRASER: Hi, we run Nettlebed Brasserie, a brasserie with about 60 on the books, and we are doing the rota on a whiteboard in the kitchen. It is getting silly.
+[00:49] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] FRASER: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:21] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:49] FRASER: Can you bring our staff list in or do I type forty people by hand?
+[02:06] FREYA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:23] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:40] FRASER: Go on then.
+[02:51] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:11] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:32] FRASER: Perfect, thanks.

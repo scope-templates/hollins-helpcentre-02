@@ -1,0 +1,9 @@
+Call C1420 | support | inbound | 2026-08-10 17:14 | 3 min
+Hollins Rota: Dara Vance | Caller: Meera, Copperfield Bar
+
+[00:00] DARA: Hollins Rota support, Dara speaking. 
+[00:13] MEERA: Hi, it is Meera at Copperfield Bar. I wrote in about days left are wrong and I have not heard anything.
+[00:30] DARA: Let me find it. Ticket 8240. Give me a second.
+[00:41] DARA: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:05] MEERA: Brilliant, thank you.
+[01:13] DARA: Anything else? No? Thanks for calling.

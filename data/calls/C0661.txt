@@ -1,0 +1,10 @@
+Call C0661 | outbound sales | outbound | 2026-08-28 14:30 | 5 min
+Hollins Rota: Priyanka Mehta | Caller: Tom, Kettlewick Kitchen
+
+[00:00] PRIYANKA: Hi, is that Tom? It is Priyanka from Hollins Rota, you downloaded our rota template last week. Just so you know, this call is recorded for training and quality.
+[00:23] TOM: I did, I have not looked at it properly.
+[00:35] PRIYANKA: Two minutes is all I need. For a brasserie with 20 people, the thing most places get back is the Sunday night: the week goes to everyone's phone when you press publish.
+[01:00] TOM: We had StaffPilot in last month actually, they have a till integration.
+[01:17] PRIYANKA: Understood. Would it be worth a fifteen minute look at ours side by side? No charge.
+[01:35] TOM: Send me the prices and I will look.
+[01:47] PRIYANKA: Will do. Thanks for your time.

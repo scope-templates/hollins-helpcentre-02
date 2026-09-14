@@ -1,0 +1,15 @@
+Call C0514 | inbound sales | inbound | 2025-09-25 18:42 | 4 min
+Hollins Rota: Tamsin Cole | Caller: Hattie, The Boathouse Grill
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] HATTIE: Hi, we run The Boathouse Grill, a bistro with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:43] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] HATTIE: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:18] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] HATTIE: Does the app work in the cellar? We have no signal down there.
+[01:58] TAMSIN: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:19] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:36] HATTIE: Go on then.
+[02:48] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:06] TAMSIN: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:22] HATTIE: Perfect, thanks.

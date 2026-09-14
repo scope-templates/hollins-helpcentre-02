@@ -1,0 +1,14 @@
+Call C0390 | inbound sales | inbound | 2026-05-26 15:27 | 5 min
+Hollins Rota: Tamsin Cole | Caller: Hugo, The Boathouse Grill
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] HUGO: Hi, we run The Boathouse Grill, a bar with about 22 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:44] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] HUGO: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:14] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] HUGO: What does it cost for 22?
+[01:50] TAMSIN: On the team plan it is two pounds sixty per active member of staff a month, so about 57 pounds, billed monthly, no contract.
+[02:10] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:27] HUGO: Go on then.
+[02:34] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[02:52] HUGO: Perfect, thanks.

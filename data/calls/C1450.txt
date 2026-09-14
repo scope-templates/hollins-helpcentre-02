@@ -1,0 +1,9 @@
+Call C1450 | support | inbound | 2026-03-12 16:11 | 2 min
+Hollins Rota: Priya Nair | Caller: Eleri, The Drapers Rooms
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:21] ELERI: Hi, it is Eleri at The Drapers Rooms. I wrote in about re: shift still running and I have not heard anything.
+[00:41] PRIYA: Let me find it. Ticket 15385. Give me a second.
+[00:56] PRIYA: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:16] ELERI: Brilliant, thank you.
+[01:27] PRIYA: Anything else? No? Thanks for calling.

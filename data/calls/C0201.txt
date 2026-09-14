@@ -1,0 +1,14 @@
+Call C0201 | inbound sales | inbound | 2026-02-13 14:30 | 3 min
+Hollins Rota: Bella Okafor | Caller: Ines, Pennyfield Leisure Centre
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] INES: Hi, we run Pennyfield Leisure Centre, a brasserie with about 38 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:43] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] INES: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:16] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] INES: What does it cost for 38?
+[01:56] BELLA: On the team plan it is two pounds sixty per active member of staff a month, so about 98 pounds, billed monthly, no contract.
+[02:19] INES: The other thing we need is an offline mode for the app. Is that there?
+[02:37] BELLA: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[02:56] BELLA: Let me put you through to somebody who can answer that properly, one moment.
+[03:32] [call ended]

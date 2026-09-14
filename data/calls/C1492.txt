@@ -1,0 +1,9 @@
+Call C1492 | support | inbound | 2026-06-29 08:50 | 4 min
+Hollins Rota: Priya Nair | Caller: Rehan, Kingsmead
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:17] REHAN: Hi, it is Rehan at Kingsmead. I wrote in about charge i was not expecting and I have not heard anything.
+[00:37] PRIYA: Let me find it. Ticket 13797. Give me a second.
+[00:48] PRIYA: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:07] REHAN: Brilliant, thank you.
+[01:15] PRIYA: Anything else? No? Thanks for calling.

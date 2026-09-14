@@ -1,0 +1,15 @@
+Call C0020 | inbound sales | inbound | 2025-12-26 18:25 | 3 min
+Hollins Rota: Tamsin Cole | Caller: Leila, Nettlebed Brasserie
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] LEILA: Hi, we run Nettlebed Brasserie, a bar with about 60 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:46] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] LEILA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:20] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:49] LEILA: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:03] TAMSIN: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:29] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:46] LEILA: Go on then.
+[02:58] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:19] TAMSIN: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:36] LEILA: Perfect, thanks.

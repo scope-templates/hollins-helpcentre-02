@@ -1,0 +1,15 @@
+Call C0337 | inbound sales | inbound | 2025-09-17 08:47 | 5 min
+Hollins Rota: Priyanka Mehta | Caller: Hattie, The Boathouse Grill (11 sites)
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. How can I help?
+[00:14] HATTIE: Hi, we run The Boathouse Grill (11 sites), a bar with about 22 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:37] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:54] HATTIE: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:14] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] HATTIE: Can you bring our staff list in or do I type forty people by hand?
+[01:59] PRIYANKA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:18] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:38] HATTIE: Go on then.
+[02:50] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:11] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:29] HATTIE: Perfect, thanks.

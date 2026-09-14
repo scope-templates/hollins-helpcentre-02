@@ -1,0 +1,14 @@
+Call C0248 | inbound sales | inbound | 2026-04-10 08:51 | 6 min
+Hollins Rota: Bella Okafor | Caller: Marek, Saltmarsh Bistro
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] MAREK: Hi, we run Saltmarsh Bistro, a cafe with about 8 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:46] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] MAREK: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:17] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] MAREK: Can you bring our staff list in or do I type forty people by hand?
+[01:59] BELLA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:14] MAREK: We have also been talking to Shiftly. To be honest the owner's mate uses it.
+[02:31] BELLA: Fair enough. Where I would push back is the desk: you get a person within the hour, and the hours side is a lot more solid than Shiftly's.
+[02:53] MAREK: Let me think about it and come back to you.
+[03:04] BELLA: No problem, I will email you what we talked about. Speak soon.

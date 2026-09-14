@@ -1,0 +1,15 @@
+Call C0409 | inbound sales | inbound | 2025-10-24 09:53 | 6 min
+Hollins Rota: Oscar Lindgren | Caller: Orla, Pennyfield Leisure Centre
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] ORLA: Hi, we run Pennyfield Leisure Centre, a bar with about 15 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:43] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] ORLA: Two sites. I run two venues and the same people work at both.
+[01:17] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] ORLA: Can you bring our staff list in or do I type forty people by hand?
+[02:02] OSCAR: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:18] OSCAR: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:34] ORLA: Go on then.
+[02:42] OSCAR: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:01] OSCAR: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:17] ORLA: Perfect, thanks.

@@ -1,0 +1,9 @@
+Call C0557 | outbound sales | outbound | 2026-06-26 16:34 | 4 min
+Hollins Rota: Jamie Thornton | Caller: Meera, Alderfield Cafe
+
+[00:00] JAMIE: Hi, is that Meera? It is Jamie from Hollins Rota, you downloaded our rota template last week. Just so you know, this call is recorded for training and quality.
+[00:25] MEERA: Oh yes. We are still on the spreadsheet.
+[00:39] JAMIE: Two minutes is all I need. For a cafe with 28 people, the thing most places get back is the Sunday night: the week goes to everyone's phone when you press publish.
+[01:08] MEERA: We had StaffPilot in last month actually, they have a till integration.
+[01:22] JAMIE: Understood. Would it be worth a fifteen minute look at ours side by side? No charge.
+[01:39] MEERA: Go on, send me a link for Thursday.

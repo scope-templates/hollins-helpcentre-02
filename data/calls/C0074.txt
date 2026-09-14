@@ -1,0 +1,15 @@
+Call C0074 | inbound sales | inbound | 2026-01-16 12:05 | 6 min
+Hollins Rota: Oscar Lindgren | Caller: Marek, Copperfield Cafe (3 sites)
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] MAREK: Hi, we run Copperfield Cafe (3 sites), a coffee house with about 12 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:50] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] MAREK: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:24] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:53] MAREK: Does the app work in the cellar? We have no signal down there.
+[02:10] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:29] MAREK: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:48] MAREK: We have also been talking to Shiftly. To be honest it is cheaper per head.
+[03:03] OSCAR: They are fine for a single site. The two-venue thing is where we win.
+[03:17] MAREK: Let me think about it and come back to you.
+[03:32] OSCAR: No problem, I will email you what we talked about. Speak soon.

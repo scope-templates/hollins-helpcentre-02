@@ -1,0 +1,17 @@
+Call C0056 | inbound sales | inbound | 2026-05-15 08:22 | 6 min
+Hollins Rota: Oscar Lindgren | Caller: Meera, Ostler's Bar
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. How can I help?
+[00:13] MEERA: Hi, we run Ostler's Bar, a leisure centre with about 31 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:36] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:55] MEERA: Two sites. I run two venues and the same people work at both.
+[01:10] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:38] MEERA: Can you bring our staff list in or do I type forty people by hand?
+[01:54] OSCAR: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:12] MEERA: The other thing we need is a till integration. Is that there?
+[02:24] OSCAR: That one is not there yet. I would rather you knew now than found out after you signed.
+[02:40] OSCAR: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:57] MEERA: Go on then.
+[03:08] OSCAR: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:27] OSCAR: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:46] MEERA: Perfect, thanks.

@@ -1,0 +1,16 @@
+Call C0096 | inbound sales | inbound | 2026-08-28 13:27 | 6 min
+Hollins Rota: Freya Dahl | Caller: Gwen, The Malt House
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] GWEN: Hi, we run The Malt House, a tap room with about 12 on the books, and we are doing the rota on Shiftly. It is getting silly.
+[00:44] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] GWEN: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:15] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:45] GWEN: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:04] FREYA: I am not sure about that one, I would have to check and come back to you.
+[02:23] GWEN: We have also been talking to RotaHub. To be honest their app works offline.
+[02:42] FREYA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:01] GWEN: The other thing we need is payroll export for the other payroll system. Is that there?
+[03:20] FREYA: The export for your payroll system will be there by March, that is guaranteed, so sign now and you will have it before year end.
+[03:41] GWEN: Let me think about it and come back to you.
+[03:55] FREYA: No problem, I will email you what we talked about. Speak soon.

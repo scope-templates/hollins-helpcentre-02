@@ -1,0 +1,9 @@
+Call C0705 | cs check in | outbound | 2026-05-29 09:59 | 5 min
+Hollins Rota: Georgia Lamb | Caller: Hugo, Elmsall
+
+[00:00] GEORGIA: Hi Hugo, Georgia here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:28] HUGO: A few niggles with the nightly transfer, it fails and nobody tells us.
+[00:45] GEORGIA: I am sorry about that. Let me look into it while we talk.
+[01:00] HUGO: And we still need a till integration.
+[01:11] GEORGIA: I will get the transfer fixed this week and chase a till integration with the product team, I will come back to you by Friday with a date.
+[01:34] GEORGIA: Thanks for the time. I will send the notes over.

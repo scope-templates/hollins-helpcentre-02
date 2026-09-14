@@ -1,0 +1,9 @@
+Call C0981 | cs check in | outbound | 2026-01-08 13:01 | 2 min
+Hollins Rota: Declan Furey | Caller: Fraser, Corncrake Coffee House
+
+[00:00] DECLAN: Hi Fraser, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:30] FRASER: We have had a few problems. Ticket 5175, chef did not clock out, that one took a while.
+[00:47] DECLAN: I know, that one has come up a few times this month.
+[01:03] FRASER: And we still need a tronc split.
+[01:13] DECLAN: The tronc split is in the next release, definitely before your opening.
+[01:31] DECLAN: Thanks for the time. I will send the notes over.

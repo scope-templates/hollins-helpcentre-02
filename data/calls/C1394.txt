@@ -1,0 +1,9 @@
+Call C1394 | support | inbound | 2026-04-06 15:45 | 2 min
+Hollins Rota: Owen Tanaka | Caller: Fraser, Winnow Sports Centre
+
+[00:00] OWEN: Hollins Rota support, Owen speaking. Just so you know, this call is recorded for training and quality.
+[00:19] FRASER: Hi, it is Fraser at Winnow Sports Centre. I wrote in about payroll file will not go in and I have not heard anything.
+[00:42] OWEN: Let me find it. Ticket 17170. Give me a second.
+[00:53] OWEN: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:14] FRASER: Brilliant, thank you.
+[01:27] OWEN: Anything else? No? Thanks for calling.

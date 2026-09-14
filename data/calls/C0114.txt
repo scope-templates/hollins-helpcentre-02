@@ -1,0 +1,14 @@
+Call C0114 | inbound sales | inbound | 2026-04-07 09:55 | 4 min
+Hollins Rota: Freya Dahl | Caller: Yusuf, Pennyfield Leisure Centre
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] YUSUF: Hi, we run Pennyfield Leisure Centre, a leisure centre with about 18 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:46] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] YUSUF: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:15] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:41] YUSUF: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[01:56] FREYA: I am not sure about that one, I would have to check and come back to you.
+[02:12] YUSUF: The other thing we need is an offline mode for the app. Is that there?
+[02:30] FREYA: Offline mode is coming next month, I can promise you that, the dev team told me.
+[02:49] YUSUF: Let me think about it and come back to you.
+[02:59] FREYA: No problem, I will email you what we talked about. Speak soon.

@@ -1,0 +1,14 @@
+Call C0358 | inbound sales | inbound | 2025-12-01 10:31 | 5 min
+Hollins Rota: Jamie Thornton | Caller: Orla, The Wharf Kitchen
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] ORLA: Hi, we run The Wharf Kitchen, a tap room with about 26 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:48] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:06] ORLA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:21] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] ORLA: Does the app work in the cellar? We have no signal down there.
+[02:04] JAMIE: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:25] ORLA: The other thing we need is payroll export for the other payroll system. Is that there?
+[02:41] JAMIE: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[03:04] JAMIE: Let me put you through to somebody who can answer that properly, one moment.
+[03:38] [call ended]

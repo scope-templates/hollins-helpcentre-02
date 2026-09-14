@@ -1,0 +1,9 @@
+Call C0966 | cs check in | outbound | 2026-08-06 18:38 | 4 min
+Hollins Rota: Rhodri Bevan | Caller: Marek, Cobbleside Coffee House
+
+[00:00] RHODRI: Hi Marek, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] MAREK: We have had a few problems. Ticket 10799, closing for the season?, that one took a while.
+[00:48] RHODRI: I am sorry about that. Let me look into it while we talk.
+[01:05] MAREK: And we still need a tronc split.
+[01:19] RHODRI: The tronc split is in the next release, definitely before your opening.
+[01:32] RHODRI: Thanks for the time. I will send the notes over.

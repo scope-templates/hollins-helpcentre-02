@@ -1,0 +1,18 @@
+Call C0282 | inbound sales | inbound | 2026-04-10 16:11 | 5 min
+Hollins Rota: Bella Okafor | Caller: Nadia, The Boathouse Grill (6 sites)
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] NADIA: Hi, we run The Boathouse Grill (6 sites), a coffee house with about 12 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:47] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] NADIA: Two sites. I run two venues and the same people work at both.
+[01:15] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:41] NADIA: Can you bring our staff list in or do I type forty people by hand?
+[01:54] BELLA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:09] NADIA: We have also been talking to Clockwise Crew. To be honest they will import our spreadsheet for us.
+[02:25] BELLA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:47] NADIA: The other thing we need is an offline mode for the app. Is that there?
+[03:01] BELLA: Offline mode is coming next month, I can promise you that, the dev team told me.
+[03:18] BELLA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:35] NADIA: Go on then.
+[03:46] BELLA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:07] NADIA: Perfect, thanks.

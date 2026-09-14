@@ -1,0 +1,15 @@
+Call C0049 | inbound sales | inbound | 2025-12-10 17:28 | 6 min
+Hollins Rota: Freya Dahl | Caller: Dan, The Drapers Wine Bar (11 sites)
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] DAN: Hi, we run The Drapers Wine Bar (11 sites), a bar with about 12 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:49] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] DAN: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:23] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:52] DAN: Can you bring our staff list in or do I type forty people by hand?
+[02:05] FREYA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:22] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:41] DAN: Go on then.
+[02:52] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:11] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:27] DAN: Perfect, thanks.

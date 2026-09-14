@@ -1,0 +1,15 @@
+Call C0470 | inbound sales | inbound | 2026-01-13 11:36 | 5 min
+Hollins Rota: Bella Okafor | Caller: Hattie, Saltmarsh Bistro
+
+[00:00] BELLA: Thanks for calling Hollins Rota, this is Bella. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] HATTIE: Hi, we run Saltmarsh Bistro, a cafe with about 31 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:47] BELLA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] HATTIE: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:27] BELLA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:56] HATTIE: Can we try it before we pay anything?
+[02:07] BELLA: There is a fourteen day trial, but I do need a card on the account to start it.
+[02:21] HATTIE: I am not putting a card in for a trial, sorry. Everyone else lets you try it free.
+[02:36] HATTIE: We have also been talking to StaffPilot. To be honest they have a till integration.
+[02:56] BELLA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:17] HATTIE: Let me think about it and come back to you.
+[03:32] BELLA: No problem, I will email you what we talked about. Speak soon.

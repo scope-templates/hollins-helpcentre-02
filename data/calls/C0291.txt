@@ -1,0 +1,16 @@
+Call C0291 | inbound sales | inbound | 2026-01-09 17:02 | 5 min
+Hollins Rota: Ruaridh Munro | Caller: Meera, Greyfriars Tap Room
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] MEERA: Hi, we run Greyfriars Tap Room, a kitchen with about 22 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:47] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:06] MEERA: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:19] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] MEERA: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:03] RUARIDH: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:26] MEERA: We have also been talking to StaffPilot. To be honest the app works with no signal.
+[02:43] RUARIDH: They are fine for a single site. The two-venue thing is where we win.
+[02:57] RUARIDH: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:17] MEERA: Go on then.
+[03:25] RUARIDH: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:45] MEERA: Perfect, thanks.

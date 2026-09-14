@@ -1,0 +1,9 @@
+Call C0803 | cs check in | outbound | 2025-09-19 12:57 | 3 min
+Hollins Rota: Adaeze Nwosu | Caller: Isobel, The Corn Exchange Leisure Centre
+
+[00:00] ADAEZE: Hi Isobel, Adaeze here from Hollins Rota, your account manager. Just the quarterly catch-up, have you got ten minutes?
+[00:20] ISOBEL: We have had a few problems. Ticket 13112, app will not install, that one took a while.
+[00:39] ADAEZE: I know, that one has come up a few times this month.
+[00:51] ISOBEL: And we still need payroll export for the other payroll system.
+[01:04] ADAEZE: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:31] ADAEZE: Thanks for the time. I will send the notes over.

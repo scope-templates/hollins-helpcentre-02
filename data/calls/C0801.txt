@@ -1,0 +1,9 @@
+Call C0801 | cs check in | outbound | 2026-08-24 12:29 | 2 min
+Hollins Rota: Sunita Rao | Caller: Fraser, The Saltern Leisure Centre
+
+[00:00] SUNITA: Hi Fraser, Sunita here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:26] FRASER: We have had a few problems. Ticket 6704, cancelling a booking?, that one took a while.
+[00:42] SUNITA: I know, that one has come up a few times this month.
+[00:58] FRASER: And we still need payroll export for the other payroll system.
+[01:12] SUNITA: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:41] SUNITA: Thanks for the time. I will send the notes over.

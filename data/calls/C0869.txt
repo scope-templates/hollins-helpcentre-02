@@ -1,0 +1,10 @@
+Call C0869 | cs check in | outbound | 2026-07-03 12:41 | 3 min
+Hollins Rota: Sunita Rao | Caller: Nadia, Alderfield Dining Rooms
+
+[00:00] SUNITA: Hi Nadia, Sunita here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:30] NADIA: We have had a few problems. Ticket 15761, can i reuse a week at both sites, that one took a while.
+[00:51] SUNITA: I am sorry about that. Let me look into it while we talk.
+[01:05] NADIA: And we still need a till integration.
+[01:17] SUNITA: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:38] NADIA: I will be honest, StaffPilot have been in touch and it came recommended by the brewery. We renew in a few months.
+[02:01] SUNITA: I hear you. Let me come back with something on price before then.

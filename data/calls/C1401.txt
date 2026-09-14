@@ -1,0 +1,9 @@
+Call C1401 | support | inbound | 2025-12-19 12:24 | 3 min
+Hollins Rota: Pip Iqbal | Caller: Orla, The Bellhouse Bar
+
+[00:00] PIP: Hollins Rota support, Pip speaking. Just so you know, this call is recorded for training and quality.
+[00:17] ORLA: Hi, it is Orla at The Bellhouse Bar. I wrote in about hours report does not add up? and I have not heard anything.
+[00:40] PIP: Let me find it. Ticket 5707. Give me a second.
+[00:56] PIP: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:22] ORLA: Brilliant, thank you.
+[01:32] PIP: Anything else? No? Thanks for calling.

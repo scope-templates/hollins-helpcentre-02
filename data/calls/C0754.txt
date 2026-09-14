@@ -1,0 +1,9 @@
+Call C0754 | cs check in | outbound | 2026-01-22 16:46 | 2 min
+Hollins Rota: Adaeze Nwosu | Caller: Rory, Cobbleside Grill
+
+[00:00] ADAEZE: Hi Rory, Adaeze here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] RORY: A few niggles with the nightly transfer, it fails and nobody tells us.
+[00:43] ADAEZE: I am sorry about that. Let me look into it while we talk.
+[00:57] RORY: And we still need an offline mode for the app.
+[01:08] ADAEZE: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:22] ADAEZE: Thanks for the time. I will send the notes over.

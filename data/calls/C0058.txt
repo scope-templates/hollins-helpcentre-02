@@ -1,0 +1,17 @@
+Call C0058 | inbound sales | inbound | 2025-11-16 15:19 | 6 min
+Hollins Rota: Oscar Lindgren | Caller: Orla, Ostler's Bar (2 sites)
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] ORLA: Hi, we run Ostler's Bar (2 sites), a bar with about 22 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:47] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] ORLA: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:18] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:43] ORLA: What does it cost for 22?
+[01:51] OSCAR: On the team plan it is two pounds sixty per active member of staff a month, so about 57 pounds, billed monthly, no contract.
+[02:13] ORLA: We have also been talking to RotaHub. To be honest their app works offline.
+[02:28] OSCAR: They are fine for a single site. The two-venue thing is where we win.
+[02:43] OSCAR: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:04] ORLA: Go on then.
+[03:15] OSCAR: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:38] OSCAR: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:58] ORLA: Perfect, thanks.

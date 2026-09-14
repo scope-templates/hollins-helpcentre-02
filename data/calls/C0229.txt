@@ -1,0 +1,15 @@
+Call C0229 | inbound sales | inbound | 2026-08-28 08:12 | 5 min
+Hollins Rota: Jamie Thornton | Caller: Gwen, The Drapers Wine Bar
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. How can I help?
+[00:15] GWEN: Hi, we run The Drapers Wine Bar, a tap room with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:39] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:54] GWEN: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:14] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] GWEN: What does it cost for 18?
+[01:56] JAMIE: On the team plan it is two pounds sixty per active member of staff a month, so about 46 pounds, billed monthly, no contract.
+[02:19] GWEN: Per head? So it goes up every time I take someone on for the summer?
+[02:32] JAMIE: It does, but only for the months they are on the rota, and you can take them off when the season ends.
+[02:50] GWEN: Hmm. The per head thing puts me off, honestly. I will have to think about it.
+[03:07] GWEN: Let me think about it and come back to you.
+[03:17] JAMIE: No problem, I will email you what we talked about. Speak soon.

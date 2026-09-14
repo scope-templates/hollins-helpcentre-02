@@ -1,0 +1,17 @@
+Call C0011 | inbound sales | inbound | 2026-03-21 15:18 | 6 min
+Hollins Rota: Oscar Lindgren | Caller: Leila, Copperfield Cafe (10 sites)
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. How can I help?
+[00:16] LEILA: Hi, we run Copperfield Cafe (10 sites), a coffee house with about 22 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:38] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:56] LEILA: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:12] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] LEILA: Does the app work in the cellar? We have no signal down there.
+[01:56] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:15] LEILA: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:32] LEILA: We have also been talking to Clockwise Crew. To be honest they will import our spreadsheet for us.
+[02:49] OSCAR: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:12] LEILA: The other thing we need is an offline mode for the app. Is that there?
+[03:27] OSCAR: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:44] LEILA: Let me think about it and come back to you.
+[03:55] OSCAR: No problem, I will email you what we talked about. Speak soon.

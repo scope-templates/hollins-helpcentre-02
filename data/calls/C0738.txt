@@ -1,0 +1,9 @@
+Call C0738 | cs check in | outbound | 2025-09-05 17:02 | 3 min
+Hollins Rota: Declan Furey | Caller: Fraser, Kingsmead Rooms
+
+[00:00] DECLAN: Hi Fraser, Declan here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] FRASER: We have had a few problems. Ticket 15481, worked and rota'd are six apart, that one took a while.
+[00:49] DECLAN: I am sorry about that. Let me look into it while we talk.
+[01:04] FRASER: And we still need a till integration.
+[01:19] DECLAN: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:39] DECLAN: Thanks for the time. I will send the notes over.

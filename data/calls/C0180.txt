@@ -1,0 +1,17 @@
+Call C0180 | inbound sales | inbound | 2025-09-03 17:26 | 6 min
+Hollins Rota: Tamsin Cole | Caller: Yusuf, Saltmarsh Bistro (7 sites)
+
+[00:00] TAMSIN: Thanks for calling Hollins Rota, this is Tamsin. Just so you know, this call is recorded for training and quality. How can I help?
+[00:25] YUSUF: Hi, we run Saltmarsh Bistro (7 sites), a tap room with about 26 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:48] TAMSIN: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:06] YUSUF: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:22] TAMSIN: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:47] YUSUF: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:05] TAMSIN: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:32] YUSUF: We have also been talking to Shiftly. To be honest they do not charge for managers.
+[02:48] TAMSIN: They are fine for a single site. The two-venue thing is where we win.
+[03:04] TAMSIN: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:23] YUSUF: Go on then.
+[03:32] TAMSIN: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:52] TAMSIN: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:08] YUSUF: Perfect, thanks.

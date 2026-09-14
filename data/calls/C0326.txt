@@ -1,0 +1,15 @@
+Call C0326 | inbound sales | inbound | 2026-05-22 16:44 | 3 min
+Hollins Rota: Kwabena Asante | Caller: Ines, Ostler's Bar
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] INES: Hi, we run Ostler's Bar, a cafe with about 31 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:45] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] INES: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:17] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] INES: Can you bring our staff list in or do I type forty people by hand?
+[01:59] KWABENA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:18] KWABENA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:35] INES: Go on then.
+[02:46] KWABENA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:09] KWABENA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:29] INES: Perfect, thanks.

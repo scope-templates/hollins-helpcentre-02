@@ -1,0 +1,17 @@
+Call C0036 | inbound sales | inbound | 2026-08-05 13:22 | 3 min
+Hollins Rota: Priyanka Mehta | Caller: Kwame, The Drapers Wine Bar (5 sites)
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] KWAME: Hi, we run The Drapers Wine Bar (5 sites), a coffee house with about 18 on the books, and we are doing the rota on a spreadsheet. It is getting silly.
+[00:44] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:00] KWAME: Two sites. I run two venues and the same people work at both.
+[01:14] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:42] KWAME: Can you bring our staff list in or do I type forty people by hand?
+[01:55] PRIYANKA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:10] KWAME: We have also been talking to RotaHub. To be honest their app works offline.
+[02:26] PRIYANKA: They are fine for a single site. The two-venue thing is where we win.
+[02:41] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:59] KWAME: Go on then.
+[03:10] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:33] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:49] KWAME: Perfect, thanks.

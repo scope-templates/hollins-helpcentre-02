@@ -1,0 +1,9 @@
+Call C0934 | cs check in | outbound | 2026-08-18 08:17 | 3 min
+Hollins Rota: Adaeze Nwosu | Caller: Leila, Quayside Brasserie
+
+[00:00] ADAEZE: Hi Leila, Adaeze here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:29] LEILA: We have had a few problems. Ticket 7291, copying the rota across, that one took a while.
+[00:46] ADAEZE: I am sorry about that. Let me look into it while we talk.
+[00:58] LEILA: And we still need an offline mode for the app.
+[01:09] ADAEZE: Offline mode is coming next month, I can promise you that, the dev team told me.
+[01:24] ADAEZE: Thanks for the time. I will send the notes over.

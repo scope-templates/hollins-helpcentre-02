@@ -1,0 +1,9 @@
+Call C1133 | cs renewal | outbound | 2026-08-05 11:42 | 2 min
+Hollins Rota: Sunita Rao | Caller: Hugo, Redbourne Kitchen
+
+[00:00] SUNITA: Hi Hugo, it is Sunita at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 07 January, so I wanted to go through it.
+[00:30] HUGO: We are going to move to RotaHub. Their app works offline, and we have had too many transfer failures.
+[00:52] SUNITA: I am sorry to hear it. Is there anything that would change that?
+[01:05] HUGO: Not really, the decision is made.
+[01:17] SUNITA: I can promise you the transfer will be fixed by the end of the month and I can take fifteen percent off, let me send that over.
+[01:40] SUNITA: Thanks, I will confirm by email.

@@ -1,0 +1,9 @@
+Call C0850 | cs check in | outbound | 2026-05-29 16:10 | 4 min
+Hollins Rota: Rhodri Bevan | Caller: Hugo, The Sorting Office Bistro
+
+[00:00] RHODRI: Hi Hugo, Rhodri here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:28] HUGO: We have had a few problems. Ticket 10579, limiting a manager to one venue, that one took a while.
+[00:49] RHODRI: I am sorry about that. Let me look into it while we talk.
+[01:01] HUGO: And we still need a till integration.
+[01:13] RHODRI: Yes, the till integration will cover your till, one hundred percent, by the time you are set up.
+[01:30] RHODRI: Thanks for the time. I will send the notes over.

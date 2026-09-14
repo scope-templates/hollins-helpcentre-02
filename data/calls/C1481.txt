@@ -1,0 +1,8 @@
+Call C1481 | support | inbound | 2025-09-02 16:36 | 2 min
+Hollins Rota: Wren Parry | Caller: Isobel, The Buttermarket Brasserie
+
+[00:00] WREN: Hollins Rota support, Wren speaking. Just so you know, this call is recorded for training and quality.
+[00:18] ISOBEL: Hi, Isobel from The Buttermarket Brasserie. The app is asking everyone to sign in again and nobody can remember their passwords.
+[00:39] WREN: That is the new phone update. Send them to the reset link on the sign-in screen, it goes to the email on their account.
+[01:00] ISOBEL: Ok, I will tell them.
+[01:12] WREN: Anything else? No? Thanks for calling.

@@ -1,0 +1,17 @@
+Call C0293 | inbound sales | inbound | 2026-04-10 13:13 | 6 min
+Hollins Rota: Priyanka Mehta | Caller: Dan, Copperfield Cafe
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] DAN: Hi, we run Copperfield Cafe, a brasserie with about 18 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:47] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:07] DAN: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:23] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:49] DAN: Can we try it before we pay anything?
+[02:04] PRIYANKA: Fourteen days, no card, I can set it up while we are talking.
+[02:16] DAN: We have also been talking to Clockwise Crew. To be honest they will import our spreadsheet for us.
+[02:37] PRIYANKA: They are fine for a single site. The two-venue thing is where we win.
+[02:53] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:10] DAN: Go on then.
+[03:18] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:38] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:56] DAN: Perfect, thanks.

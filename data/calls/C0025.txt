@@ -1,0 +1,15 @@
+Call C0025 | inbound sales | inbound | 2026-03-20 14:20 | 4 min
+Hollins Rota: Oscar Lindgren | Caller: Tom, Greyfriars Tap Room
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] TOM: Hi, we run Greyfriars Tap Room, a cafe with about 12 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:46] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] TOM: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:23] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] TOM: Can we try it before we pay anything?
+[02:02] OSCAR: There is a fourteen day trial, but I do need a card on the account to start it.
+[02:18] TOM: I am not putting a card in for a trial, sorry. Everyone else lets you try it free.
+[02:36] TOM: We have also been talking to Clockwise Crew. To be honest the demo was slicker.
+[02:53] OSCAR: They are fine for a single site. The two-venue thing is where we win.
+[03:11] TOM: Let me think about it and come back to you.
+[03:24] OSCAR: No problem, I will email you what we talked about. Speak soon.

@@ -1,0 +1,10 @@
+Call C0595 | outbound sales | outbound | 2026-07-17 08:26 | 3 min
+Hollins Rota: Bella Okafor | Caller: Kwame, Alderfield Cafe
+
+[00:00] BELLA: Hi, is that Kwame? It is Bella from Hollins Rota, you downloaded our rota template last week. 
+[00:19] KWAME: Oh yes. We are still on the spreadsheet.
+[00:33] BELLA: Two minutes is all I need. For a tap room with 20 people, the thing most places get back is the Sunday night: the week goes to everyone's phone when you press publish.
+[01:01] KWAME: We had StaffPilot in last month actually, they have a till integration.
+[01:18] BELLA: Understood. Would it be worth a fifteen minute look at ours side by side? No charge.
+[01:37] KWAME: Send me the prices and I will look.
+[01:50] BELLA: Will do. Thanks for your time.

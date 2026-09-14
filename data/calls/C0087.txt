@@ -1,0 +1,17 @@
+Call C0087 | inbound sales | inbound | 2026-03-02 14:39 | 6 min
+Hollins Rota: Freya Dahl | Caller: Hugo, Harbourgate Rooms
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:21] HUGO: Hi, we run Harbourgate Rooms, a leisure centre with about 8 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:42] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[00:59] HUGO: Publishing the week. I do it on a Sunday night and half of them say they never saw it.
+[01:19] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] HUGO: Can you bring our staff list in or do I type forty people by hand?
+[01:59] FREYA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:16] HUGO: The other thing we need is a tronc split. Is that there?
+[02:29] FREYA: I will be straight with you, that is on the roadmap but I cannot give you a date, so do not sign on the strength of it.
+[02:52] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:08] HUGO: Go on then.
+[03:20] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:42] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:59] HUGO: Perfect, thanks.

@@ -1,0 +1,15 @@
+Call C0055 | inbound sales | inbound | 2026-07-03 15:50 | 4 min
+Hollins Rota: Jamie Thornton | Caller: Saoirse, The Boathouse Grill
+
+[00:00] JAMIE: Thanks for calling Hollins Rota, this is Jamie. Just so you know, this call is recorded for training and quality. How can I help?
+[00:20] SAOIRSE: Hi, we run The Boathouse Grill, a bistro with about 38 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:42] JAMIE: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:01] SAOIRSE: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:18] JAMIE: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:44] SAOIRSE: Can you bring our staff list in or do I type forty people by hand?
+[02:02] JAMIE: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:17] JAMIE: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[02:35] SAOIRSE: Go on then.
+[02:43] JAMIE: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:02] JAMIE: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[03:19] SAOIRSE: Perfect, thanks.

@@ -1,0 +1,9 @@
+Call C1422 | support | inbound | 2025-11-07 11:57 | 4 min
+Hollins Rota: Dev Grant | Caller: Isobel, Rowan Tree Bistro
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:18] ISOBEL: Hi, it is Isobel at Rowan Tree Bistro. I wrote in about cannot publish next week and I have not heard anything.
+[00:36] DEV: Let me find it. Ticket 7836. Give me a second.
+[00:47] DEV: I cannot see why from here. I will have to pass it to the team and somebody will ring you back today.
+[01:05] ISOBEL: You said that last time.
+[01:16] DEV: Anything else? No? Thanks for calling.

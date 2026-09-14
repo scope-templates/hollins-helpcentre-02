@@ -1,0 +1,9 @@
+Call C1150 | cs renewal | outbound | 2026-02-20 08:03 | 2 min
+Hollins Rota: Georgia Lamb | Caller: Dan, Umber Coffee House
+
+[00:00] GEORGIA: Hi Dan, it is Georgia at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 11 October, so I wanted to go through it.
+[00:25] DAN: We are going to move to RotaHub. They offered a free year, and we have had too many transfer failures.
+[00:44] GEORGIA: I am sorry to hear it. Is there anything that would change that?
+[01:01] DAN: Not really, the decision is made.
+[01:15] GEORGIA: Understood. I will make sure the export is straightforward for you.
+[01:30] GEORGIA: Thanks, I will confirm by email.

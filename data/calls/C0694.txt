@@ -1,0 +1,10 @@
+Call C0694 | outbound sales | outbound | 2026-01-16 10:55 | 2 min
+Hollins Rota: Oscar Lindgren | Caller: Hattie, Fossgate Dining Rooms
+
+[00:00] OSCAR: Hi, is that Hattie? It is Oscar from Hollins Rota, you downloaded our rota template last week. Just so you know, this call is recorded for training and quality.
+[00:28] HATTIE: Oh yes. We are still on the spreadsheet.
+[00:42] OSCAR: Two minutes is all I need. For a tap room with 20 people, the thing most places get back is the Sunday night: the week goes to everyone's phone when you press publish.
+[01:06] HATTIE: We had StaffPilot in last month actually, they have a till integration.
+[01:20] OSCAR: Understood. Would it be worth a fifteen minute look at ours side by side? No charge.
+[01:36] HATTIE: Send me the prices and I will look.
+[01:47] OSCAR: Will do. Thanks for your time.

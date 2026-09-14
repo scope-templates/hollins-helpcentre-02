@@ -1,0 +1,17 @@
+Call C0276 | inbound sales | inbound | 2026-05-15 08:27 | 6 min
+Hollins Rota: Freya Dahl | Caller: Rehan, Greyfriars Tap Room
+
+[00:00] FREYA: Thanks for calling Hollins Rota, this is Freya. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] REHAN: Hi, we run Greyfriars Tap Room, a cafe with about 38 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:49] FREYA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:04] REHAN: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:19] FREYA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:49] REHAN: Does the app work in the cellar? We have no signal down there.
+[02:03] FREYA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:26] REHAN: We have also been talking to RotaHub. To be honest it has the payroll link built in.
+[02:44] FREYA: They are fine for a single site. The two-venue thing is where we win.
+[03:01] FREYA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:22] REHAN: Go on then.
+[03:29] FREYA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[03:47] FREYA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:08] REHAN: Perfect, thanks.

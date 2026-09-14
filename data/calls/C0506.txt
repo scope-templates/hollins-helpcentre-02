@@ -1,0 +1,14 @@
+Call C0506 | inbound sales | inbound | 2026-05-06 17:40 | 6 min
+Hollins Rota: Kwabena Asante | Caller: Ines, Harbourgate Rooms
+
+[00:00] KWABENA: Thanks for calling Hollins Rota, this is Kwabena. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] INES: Hi, we run Harbourgate Rooms, a brasserie with about 60 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:48] KWABENA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:03] INES: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:20] KWABENA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:47] INES: Does the app work in the cellar? We have no signal down there.
+[02:04] KWABENA: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:26] INES: We have also been talking to RotaHub. To be honest their app works offline.
+[02:41] KWABENA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[03:03] KWABENA: Let me put you through to somebody who can answer that properly, one moment.
+[03:37] [call ended]

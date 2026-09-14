@@ -1,0 +1,17 @@
+Call C0431 | inbound sales | inbound | 2026-04-03 17:00 | 4 min
+Hollins Rota: Priyanka Mehta | Caller: Eleri, Orchard Lane Coffee House
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] ELERI: Hi, we run Orchard Lane Coffee House, a tap room with about 12 on the books, and we are doing the rota on the till's own rota thing. It is getting silly.
+[00:47] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] ELERI: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:20] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:48] ELERI: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:04] PRIYANKA: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:31] ELERI: The other thing we need is payroll export for the other payroll system. Is that there?
+[02:49] PRIYANKA: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:05] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:26] ELERI: Go on then.
+[03:37] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:00] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:17] ELERI: Perfect, thanks.

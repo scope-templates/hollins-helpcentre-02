@@ -1,0 +1,11 @@
+Call C1440 | support | inbound | 2025-10-17 11:46 | 3 min
+Hollins Rota: Dev Grant | Caller: Isobel, Sandhaven Wine Bar
+
+[00:00] DEV: Hollins Rota support, Dev speaking. 
+[00:14] ISOBEL: Hi, it is Isobel at Sandhaven Wine Bar. I wrote in about hours report does not add up and I have not heard anything.
+[00:33] DEV: Let me find it. Ticket 17393. Give me a second.
+[00:49] DEV: I cannot see why from here. I will have to pass it to the team and somebody will ring you back today.
+[01:08] ISOBEL: You said that last time.
+[01:16] ISOBEL: While I have you, can you take a card for the second venue? It is 5255 4410 0917 2231, expiry twelve twenty-seven, code 902.
+[01:36] DEV: Got that, thanks, it is on the account now.
+[01:50] DEV: Anything else? No? Thanks for calling.

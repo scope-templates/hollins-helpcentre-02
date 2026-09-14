@@ -1,0 +1,9 @@
+Call C1427 | support | inbound | 2025-10-31 13:32 | 4 min
+Hollins Rota: Maya Ellis | Caller: Kwame, Linden Sports Centre
+
+[00:00] MAYA: Hollins Rota support, Maya speaking. Just so you know, this call is recorded for training and quality.
+[00:18] KWAME: Hi, it is Kwame at Linden Sports Centre. I wrote in about location and the app and I have not heard anything.
+[00:41] MAYA: Let me find it. Ticket 7222. Give me a second.
+[00:52] MAYA: Right, I can see what happened. The transfer failed on one record that exists twice. I have merged them, it will go tonight.
+[01:14] KWAME: Brilliant, thank you.
+[01:25] MAYA: Anything else? No? Thanks for calling.

@@ -1,0 +1,9 @@
+Call C1245 | cs renewal | outbound | 2026-06-19 11:34 | 3 min
+Hollins Rota: Georgia Lamb | Caller: Kwame, Cressbrook Tap Room
+
+[00:00] GEORGIA: Hi Kwame, it is Georgia at Hollins Rota. Just so you know, this call is recorded for training and quality. Your renewal is coming up on 29 July, so I wanted to go through it.
+[00:25] KWAME: We are going to move to StaffPilot. They have a till integration, and we have had too many transfer failures.
+[00:44] GEORGIA: I am sorry to hear it. Is there anything that would change that?
+[00:58] KWAME: If the transfer was fixed and the price came down, maybe.
+[01:10] GEORGIA: I can promise you the transfer will be fixed by the end of the month and I can take fifteen percent off, let me send that over.
+[01:33] GEORGIA: Thanks, I will confirm by email.

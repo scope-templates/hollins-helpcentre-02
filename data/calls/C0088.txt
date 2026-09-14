@@ -1,0 +1,19 @@
+Call C0088 | inbound sales | inbound | 2026-07-17 18:03 | 6 min
+Hollins Rota: Priyanka Mehta | Caller: Dan, Harbourgate Rooms
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:22] DAN: Hi, we run Harbourgate Rooms, a coffee house with about 8 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:48] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] DAN: Holiday. People book time off and I have no idea who is off when I am building the week.
+[01:24] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:50] DAN: What does it cost for 8?
+[02:00] PRIYANKA: On the team plan it is two pounds sixty per active member of staff a month, so about 20 pounds, billed monthly, no contract.
+[02:20] DAN: We have also been talking to RotaHub. To be honest it has the payroll link built in.
+[02:35] PRIYANKA: I know them. Ask them how the holiday allowance works for part timers, that is where people come back to us.
+[02:54] DAN: The other thing we need is an offline mode for the app. Is that there?
+[03:07] PRIYANKA: That one is not there yet. I would rather you knew now than found out after you signed.
+[03:27] PRIYANKA: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:47] DAN: Go on then.
+[03:58] PRIYANKA: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:18] PRIYANKA: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:34] DAN: Perfect, thanks.

@@ -1,0 +1,9 @@
+Call C1435 | support | inbound | 2026-08-14 18:26 | 3 min
+Hollins Rota: Priya Evans | Caller: Rory, Pennyfield Dining Rooms
+
+[00:00] PRIYA: Hollins Rota support, Priya speaking. Just so you know, this call is recorded for training and quality.
+[00:20] RORY: Hi, it is Rory at Pennyfield Dining Rooms. I wrote in about unused days and I have not heard anything.
+[00:39] PRIYA: Let me find it. Ticket 14584. Give me a second.
+[00:51] PRIYA: Right, I can see what happened. The week had two shifts with no role, which is what the publish was waiting on. I have fixed it from here.
+[01:15] RORY: Brilliant, thank you.
+[01:25] PRIYA: Anything else? No? Thanks for calling.

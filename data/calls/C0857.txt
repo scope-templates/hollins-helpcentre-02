@@ -1,0 +1,10 @@
+Call C0857 | cs check in | outbound | 2026-06-05 18:49 | 4 min
+Hollins Rota: Sunita Rao | Caller: Hattie, Hesketh Bar
+
+[00:00] SUNITA: Hi Hattie, Sunita here from Hollins Rota, your account manager. Just so you know, this call is recorded for training and quality. Just the quarterly catch-up, have you got ten minutes?
+[00:30] HATTIE: We have had a few problems. Ticket 12730, invitation link expired, that one took a while.
+[00:48] SUNITA: I am sorry about that. Let me look into it while we talk.
+[01:02] HATTIE: And we still need payroll export for the other payroll system.
+[01:15] SUNITA: I will get the transfer fixed this week and chase payroll export for the other payroll system with the product team, I will come back to you by Friday with a date.
+[01:43] HATTIE: I will be honest, Shiftly have been in touch and they do not charge for managers. We renew in a few months.
+[02:02] SUNITA: I hear you. Let me come back with something on price before then.

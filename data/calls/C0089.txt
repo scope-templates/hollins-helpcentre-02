@@ -1,0 +1,13 @@
+Call C0089 | inbound sales | inbound | 2026-01-23 12:31 | 4 min
+Hollins Rota: Oscar Lindgren | Caller: Fraser, Orchard Lane Coffee House
+
+[00:00] OSCAR: Thanks for calling Hollins Rota, this is Oscar. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] FRASER: Hi, we run Orchard Lane Coffee House, a brasserie with about 44 on the books, and we are doing the rota on nothing, the manager just texts everyone. It is getting silly.
+[00:49] OSCAR: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] FRASER: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:22] OSCAR: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:52] FRASER: Does the app work in the cellar? We have no signal down there.
+[02:08] OSCAR: It needs a signal to clock in, so the cellar would be a problem. Some venues put the tablet by the door for that.
+[02:26] FRASER: That is a deal breaker for us I am afraid, half the shift is downstairs.
+[02:44] FRASER: Let me think about it and come back to you.
+[02:55] OSCAR: No problem, I will email you what we talked about. Speak soon.

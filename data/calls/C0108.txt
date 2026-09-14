@@ -1,0 +1,17 @@
+Call C0108 | inbound sales | inbound | 2025-10-22 16:28 | 6 min
+Hollins Rota: Ruaridh Munro | Caller: Dan, Orchard Lane Coffee House
+
+[00:00] RUARIDH: Thanks for calling Hollins Rota, this is Ruaridh. Just so you know, this call is recorded for training and quality. How can I help?
+[00:23] DAN: Hi, we run Orchard Lane Coffee House, a bistro with about 22 on the books, and we are doing the rota on paper and a group chat. It is getting silly.
+[00:48] RUARIDH: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:05] DAN: Hours. Payroll takes me a full day because I am adding up clock cards by hand.
+[01:24] RUARIDH: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:54] DAN: Does it talk to our payroll? We are on a bureau that wants a particular file.
+[02:09] RUARIDH: It sends a file with hours, rates and holiday pay, and most bureaus take it as it is. If yours wants different columns the desk sets that up for you.
+[02:32] DAN: The other thing we need is a tronc split. Is that there?
+[02:49] RUARIDH: The tronc split is in the next release, definitely before your opening.
+[03:07] RUARIDH: Shall I get you set up now? I need the venue name, your email, and a card for the account.
+[03:28] DAN: Go on then.
+[03:39] RUARIDH: I will send you a secure link for the card so I never see the number, and the account is live the moment it is in.
+[04:02] RUARIDH: You have fourteen days from today to cancel for a full refund, and I will put that in the email.
+[04:23] DAN: Perfect, thanks.

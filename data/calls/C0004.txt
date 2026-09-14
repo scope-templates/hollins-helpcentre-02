@@ -1,0 +1,14 @@
+Call C0004 | inbound sales | inbound | 2026-05-04 15:10 | 3 min
+Hollins Rota: Priyanka Mehta | Caller: Dan, Ostler's Bar
+
+[00:00] PRIYANKA: Thanks for calling Hollins Rota, this is Priyanka. Just so you know, this call is recorded for training and quality. How can I help?
+[00:24] DAN: Hi, we run Ostler's Bar, a tap room with about 31 on the books, and we are doing the rota on RotaHub. It is getting silly.
+[00:45] PRIYANKA: That is most of the people who ring us. What is the bit that hurts most at the moment?
+[01:02] DAN: Swaps. Staff swap shifts between themselves and nobody tells me.
+[01:20] PRIYANKA: Right. So for that, the rota goes out to everybody's phone when you press publish, time off sits on the same screen, and the hours go to payroll as a file at the end of the week.
+[01:46] DAN: Can you bring our staff list in or do I type forty people by hand?
+[02:02] PRIYANKA: You can import a spreadsheet of names and emails and it invites everybody in one go.
+[02:21] DAN: The other thing we need is payroll export for the other payroll system. Is that there?
+[02:40] PRIYANKA: The export for your payroll system will be there by March, that is guaranteed, so sign now and you will have it before year end.
+[03:05] PRIYANKA: Let me put you through to somebody who can answer that properly, one moment.
+[03:44] [call ended]

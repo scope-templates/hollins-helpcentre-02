@@ -1,0 +1,9 @@
+Call C1424 | support | inbound | 2026-07-10 17:11 | 4 min
+Hollins Rota: Dev Grant | Caller: Marek, Whitlow Bar
+
+[00:00] DEV: Hollins Rota support, Dev speaking. Just so you know, this call is recorded for training and quality.
+[00:19] MAREK: Hi, it is Marek at Whitlow Bar. I wrote in about wrong manager getting requests and I have not heard anything.
+[00:42] DEV: Let me find it. Ticket 9094. Give me a second.
+[00:55] DEV: Right, I can see what happened. That is a known one with the older app version. Update the app and it will sign in.
+[01:15] MAREK: Brilliant, thank you.
+[01:26] DEV: Anything else? No? Thanks for calling.
