@@ -1,0 +1,29 @@
+[project]
+name = "hollins-helpcentre"
+version = "1.4.2"
+description = "The support desk behind Hollins Rota"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.141,<1",
+    "uvicorn>=0.52,<1",
+    "pymongo>=4.10,<5",
+    "dnspython>=2.6,<3",
+    "openai>=1.60,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "httpx>=0.28,<1",
+    "pytest>=8.3,<10",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["hollins"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
